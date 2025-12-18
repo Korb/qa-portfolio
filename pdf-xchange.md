@@ -19,7 +19,7 @@
 ## 1. Critical: Search Process Hangs for Hours
 **Project/Link**: PDF-XChange Editor / [Searching among documents hangs](https://forum.pdf-xchange.com/viewtopic.php?t=43104)
 
-**Type/Status**: Performance/Stability
+**Type**: Performance/Stability
 
 **Problem**: Advanced multi-document search freezes indefinitely on specific files without error messages or user feedback.
 
@@ -52,7 +52,7 @@
 
 **Project/Link**: PDF-XChange Editor / [Removing hyphenations when saving to text](https://forum.pdf-xchange.com/viewtopic.php?t=41728)
 
-**Type/Status**: Enhancement
+**Type**: Enhancement
 
 **Problem**: When exporting PDF books to text formats, line-end hyphens from justified text remained, creating incorrect word breaks (e.g., "com-puter" instead of "computer").
 
@@ -85,7 +85,7 @@
 
 **Project/Link**: PDF-XChange Editor / [Crop Page Tool selection "crawls"](https://forum.pdf-xchange.com/viewtopic.php?t=38082)
 
-**Type/Status**: UX & Usability
+**Type**: UX & Usability
 
 **Problem**: At high zoom levels (400%+), dragging crop selection borders caused the selection to "crawl" off-target by several pixels.
 
@@ -118,7 +118,7 @@
 
 **Project/Link**: PDF-XChange Editor / [Display split lines off the page](https://forum.pdf-xchange.com/viewtopic.php?p=178885)
 
-**Type/Status**: UX & Usability
+**Type**: UX & Usability
 
 **Problem**: Page split lines (for multi-up printing) were clipped at page edges, making them barely visible on narrow pages.
 
@@ -152,7 +152,7 @@
 
 **Project/Link**: PDF-Tools / [%[FileName] placeholder doesn't work](https://forum.pdf-xchange.com/viewtopic.php?t=46421)
 
-**Type/Status**: Functionality
+**Type**: Functionality
 
 **Problem**: In batch conversion with multiple input files, the `%[FileName]` macro failed to generate unique output filenames, causing file overwrites.
 
@@ -179,7 +179,7 @@
 
 **Project/Link**: PDF-Tools / [PDF-Tools shortcuts and settings linking](https://forum.pdf-xchange.com/viewtopic.php?t=39276)
 
-**Type/Status**: Enhancement
+**Type**: Enhancement
 
 **Problem**: PDF-Tools (batch processor) had customizable Windows Explorer context menu, but configuration was scattered and unintuitive.
 
@@ -212,7 +212,7 @@
 
 **Project/Link**: PDF-XChange Editor / [Add progress bar to advanced search](https://forum.pdf-xchange.com/viewtopic.php?t=39744)
 
-**Type/Status**: UX & Usability
+**Type**: UX & Usability
 
 **Problem**: Multi-file search operations could run for 10+ hours with zero feedback, leaving users uncertain if app had frozen.
 
@@ -239,7 +239,7 @@
 
 **Project/Link**: PDF-Tools / ["Export to Word" - file not found error](https://forum.pdf-xchange.com/viewtopic.php?t=42096)
 
-**Type/Status**: Functionality
+**Type**: Functionality
 
 **Problem**: Batch export to Word failed on mixed `.doc` files (plain text KOI-8 encoding + binary Word format) with cryptic error.
 
@@ -267,7 +267,7 @@
 
 **Project/Link**: PDF-XChange Editor / [How to remove OCR languages?](https://forum.pdf-xchange.com/viewtopic.php?t=37493)
 
-**Type/Status**: Enhancement
+**Type**: Enhancement
 
 **Problem**: Once OCR languages were installed (some 50+ MB for Asian languages), they were permanent—no uninstall option existed.
 
@@ -301,7 +301,7 @@
 
 **Project/Link**: PDF-XChange Editor / [Sync OCR tools language selection](https://forum.pdf-xchange.com/viewtopic.php?t=37968)
 
-**Type/Status**: UX & Usability
+**Type**: UX & Usability
 
 **Problem**: PDF-XChange Editor has two separate OCR tools ("OCR Pages" and "OCR Image"). Language selections weren't synchronized between them, causing repeated reconfiguration.
 
