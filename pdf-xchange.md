@@ -26,7 +26,9 @@
 **Evidence**: Forum thread with community confirmation, test file provided.
 <details>
 <summary>Click to see screenshot</summary>
-![The search used the phrase "terror from the deep" in the "this exact phrase" field.](assets/screenshots/pdf-xchange_43104_1.webp)
+
+<img src="assets/screenshots/pdf-xchange_43104_1.webp" alt="The search used the phrase Terror from the Deep in the This Exact Phrase field.">
+
 </details>
 
 **How I Found It**: While testing batch search functionality across large document collections, the process hung for 8+ hours on a single file with no indication of progress or error.
@@ -36,7 +38,7 @@
 - **Business**: Users unable to complete document searches, forced to restart application
 - **Severity**: Critical - complete loss of functionality
 - **User Time Lost**: Hours of unproductive waiting
-- 
+
 **Skills Demonstrated**:
 
 - Edge case discovery through real-world usage scenarios
@@ -57,7 +59,9 @@
 **Evidence**: Before/after comparison of exported text.
 <details>
 <summary>Click to see screenshot</summary>
-![Options dialog of a desktop application showing text export settings, including checkboxes for adding page numbers and line breaks, an enabled option to insert breaks after each paragraph, a dropdown for line ending format set to Windows CR+LF, a text encoding selector set to UTF-8, and OK and Cancel buttons.](assets/screenshots/pdf-xchange_41728_1.webp)
+
+<img src="assets/screenshots/pdf-xchange_41728_1.webp" alt="Options dialog of a desktop application showing text export settings, including checkboxes for adding page numbers and line breaks, an enabled option to insert breaks after each paragraph, a dropdown for line ending format set to Windows CR+LF, a text encoding selector set to UTF-8, and OK and Cancel buttons.">
+
 </details>
 
 **How I Found It**: Exploratory testing of PDF-to-text conversion workflow for books, identified massive manual cleanup burden.
@@ -88,7 +92,9 @@
 **Evidence**: Screen recording showing pixel-level drift behavior.
 <details>
 <summary>Click to see screenshot</summary>
-![Main workspace of a PDF-XChange Editor (desktop PDF editor) showing a document open in page view, with a left sidebar of page thumbnails for navigation and reordering, a central canvas displaying the current page with rulers and zoom controls, and a top ribbon toolbar providing tools for text selection, editing, rotation, splitting pages, OCR, page extraction, and document sanitization.](assets/screenshots/pdf-xchange_38082_1.gif)
+
+<img src="assets/screenshots/pdf-xchange_38082_1.gif" alt="Main workspace of a PDF-XChange Editor (desktop PDF editor) showing a document open in page view, with a left sidebar of page thumbnails for navigation and reordering, a central canvas displaying the current page with rulers and zoom controls, and a top ribbon toolbar providing tools for text selection, editing, rotation, splitting pages, OCR, page extraction, and document sanitization.">
+
 </details>
 
 **How I Found It**: Detailed testing of crop tool at various zoom levels while working with high-resolution technical diagrams.
@@ -116,11 +122,13 @@
 
 **Problem**: Page split lines (for multi-up printing) were clipped at page edges, making them barely visible on narrow pages.
 
-**Evidence**: Screenshots showing before/after visual difference.
+**Evidence**: Screenshots showing before and suggested view of guides using the Adobe Photoshop as an example.
 <details>
 <summary>Click to see screenshot</summary>
-![Split Pages dialog of a desktop PDF editor showing controls for dividing pages by horizontal or vertical offsets, with percentage-based split positions listed on the left, options to calculate offsets from edges, page range selection, and a central preview pane displaying the page layout with adjustable rulers, zoom, and split guides.](assets/screenshots/pdf-xchange_178885_1.webp)
-![Main workspace of a raster image editor showing an extremely tall, narrow screenshot opened on a dark canvas, with rulers enabled, horizontal guide lines across the canvas, zoom and fit controls in the top bar, a vertical tools panel on the left, and layer and tool option panels on the right, demonstrating navigation and alignment while working with a long image.](assets/screenshots/pdf-xchange_178885_2.webp)
+
+<img src="assets/screenshots/pdf-xchange_178885_1.webp" alt="Split Pages dialog of a desktop PDF editor showing controls for dividing pages by horizontal or vertical offsets, with percentage-based split positions listed on the left, options to calculate offsets from edges, page range selection, and a central preview pane displaying the page layout with adjustable rulers, zoom, and split guides.">
+<img src="assets/screenshots/pdf-xchange_178885_2.webp" alt="Main workspace of a Photoshop showing an extremely tall, narrow screenshot opened on a dark canvas, with rulers enabled, horizontal guide lines across the canvas, zoom and fit controls in the top bar, a vertical tools panel on the left, and layer and tool option panels on the right, demonstrating navigation and alignment while working with a long image.">
+
 </details>
 
 **How I Found It**: Usability testing of document splitting feature with various page sizes.
@@ -178,7 +186,9 @@
 **Evidence**: Forum discussion showing evolution from concept to feature.
 <details>
 <summary>Click to see screenshot</summary>
-![File context menu in a desktop operating system showing document conversion options, with a submenu for converting a file to searchable or image-only PDF, Microsoft Word or Excel formats, other formats, or opening it in an OCR editor, demonstrating quick access to format conversion tools from the file manager.](assets/screenshots/pdf-xchange_39276_1.webp)
+
+<img src="assets/screenshots/pdf-xchange_39276_1.webp" alt="File context menu in a desktop operating system showing document conversion options, with a submenu for converting a file to searchable or image-only PDF, Microsoft Word or Excel formats, other formats, or opening it in an OCR editor, demonstrating quick access to format conversion tools from the file manager.">
+
 </details>
 
 **How I Found It**: Exploratory testing of workflow integration between PDF-Tools and Windows File Explorer.
@@ -264,8 +274,10 @@
 **Evidence**: Before: no uninstall. After: per-language removal.
 <details>
 <summary>Click to see screenshot</summary>
-![Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor titled Select items you want to download and install. Table shows Name, Local Name, Size, and State columns. Czech Čeština 1.94 MB Installed highlighted with green circle. English Installed with green circle. Most languages Not installed. Buttons Install and Close.](assets/screenshots/pdf-xchange_37493_1.webp)
-![Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor, demonstrating the resolved issue with uninstalling language packs. Title updated to Select items you want to download and install, deselect items you want to delete. Russian language entry (Русский, 8.42 MB) is selected with Uninstall... status in red; multiple installed languages checked for deletion including Finnish, Russian (Old Spelling), English, Bashkir. Total: 196 items, 155.28 MB. Buttons: Proceed and Close.](assets/screenshots/pdf-xchange_37493_2.webp)
+
+<img src="assets/screenshots/pdf-xchange_37493_1.webp" alt="Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor titled Select items you want to download and install. Table shows Name, Local Name, Size, and State columns. Czech Čeština 1.94 MB Installed highlighted with green circle. English Installed with green circle. Most languages Not installed. Buttons Install and Close.">
+<img src="assets/screenshots/pdf-xchange_37493_2.webp" alt="Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor, demonstrating the resolved issue with uninstalling language packs. Title updated to Select items you want to download and install, deselect items you want to delete. Russian language entry (Русский, 8.42 MB) is selected with Uninstall... status in red; multiple installed languages checked for deletion including Finnish, Russian (Old Spelling), English, Bashkir. Total: 196 items, 155.28 MB. Buttons: Proceed and Close.">
+
 </details>
 
 **How I Found It**: Testing OCR functionality, noticed bloated installation size with no cleanup path.
