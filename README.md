@@ -406,7 +406,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - Encouraged 70+ developers to add screenshots
 - Advocated for Per-App Language Selector in 15+ apps
 - Helped 7+ developers publish to F-Droid
-- **Added and fixed Fastlane metadata structures**, including platform-specific requirements
+- Added and fixed Fastlane metadata structures, including platform-specific requirements
 - Identified and documented F-Droid/IzzyOnDroid differences for developers
 
 ---
@@ -436,7 +436,8 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 - Developed PDF protection mechanism saving **$15,000 annually**
 - Established workflow for translators/editors, improving efficiency **40%**, reducing delays **65%**
 - Set up automated competitor price parsing
-- Created wiki with 100+ articles
+- Created wiki with 60+ articles
+- Proofreaded, edited and make layouts of 553 articles in [the corporate blog](https://stomdevice.ru/blog-dlya-stomatologov/)
 
 **Skills**: Technical documentation, content management, batch processing testing, workflow design
 
