@@ -2,7 +2,7 @@
 
 **Manual QA Engineer | Documentation Testing | Localization QA (Russian)**
 
-Quality Assurance Engineer with 5+ years of continuous testing across enterprise PDF software, mass-market messaging app (Telegram), and 380+ open source projects. **1,000+ issues filed, 90+ improvements shipped**. Specialized in exploratory testing, usability analysis, and finding edge cases that break real-world workflows.
+Quality Assurance Engineer with 5+ years of continuous testing across enterprise PDF software, mass-market messaging app (Telegram), and 380+ open source projects. **2,500+ issues filed**. Specialized in exploratory testing, usability analysis, and finding edge cases that break real-world workflows.
 
 **LinkedIn**: [Gallem](https://www.linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (Open to relocation: EU, North America, South America)
 
@@ -39,7 +39,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 
 **Statistics**:
 - **Product**: PDF-XChange Pro (PDF-XChange Editor, PDF-Tools and PDF-XChange Print Drivers)
-- **Issues Filed**: 275+ on PDF-XChange forum alone
+- **Issues Filed**: 250+ on PDF-XChange forum alone
 - **Implemented**: 79 enhancements/fixes
 - **Acceptance rate**: 69%
 - **Issue Types**: 56 Enhancements, 59 UX/Usability, 33 Functionality bugs
@@ -108,12 +108,13 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 
 ---
 ### Telegram Messenger (Community Impact)
-*5+ years, 308 issues filed on mass-market messaging app (400M+ users)*
+*5+ years, mass-market messaging app (400M+ users)*
 
 **Platform**: [bugs.telegram.org](https://bugs.telegram.org) — community suggestion platform with voting system
 
 **Statistics**:
 - **Total Issues**: 308
+- **Project**:
   - Cross-platform: 84
   - Telegram Desktop: 124
   - Telegram for Android: 100
@@ -123,8 +124,10 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
   - Layout & Design: 23
   - Functionality: 26
   - Others: 16 (Accessibility, Security, Performance, etc.)
-- **Implemented**: 11 features/fixes
+- **Implemented**: 11 features/fixes[^1]
 - **Community Validation**: Multiple suggestions with up to 90 user votes
+
+[^1]: the bugs.telegram.org platform is not always maintained up-to-date by developers. Many implemented features remain marked as "open" in the system. The 11 confirmed implementations listed above were verified through actual feature releases, not platform status updates.
 
 #### Implemented Improvements
 
@@ -134,7 +137,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - **Use Case**: Replying to specific parts of messages in discussions
 
 <details>
-<summary>Click to see screenshot</summary>
+<summary>Click to see screenshot from issue explanation</summary>
 
 ---
 <img src="assets/screenshots/Telegram_1361_1.webp" alt="Screenshot of Telegram General Questions FAQ page in light theme, illustrating reported bug where introductory welcome screen or help text fails to adapt to dark mode. Text covers app description, features like messaging, groups up to 200,000 members, encryption, and privacy options. Links to Tips Channel and blog mentioned.">
@@ -145,7 +148,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 **2. Allow Quotes to be Collapsed** ([#48496](https://bugs.telegram.org/c/48496))
 - **Type**: Enhancement  
 - **Impact**: Improved readability of long posts with multiple quotes
-- **Demonstrates**: Follow-up thinking on previous feature
+- **Demonstrates**: Thinking about further improving the previous function for special cases
 
 **3. HEVC Video Upload Support** ([#29058](https://bugs.telegram.org/c/29058))
 - **Type**: Functionality
@@ -157,15 +160,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - **Impact**: Archived chats were invisible in search, breaking user expectations
 - **Demonstrates**: Finding non-obvious workflow issues
 
-<details>
-<summary>Click to see screenshot</summary>
-
----
-<img src="assets/screenshots/Telegram_17178_1.webp" alt="Screenshot of Telegram search results in dark mode, illustrating bug where unread message indicators (checkmarks with timestamps like 15:05, 13:41) appear on read items. Results include Saved Messages at top, followed by blurred chat entries with icons. Search bar shows Search.">
-
----
-</details>
-
 **5. Video Size Limit Notifications** ([#48453](https://bugs.telegram.org/c/48453))
 - **Type**: Error Handling
 - **Impact**: Users no longer waste time uploading videos that will be rejected
@@ -173,7 +167,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 
 **6 and 7. UI Labels: "Mute" → "Notifications"** ([#19393](https://bugs.telegram.org/c/19393), [#19394](https://bugs.telegram.org/c/19394))
 - **Type**: UX & Usability (2 related issues)
-- **Impact**: Clearer terminology—"Mute" is negative action, "Notifications" is neutral settings
+- **Impact**: Clearer terminology — "Mute" is a special case, unlike "Notifications" — a general category that increments all actions combined in a submenu, including "Mute"
 - **Demonstrates**: Microcopy/terminology thinking
 
 <details>
@@ -189,8 +183,8 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 
 **8. Real-time Location Sharing Until Disabled** ([#2154](https://bugs.telegram.org/c/2154))
 - **Type**: Enhancement
-- **Impact**: Continuous location sharing for coordination scenarios (hiking, meetups)
-- **Use Case**: Real-world coordination needs
+- **Impact**: Currently, location sharing expires after maximum 8 hours, forcing manual renewal. This creates gaps in coverage and unreliable tracking for safety-critical or extended-duration scenarios. An "until turned off" option would provide seamless, continuous sharing aligned with user expectations from similar platforms.
+- **Use Case**: Search and rescue coordination, parental monitoring, family/close contacts awareness, extended outdoor activities, and elderly care
 
 <details>
 <summary>Click to see screenshot</summary>
@@ -214,14 +208,14 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 **11. "Stop and Block Bot" in Search Results** ([#3239](https://bugs.telegram.org/c/3239))
 - **Type**: UX & Usability
 - **Impact**: Simplified bot management—action available directly from search
-- **Workflow**: Reduced steps for common moderation task
+- **Workflow**: Reduced steps for cleaning task
 
 #### Top-10 by Community Votes
 *These suggestions received up to 90 votes, demonstrating understanding of widely-felt pain points*
 
 **1. Drag & Drop Chats to Folders** ([#1208](https://bugs.telegram.org/c/1208)) — **90+ votes**
 - Intuitive organization method matching user expectations from file managers
-- Currently: manual folder assignment through menus
+- Currently: manual folder assignment through main Settings menus
 
 **2. "Schedule Message" in Share Menu** ([#2717](https://bugs.telegram.org/c/2717)) — **40+ votes**
 - Extend scheduling feature to external shares, not just in-app messages
@@ -229,7 +223,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 
 **3. Send Videos as Videos, Not Documents** ([#2192](https://bugs.telegram.org/c/2192)) — **30+ votes**
 - Fix: Videos from certain sources default to "document" format
-- Impact: Proper playback preview instead of download-only
+- Impact: Proper playback preview instead of download-only (and then switching to another app to watch the video)
 
 **4. Opt-out of Link Previews** ([#3195](https://bugs.telegram.org/c/3195)) — **30+ votes**
 - User control: Disable automatic link preview fetching
@@ -237,7 +231,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 
 **5. Rename Uploaded Files** ([#1176](https://bugs.telegram.org/c/1176)) — **30+ votes**
 - Edit filenames before/after upload
-- Use case: Generic camera filenames → descriptive names
+- Use cases: Generic camera filenames → descriptive names; fixing names corrupted by Telegram's upload manager ([#1209](https://bugs.telegram.org/c/1209))
 
 <details>
 <summary>Click to see screenshots</summary>
@@ -314,8 +308,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - bugs.telegram.org is a community suggestion platform, not a traditional bug tracker
 - Acceptance rate (~3-4%) is typical for mass-market apps with high suggestion volume
 - Many suggestions remain "open" even when implemented—platform maintenance limitation
-
-*Note: the bugs.telegram.org platform is not always maintained up-to-date by developers. Many implemented features remain marked as "open" in the system. The 11 confirmed implementations listed above were verified through actual feature releases, not platform status updates.*
 
 <div align="right">
 <table><td>
@@ -488,10 +480,10 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 - **Codeberg**: [@Otto_Ball](https://codeberg.org/Otto_Ball)
 
 **Translation Profiles**:
-- Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)
-- Crowdin: @Niyah_Atkins
-
-- **Email**: available on LinkedIn
+- Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)  
+- Crowdin: @Niyah_Atkins  
+  
+**Email**: available on LinkedIn
 
 ---
 *This portfolio demonstrates 4+ years of professional-grade QA work through consistent, high-quality contributions to enterprise software, mass-market applications, and open source projects.*
