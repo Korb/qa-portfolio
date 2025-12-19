@@ -5,16 +5,16 @@
 # Top 10 Implemented Improvements
 
 ## Table of Contents
-- [1. Critical: Search Process Hangs for Hours]()
-- [2. Major Efficiency: Auto-Remove Hyphenations on Export](#-2-major-efficiency-auto-remove-hyphenations-on-export)
-- [3. Complex: "Crawling" Selection Area Bug](#-3-complex-crawling-selection-area-bug)
-- [4. Visual Improvement: Split Lines Beyond Page Edges](#-4-visual-improvement-split-lines-beyond-page-edges)
-- [5. Functionality: Broken Filename Macro in Batch Processing](#-5-functionality-broken-filename-macro-in-batch-processing)
-- [6. Feature Request: Context Menu Integration for PDF-Tools](#-6-feature-request-context-menu-integration-for-pdf-tools)
-- [7. UX: Progress Bar for Long-Running Search](#-7-ux-progress-bar-for-long-running-search)
-- [8. Batch Processing: Export to Word Bug with Mixed Files](#-8-batch-processing-export-to-word-bug-with-mixed-files)
-- [9. Feature: Remove Installed OCR Languages](#-9-feature-remove-installed-ocr-languages)
-- [10. Consistency: Sync OCR Language Selection Between Tools](#-10-consistency-sync-ocr-language-selection-between-tools)
+- [1. Critical: Search Process Hangs for Hours](#1-critical-search-process-hangs-for-hours)
+- [2. Major Efficiency: Auto-Remove Hyphenations on Export](#2-major-efficiency-auto-remove-hyphenations-on-export)
+- [3. Complex: "Crawling" Selection Area Bug](#3-complex-crawling-selection-area-bug)
+- [4. Visual Improvement: Split Lines Beyond Page Edges](#4-visual-improvement-split-lines-beyond-page-edges)
+- [5. Functionality: Broken Filename Macro in Batch Processing](#5-functionality-broken-filename-macro-in-batch-processing)
+- [6. Feature Request: Context Menu Integration for PDF-Tools](#6-feature-request-context-menu-integration-for-pdf-tools)
+- [7. UX: Progress Bar for Long-Running Search](#7-ux-progress-bar-for-long-running-search)
+- [8. Batch Processing: Export to Word Bug with Mixed Files](#8-batch-processing-export-to-word-bug-with-mixed-files)
+- [9. Feature: Remove Installed OCR Languages](#9-feature-remove-installed-ocr-languages)
+- [10. Consistency: Sync OCR Language Selection Between Tools](#10-consistency-sync-ocr-language-selection-between-tools)
 
 ## 1. Critical: Search Process Hangs for Hours
 **Project/Link**: PDF-XChange Editor / [Searching among documents hangs](https://forum.pdf-xchange.com/viewtopic.php?t=43104)
@@ -280,7 +280,7 @@
 
 **Type**: Enhancement
 
-**Problem**: Once OCR languages were installed (some 50+ MB for Asian languages), they were permanent—no uninstall option existed.
+**Problem**: Once OCR languages were installed (some 50+ MB for Asian languages), they were permanent — no uninstall option existed.
 
 **Evidence**: Before: no uninstall. After: per-language removal.
 <details>
