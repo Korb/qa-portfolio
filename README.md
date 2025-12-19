@@ -1,3 +1,14 @@
+<head>
+  <meta property="og:title" content="Andrey Lappo - QA Engineer Portfolio">
+  <meta property="og:description" content="2,500+ issues filed across enterprise, mass-market, and open source software. Manual QA | Documentation Testing | Localization QA">
+  <meta property="og:url" content="https://korb.github.io/qa-portfolio/">
+  <meta name="description" content="Quality Assurance Engineer with 5+ years testing PDF software, Telegram, and 380+ open source projects">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+</head>
+
 # Andrey Lappo — QA Engineer Portfolio
 
 **Manual QA Engineer** | **Documentation Testing** | **Localization QA (Russian)**
@@ -437,7 +448,8 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 - Established workflow for translators/editors, improving efficiency **40%**, reducing delays **65%**
 - Set up automated competitor price parsing
 - Created wiki with 60+ articles
-- Proofreaded, edited and make layouts of 553 articles in [the corporate blog](https://stomdevice.ru/blog-dlya-stomatologov/)
+- Proofread, edited, and made layouts for 553 articles in [corporate blog](https://stomdevice.ru/blog-dlya-stomatologov/)
+- Standardized 10 years of inconsistent content, improving readability and professionalism
 
 **Skills**: Technical documentation, content management, batch processing testing, workflow design
 
@@ -453,8 +465,14 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 ---
 ## Technical Skills
 
-**Operating Systems**: Windows (advanced), Android  
-**Tools**: Excel/Google Sheets (advanced formulas), Git/GitHub, SDL Trados, OCR software  
+**Operating Systems**:
+- Windows (advanced)
+- Android
+**Tools**:
+- Excel/Google Sheets (advanced formulas)
+- Git/GitHub
+- SDL Trados
+- OCR software
 **Testing Types**: Exploratory, usability, regression, localization, accessibility, cross-platform, batch processing  
 **Documentation**: Technical writing, README creation, user guides, translation  
 **Languages**: HTML, Markdown, BBCode
@@ -474,15 +492,16 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 - Localization QA Specialist (Russian)
 - Technical Writer with QA focus
 
-**Professional Links**:
-- **LinkedIn**: [Andrey Lappo](https://www.linkedin.com/in/gallem/)
-- **GitHub**: [@Korb](https://github.com/Korb)
-- **GitLab**: [@Nia_Ward](https://gitlab.com/Nia_Ward)
-- **Codeberg**: [@Otto_Ball](https://codeberg.org/Otto_Ball)
-
-**Translation Profiles**:
-- Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)  
-- Crowdin: @Niyah_Atkins  
+**Links**:
+- **Professional**
+  - LinkedIn: [Andrey Lappo](https://www.linkedin.com/in/gallem/)
+  - GitHub: [@Korb](https://github.com/Korb)
+- **Additional Repositories**
+  - GitLab: [@Nia_Ward](https://gitlab.com/Nia_Ward)
+  - Codeberg: [@Otto_Ball](https://codeberg.org/Otto_Ball)
+- **Translation Profiles**:
+  - Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)  
+  - Crowdin: @Niyah_Atkins  
   
 **Email**: available on LinkedIn
 
