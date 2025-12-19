@@ -7,7 +7,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 **LinkedIn**: [Gallem](https://www.linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (Open to relocation: EU, North America, South America)
 
 ---
-
 ## Table of Contents
 - [Testing Expertise](#testing-expertise)
 - [Featured Work](#featured-work)
@@ -21,7 +20,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - [Contact](#contact)
 
 ---
-
 ## Testing Expertise
 
 - **Manual QA Testing**: Exploratory testing, regression testing, edge case discovery
@@ -34,7 +32,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - **Long-term Product Engagement**: Sustained testing over years, deep product knowledge
 
 ---
-
 ## Featured Work
 
 ### PDF-XChange Pro (Deep Dive)
@@ -110,7 +107,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 </div>
 
 ---
-
 ### Telegram Messenger (Community Impact)
 *5+ years, 308 issues filed on mass-market messaging app (400M+ users)*
 
@@ -137,6 +133,15 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - **Impact**: Added fundamental text formatting option used daily by millions
 - **Use Case**: Replying to specific parts of messages in discussions
 
+<details>
+<summary>Click to see screenshot</summary>
+
+---
+<img src="assets/screenshots/Telegram_1361_1.webp" alt="Screenshot of Telegram General Questions FAQ page in light theme, illustrating reported bug where introductory welcome screen or help text fails to adapt to dark mode. Text covers app description, features like messaging, groups up to 200,000 members, encryption, and privacy options. Links to Tips Channel and blog mentioned.">
+
+---
+</details>
+
 **2. Allow Quotes to be Collapsed** ([#48496](https://bugs.telegram.org/c/48496))
 - **Type**: Enhancement  
 - **Impact**: Improved readability of long posts with multiple quotes
@@ -152,6 +157,15 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - **Impact**: Archived chats were invisible in search, breaking user expectations
 - **Demonstrates**: Finding non-obvious workflow issues
 
+<details>
+<summary>Click to see screenshot</summary>
+
+---
+<img src="assets/screenshots/Telegram_17178_1.webp" alt="Screenshot of Telegram search results in dark mode, illustrating bug where unread message indicators (checkmarks with timestamps like 15:05, 13:41) appear on read items. Results include Saved Messages at top, followed by blurred chat entries with icons. Search bar shows Search.">
+
+---
+</details>
+
 **5. Video Size Limit Notifications** ([#48453](https://bugs.telegram.org/c/48453))
 - **Type**: Error Handling
 - **Impact**: Users no longer waste time uploading videos that will be rejected
@@ -162,10 +176,30 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - **Impact**: Clearer terminology—"Mute" is negative action, "Notifications" is neutral settings
 - **Demonstrates**: Microcopy/terminology thinking
 
+<details>
+<summary>Click to see screenshots</summary>
+
+---
+<img src="assets/screenshots/Telegram_19393_1.webp" alt="Screenshot of Telegram channel management menu in dark mode, illustrating bug with red mute icon in submenu. Main menu options include Mute notifications, View channel info, Manage Channel, Create poll, Export chat history, Clear history, Leave channel. Submenu for mute duration: Select tone, Disable sound, Mute for 2 hours, Mute for…, Mute forever (highlighted in red).">
+͏
+<img src="assets/screenshots/Telegram_19394_1.webp" alt="Screenshot of Telegram notification mute submenu in dark mode, illustrating bug where Mute Forever option uses red text and icon for emphasis. Options listed: Disable sound, Mute for…, Customize, with Mute Forever highlighted in red at bottom. Back arrow visible at top.">
+
+---
+</details>
+
 **8. Real-time Location Sharing Until Disabled** ([#2154](https://bugs.telegram.org/c/2154))
 - **Type**: Enhancement
 - **Impact**: Continuous location sharing for coordination scenarios (hiking, meetups)
 - **Use Case**: Real-world coordination needs
+
+<details>
+<summary>Click to see screenshot</summary>
+
+---
+<img src="assets/screenshots/Telegram_2154_1.webp" alt="Screenshot of Telegram live location sharing dialog in dark mode, illustrating bug where header banner remains light blue. Prompt asks to choose duration for accurate location sharing: 15 minutes selected, 1 hour, or until turned off; with Cancel and Share buttons. Background shows map and attachment options.">
+
+---
+</details>
 
 **9. Return to Original Message After Forwarding** ([#17491](https://bugs.telegram.org/c/17491))
 - **Type**: UX & Usability
@@ -205,6 +239,17 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - Edit filenames before/after upload
 - Use case: Generic camera filenames → descriptive names
 
+<details>
+<summary>Click to see screenshots</summary>
+
+---
+<img src="assets/screenshots/Telegram_1176_1.webp" alt="Screenshot of Telegram context menu for a media item in dark mode, illustrating bug where menu background remains light gray instead of fully dark. Options listed: Reply, Copy Link, Save to downloads, Share, Forward, Pin, Rename, Edit, Delete. Partial view of colorful image in background.">
+͏
+<img src="assets/screenshots/Telegram_1176_2.webp" alt="Screenshot of Telegram channel info panel in dark mode while sending a file, illustrating context for file rename request. Visible sections: blurred description waveform, Notifications toggle on, Members with Subscribers and Administrators. Bottom shows attached file The Birds (1963).avi (744.0 MB, dated 26.01.21 at 20:55) with green checkmark.">
+
+---
+</details>
+
 **6. Add Media to Previously Sent Messages** ([#2750](https://bugs.telegram.org/c/2750)) — **20+ votes**
 - Edit message to include image/video after sending
 - Matches modern messaging expectations
@@ -221,9 +266,27 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - Filter by: "Where I'm owner/admin", "Public/Private"
 - Power user feature for managing many groups/channels
 
+<details>
+<summary>Click to see screenshot</summary>
+
+---
+<img src="assets/screenshots/Telegram_2916_1.webp" alt="Screenshot of Telegram global search interface in dark mode, illustrating reported bug where thumbnails in search results remain light or poorly contrasted. Search bar with query, filters like All chats, Public, Private unchecked, Global search results with channel icons, and Found 600 messages section visible.">
+
+---
+</details>
+
 **10. Show Folders Containing Each Chat** ([#1114](https://bugs.telegram.org/c/1114)) — **15+ votes**
 - Display which folder(s) include current chat in chat properties
 - Organization: Know where chat lives in your folder structure
+
+<details>
+<summary>Click to see screenshot</summary>
+
+---
+<img src="assets/screenshots/Telegram_1114_1.webp" alt="Screenshot of Telegram bot info panel in dark mode, illustrating incomplete theme application with light background in shared media counters (6 photos, 2 videos, 5 shared links) and some menu items. Options include Notifications toggle off, Add to Group, Delete chat, Report, Stop and block bot.">
+
+---
+</details>
 
 #### Skills Demonstrated
 
@@ -261,7 +324,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 </div>
 
 ---
-
 ### GitHub Open Source (Breadth)
 *5+ years. Demonstrating breadth: testing across 380+ repositories in last 2 years*
 
@@ -330,7 +392,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 </div>
 
 ---
-
 ## Documentation & Localization
 
 **Translation Work** (70+ apps):
@@ -346,7 +407,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - Added missing documentation sections (uninstall instructions, language support)
 
 ---
-
 ## Open Source Advocacy
 
 **F-Droid/IzzyOnDroid Ecosystem**:
@@ -358,7 +418,6 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - Identified and documented F-Droid/IzzyOnDroid differences for developers
 
 ---
-
 ## Work in Progress
 
 *100+ PDF-XChange issues currently under review—showing most notable pending cases.
@@ -374,7 +433,6 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 5. **[Context Menu Focus](https://forum.pdf-xchange.com/viewtopic.php?t=45231)**: Menu appears but items not keyboard-accessible
 
 ---
-
 ## Professional Background
 
 ### Content Manager (2021-2024)
@@ -400,7 +458,6 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 *Relevant to QA: Real-world testing under pressure, attention to detail in life-safety scenarios, field testing experience*
 
 ---
-
 ## Technical Skills
 
 **Operating Systems**: Windows (advanced), Android  
@@ -411,7 +468,6 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 **Domains**: PDF workflows, batch processing, file formats, encoding/UTF-8, maps/GIS, messaging apps  
 
 ---
-
 ## Contact
 
 **Open to**:
@@ -438,7 +494,6 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 - **Email**: available on LinkedIn
 
 ---
-
 *This portfolio demonstrates 4+ years of professional-grade QA work through consistent, high-quality contributions to enterprise software, mass-market applications, and open source projects.*
 
 <div align="right">
