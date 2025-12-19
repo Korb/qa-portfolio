@@ -1,4 +1,4 @@
-[Andrey Lappo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#-featured-work) / [PDF-XChange Pro (Deep Dive)](README.md#deep-dive-pdf-xchange-editor-2021-2025)
+[Andrey Lappo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#featured-work) / [PDF-XChange Pro (Deep Dive)](README.md#pdf-xchange-pro-deep-dive)
 
 ---
 
