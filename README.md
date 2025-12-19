@@ -1,6 +1,6 @@
 # Andrey Lappo — QA Engineer Portfolio
 
-**Manual QA Engineer | Documentation Testing | Localization QA (Russian)**
+**Manual QA Engineer** | **Documentation Testing** | **Localization QA (Russian)**
 
 Quality Assurance Engineer with 5+ years of continuous testing across enterprise PDF software, mass-market messaging app (Telegram), and 380+ open source projects. **2,500+ issues filed**. Specialized in exploratory testing, usability analysis, and finding edge cases that break real-world workflows.
 
