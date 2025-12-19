@@ -1,4 +1,15 @@
 <head>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8MYPCCRP9J"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8MYPCCRP9J');
+  </script>
+
   <meta property="og:title" content="Andrey Lappo - QA Engineer Portfolio">
   <meta property="og:description" content="2,500+ issues filed across enterprise, mass-market, and open source software. Manual QA | Documentation Testing | Localization QA">
   <meta property="og:url" content="https://korb.github.io/qa-portfolio/">
