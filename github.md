@@ -5,7 +5,7 @@
 # Top 8 Issues Across Diverse Projects
 
 ## Table of Contents
-- [1. Critical: CPU Compatibility Issue in ZX Spectrum Emulator](#1-critical-cpu-compatibility-issue-in-zx-spectrum-emulator)
+- [1. Critical: CPU Compatibility Issue in Spectral](#1-critical-cpu-compatibility-issue-in-spectral)
 - [2. Critical: Crash in RetroArch with Malformed ISOs](#2-critical-crash-in-retroarch-with-malformed-isos)
 - [3. Data Loss Prevention in HomeMedkit](#3-data-loss-prevention-in-homemedkit)
 - [4. Dark Theme Bugs in Google Docs Extension](#4-dark-theme-bugs-in-google-docs-extension)
@@ -16,9 +16,9 @@
 
 *Demonstrating breadth: exploratory testing across 380+ repositories in 2 years*
 
-## 1. Critical: CPU Compatibility Issue in ZX Spectrum Emulator
+## 1. Critical: CPU Compatibility Issue in Spectral
 
-**Project/Link**: [Spectral](https://github.com/r-lyeh/Spectral) (Sinclair ZX Spectrum emulator) / [#4 — AVX2 incompatibility](https://github.com/r-lyeh/Spectral/issues/4)
+**Project/Link**: [Spectral](https://github.com/r-lyeh/Spectral) (Sinclair ZX Spectrum retro-computer emulator) / [#4 — AVX2 incompatibility](https://github.com/r-lyeh/Spectral/issues/4)
 
 **Type**: Compatibility, Crash Bug
 
@@ -303,7 +303,6 @@
 
 <div align="right">
 <table><td>
-↥ Scroll to top
 <a href="#start-of-content">↥ Scroll to top</a>
 </td></table>
 </div>
