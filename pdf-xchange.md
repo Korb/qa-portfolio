@@ -1,6 +1,7 @@
 [Andrеy Lapрo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#featured-work) / [PDF-XChange Pro (Deep Dive)](README.md#pdf-xchange-pro-deep-dive)
 
 <hr />
+
 # Top 10 Implemented Improvements
 
 ## Table of Contents
@@ -27,9 +28,11 @@
 <summary>Click to see screenshot</summary>
 
 <hr />
+
 <img src="assets/screenshots/pdf-xchange_43104_1.webp" alt="The search used the phrase Terror from the Deep in the This Exact Phrase field.">
 
 <hr />
+
 </details>
 
 **How I Found It**: While testing batch search functionality across large document collections, the process hung for 8+ hours on a single file with no indication of progress or error.
@@ -62,9 +65,11 @@
 <summary>Click to see screenshot</summary>
 
 <hr />
+
 <img src="assets/screenshots/pdf-xchange_41728_1.webp" alt="Options dialog of a desktop application showing text export settings, including checkboxes for adding page numbers and line breaks, an enabled option to insert breaks after each paragraph, a dropdown for line ending format set to Windows CR+LF, a text encoding selector set to UTF-8, and OK and Cancel buttons.">
 
 <hr />
+
 </details>
 
 **How I Found It**: Exploratory testing of PDF-to-text conversion workflow for books, identified massive manual cleanup burden.
@@ -97,9 +102,11 @@
 <summary>Click to see screenshot</summary>
 
 <hr />
+
 <img src="assets/screenshots/pdf-xchange_38082_1.gif" alt="Main workspace of a PDF-XChange Editor (desktop PDF editor) showing a document open in page view, with a left sidebar of page thumbnails for navigation and reordering, a central canvas displaying the current page with rulers and zoom controls, and a top ribbon toolbar providing tools for text selection, editing, rotation, splitting pages, OCR, page extraction, and document sanitization.">
 
 <hr />
+
 </details>
 
 **How I Found It**: Detailed testing of crop tool at various zoom levels while working with high-resolution technical diagrams.
@@ -132,11 +139,13 @@
 <summary>Click to see screenshots</summary>
 
 <hr />
+
 <img src="assets/screenshots/pdf-xchange_178885_1.webp" alt="Split Pages dialog of a desktop PDF editor showing controls for dividing pages by horizontal or vertical offsets, with percentage-based split positions listed on the left, options to calculate offsets from edges, page range selection, and a central preview pane displaying the page layout with adjustable rulers, zoom, and split guides.">
 
 <img src="assets/screenshots/pdf-xchange_178885_2.webp" alt="Main workspace of a Photoshop showing an extremely tall, narrow screenshot opened on a dark canvas, with rulers enabled, horizontal guide lines across the canvas, zoom and fit controls in the top bar, a vertical tools panel on the left, and layer and tool option panels on the right, demonstrating navigation and alignment while working with a long image.">
 
 <hr />
+
 </details>
 
 **How I Found It**: Usability testing of document splitting feature with various page sizes.
@@ -196,9 +205,11 @@
 <summary>Click to see screenshot</summary>
 
 <hr />
+
 <img src="assets/screenshots/pdf-xchange_39276_1.webp" alt="File context menu in a desktop operating system showing document conversion options, with a submenu for converting a file to searchable or image-only PDF, Microsoft Word or Excel formats, other formats, or opening it in an OCR editor, demonstrating quick access to format conversion tools from the file manager.">
 
 <hr />
+
 </details>
 
 **How I Found It**: Exploratory testing of workflow integration between PDF-Tools and Windows File Explorer.
@@ -286,11 +297,13 @@
 <summary>Click to see screenshots</summary>
 
 <hr />
+
 <img src="assets/screenshots/pdf-xchange_37493_1.webp" alt="Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor titled Select items you want to download and install. Table shows Name, Local Name, Size, and State columns. Czech Čeština 1.94 MB Installed highlighted with green circle. English Installed with green circle. Most languages Not installed. Buttons Install and Close.">
 
 <img src="assets/screenshots/pdf-xchange_37493_2.webp" alt="Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor, demonstrating the resolved issue with uninstalling language packs. Title updated to Select items you want to download and install, deselect items you want to delete. Russian language entry (Русский, 8.42 MB) is selected with Uninstall... status in red; multiple installed languages checked for deletion including Finnish, Russian (Old Spelling), English, Bashkir. Total: 196 items, 155.28 MB. Buttons: Proceed and Close.">
 
 <hr />
+
 </details>
 
 **How I Found It**: Testing OCR functionality, noticed bloated installation size with no cleanup path.
