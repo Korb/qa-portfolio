@@ -127,7 +127,7 @@ Quality Assurance Engineer with 5+ years of continuous testing across enterprise
 - **Implemented**: 11 features/fixes[^1]
 - **Community Validation**: Multiple suggestions with up to 90 user votes
 
-[^1]: the bugs.telegram.org platform is not always maintained up-to-date by developers. Many implemented features remain marked as "open" in the system. The 11 confirmed implementations listed above were verified through actual feature releases, not platform status updates.
+[^1]: the bugs.telegram.org platform is not always maintained up-to-date by developers. Many implemented features remain marked as "open" in the system. The 11 officially confirmed implementations listed above were verified through actual feature releases.
 
 #### Implemented Improvements
 
@@ -450,6 +450,17 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 **Recognition**: 6 commendations, 4 diplomas, medal from Russian Emergencies Ministry
 
 *Relevant to QA: Real-world testing under pressure, attention to detail in life-safety scenarios, field testing experience*
+
+### Technical Proofreader (2009-2011)
+*Technical documentation for military equipment*
+
+- Proofread 800+ standard pages monthly of Russian-English-Spanish technical documentation
+- Worked with SDL Trados translation memory system
+- Specialized in military equipment manuals (security clearance required)
+
+*Note: Portfolio samples unavailable due to confidentiality*
+
+**Skills**: Technical proofreading, translation QA, SDL Trados
 
 <hr />
 ## Technical Skills
