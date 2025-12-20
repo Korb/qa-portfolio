@@ -1,6 +1,7 @@
 [Andrey Lаpрo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#featured-work) / [GitHub Open Source (2023-2025)](README.md#github-open-source-breadth)
 
 <hr />
+
 # Top 8 Issues Across Diverse Projects
 
 ## Table of Contents
@@ -114,6 +115,7 @@
 **Evidence**: 
 <details>
 <summary>Click to see screenshots</summary>
+
 <hr />
   
 <img src="assets/screenshots/GitHub_DocsAfterDark_56_1.webp" alt="Screenshot of search bar in Google Docs with DocsAfterDark extension, showing typed query 3wzweh t?usp=drive_link with Apply button, illustrating potential link insertion or parsing context in reported color bug issue. Below, a document link URL is visible.">  
@@ -124,6 +126,7 @@
 <img src="assets/screenshots/GitHub_DocsAfterDark_61_1.webp" alt="Screenshot of Google Docs toolbar in DocsAfterDark dark mode, illustrating bug where Paint format tool cursor (paint roller icon) remains light instead of inverting to dark, reducing visibility against dark background. Zoom level shows 100%, with partial ruler visible below.">  
 
 <hr />
+
 </details>
 ͏  
 **How I Found It**: Comprehensive testing of all Google Docs features with extension enabled, methodically checking every dialog, menu, and tool.
@@ -161,11 +164,13 @@
 **Evidence**: 
 <details>
 <summary>Click to see screenshot</summary>
+
 <hr />
 
 <img src="assets/screenshots/GitHub_Locus_108_1.webp" alt="Screenshot of Locus app map in dark mode, illustrating low visibility of blue route line and markers against dark background. Thick blue path curves across roads, ending at red destination marker, with circled thin blue segments and endpoint highlighting poor contrast. Sidebar shows View Details label.">
 
 <hr />
+
 </details>
 ͏  
 **How I Found It**: Real-world testing during search & rescue scenarios. Identified critical gaps for wilderness use.
@@ -199,11 +204,13 @@
 **Evidence**: 
 <details>
 <summary>Click to see screenshot</summary>
+
 <hr />
 
 <img src="assets/screenshots/GitHub_Unison_959_1.webp" alt="Screenshot of Unison file synchronizer GUI on Windows, illustrating bug where some comparison result column headers appear garbled or unreadable (shown as question marks under Action). Rows list multiple props entries with paths, under columns including ToBaN…, Action, Status, and Path. Toolbar options: Left to Right, Skip, Right to Left, Merge, Diff, Details, Go.">
 
 <hr />
+
 </details>
 ͏  
 **How I Found It**: Testing file synchronization with Russian filenames, observed corruption and sync failures.
@@ -237,11 +244,13 @@
 **Evidence**: 
 <details>
 <summary>Click to see screenshot</summary>
+
 <hr />
 
 <img src="assets/screenshots/GitHub_StreetComplete_6562_1.webp" alt="Screenshot of StreetComplete app map in dark theme, side-by-side comparison illustrating poor visibility of off-screen location indicators. Both views show red-outlined roads with home icons pinned; left has faint user location arrow, right shows improved contrast version for the same area. Scale bar indicates 50 yd / 50 m, with zoom and compass controls visible.">
 
 <hr />
+
 </details>
 ͏  
 **How I Found It**: Field testing with dark theme enabled, couldn't tell which direction I was facing while walking.
@@ -275,11 +284,13 @@
 **Evidence**: 
 <details>
 <summary>Click to see screenshot</summary>
+
 <hr />
 
 <img src="assets/screenshots/GitHub_FacilMap_312_1.webp" alt="Screenshot of FacilMap mobile interface on Android, illustrating issue with missing zoom level and scale bar. Map view shows a road segment marked at 30 km without visible ruler, status bar displays time 16:27, LTE2 connection at 0.84 KB/s, and battery at 53%. Menu button in bottom right.">
 
 <hr />
+
 </details>
 ͏  
 **How I Found It**: Added map marker, looked completely wrong. Methodically disabled browser settings until found culprit.
