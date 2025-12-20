@@ -1,6 +1,6 @@
-[Andrey Lappo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#featured-work) / [GitHub Open Source (2023-2025)](README.md#github-open-source-breadth)
+[Andrey Lаpрo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#featured-work) / [GitHub Open Source (2023-2025)](README.md#github-open-source-breadth)
 
----
+<hr />
 # Top 8 Issues Across Diverse Projects
 
 ## Table of Contents
