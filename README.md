@@ -1,3 +1,8 @@
+---
+title: "Andrey Lappo - QA Engineer Portfolio"
+description: "2,500+ issues filed. Manual QA | Documentation Testing | Localization QA"
+---
+
 # Andrеy Lаppo — QA Engineer Portfolio
 
 **Manual QA Engineer** | **Documentation Testing** | **Localization QA (Russian)**
