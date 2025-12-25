@@ -1,5 +1,5 @@
 ---
-title: "PDF-XChange: Top 10 Cases | Andrey Lappo - QA Engineer Portfolio"
+title: "PDF-XChange: Top 10 Cases &#124; Andrey Lappo - QA Engineer Portfolio"
 description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementations"
 ---
 
