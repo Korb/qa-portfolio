@@ -1,5 +1,5 @@
 ---
-title: 'GitHub: Top 8 Cases | Andrey Lappo — QA Engineer Portfolio'
+title: 'GitHub: Top 8 Cases ǀ Andrey Lappo — QA Engineer Portfolio'
 description: "Breadth: 380+ repositories tested, diverse projects"
 ---
 
