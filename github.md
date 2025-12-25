@@ -1,3 +1,8 @@
+---
+title: `GitHub: Top 8 Cases | Andrey Lappo — QA Engineer Portfolio`
+description: "Breadth: 380+ repositories tested, diverse projects"
+---
+
 [Andrey Lаpрo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#featured-work) / [GitHub Open Source (2023-2025)](README.md#github-open-source-breadth)
 
 <hr />
