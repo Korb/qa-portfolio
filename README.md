@@ -1,5 +1,5 @@
 ---
-title: `Andrey Lappo — QA Engineer Portfolio`
+title: 'Andrey Lappo — QA Engineer Portfolio'
 description: "2,500+ issues filed. Manual QA | Documentation Testing | Localization QA"
 ---
 
