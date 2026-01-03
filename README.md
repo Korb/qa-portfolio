@@ -342,7 +342,7 @@ hr />
 *5+ years. Demonstrating breadth: testing across 380+ repositories in last 2 years*
 
 **Statistics**:
-- **2025**: 846 contributions (380 repos) — 80% Issues, 10% PRs, 10% Commits
+- **2025**: 900 contributions (368 repos) — 75% Issues, 9% PRs, 15% Commits, 1% Code review
 - **2024**: 578 contributions (305 repos)
 - **2023**: 169 contributions (113 repos)
 - **Total**: 1,191 contributions across diverse projects
