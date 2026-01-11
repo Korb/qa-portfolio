@@ -39,7 +39,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <hr />
 
 </details>
-
+͏
 **How I Found It**: While testing batch search functionality across large document collections, the process hung for 8+ hours on a single file with no indication of progress or error.
 
 **Impact**:
