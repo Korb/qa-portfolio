@@ -3,7 +3,7 @@ title: 'PDF-XChange: Top 10 Cases ǀ Andrey Lappo — QA Engineer Portfolio'
 description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementations"
 ---
 
-[Andrеy Lapрo — QA Engineer Portfolio](README.md) / [Featured Work](README.md#featured-work) / [PDF-XChange Pro (Deep Dive)](README.md#pdf-xchange-pro-deep-dive)
+[Andrеy Lapрo — QA Engineer Portfolio](https://korb.github.io/qa-portfolio) / [Featured Work](https://korb.github.io/qa-portfolio#featured-work) / [PDF-XChange Pro (Deep Dive)](https://korb.github.io/qa-portfolio#pdf-xchange-pro-deep-dive)
 
 <hr />
 
