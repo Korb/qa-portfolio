@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://korb.github.io/qa-portfolio/sitemap.xml
