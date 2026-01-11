@@ -230,7 +230,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 - Internationalization (i18n) testing
 - Character encoding knowledge
-- Cross-platform testing (Windows/Linux)
+- Cross-platform testing (Windows)
 - Test data with diverse character sets
 - Localization awareness (Cyrillic)
 
