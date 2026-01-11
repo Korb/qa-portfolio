@@ -344,7 +344,7 @@ hr />
 
 #### Top 8 Issues Across Diverse Projects
 
-[See detailed case studies](github.md)
+[See detailed case studies](github)
 
 #### Summary Statistics
 - **Total GitHub Contributions**: 1,191 (380 repos in 2024-2025 alone)
@@ -367,11 +367,11 @@ hr />
    - Users losing medication data silently
    - *Skills*: Workflow analysis, form validation UX
 
-4. **[DocsAfterDark: Dark Theme Bugs](https://github.com/waymondrang/docsafterdark)** (6 visual bugs)
+4. **[DocsAfterDark: Dark Theme Bugs](https://github.com/waymondrang/docsafterdark/issues?q=is%3Aissue%20author%3Akorb%20state%3Aclosed)** (6 visual bugs)
    - Invisible checkmarks, unreadable text, cursor issues
    - *Skills*: Systematic UI testing, accessibility/contrast
 
-5. **[Locus: Location Features](https://github.com/Myzel394/locus)** (3 feature requests, all implemented)
+5. **[Locus: Location Features](https://github.com/Myzel394/locus/issues?q=is%3Aissue%20author%3Akorb%20state%3Aclosed)** (many feature requests, all implemented)
    - Real SAR scenarios: own track display, compass, offline buffering
    - *Skills*: Field testing, safety-critical apps
 
@@ -408,7 +408,11 @@ hr />
 - **Scope**: Full applications (mobile, desktop, device firmware), app metadata (F-Droid/IzzyOnDroid), UI strings, changelogs, feature descriptions, help documentation
 - **Platforms**: Weblate, Crowdin, GitHub
 - **Languages**: Russian, English
-- **Example**: [Obtainium PR](https://github.com/ImranR98/Obtainium/pull/2628) with formatting improvements
+- **Examples**:
+  - The [Healthy Battery Charging](https://github.com/vbresan/HealthyBatteryCharging) app has been fully translated into Russian.
+  - The translation of the [SCEE](https://github.com/Helium314/SCEE) application into Russian has been completed (131 of 648 strings)
+  - The translation of the [MediTrak](https://github.com/AdamGuidarini/MediTrak) app into Russian has been completed (85 of 222 strings)
+  - [Obtainium PR](https://github.com/ImranR98/Obtainium/pull/2628) with formatting improvements
 
 **README Improvements** (100+):
 - Added screenshots: 15+ projects
