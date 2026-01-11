@@ -349,7 +349,7 @@ hr />
 #### Summary Statistics
 - **Total GitHub Contributions**: 1,191 (380 repos in 2024-2025 alone)
 - **Types**: Crash bugs, UI/UX issues, localization, documentation, compatibility
-- **Platforms**: Desktop (Windows/Linux), Mobile (Android), Web, Browser Extensions
+- **Platforms**: Desktop (Windows), Mobile (Android), Web, Browser Extensions
 - **Skills**: Exploratory testing, cross-platform, i18n, accessibility, real-world scenarios
 - **Approach**: Systematic testing, diverse test data, field testing, edge case discovery
 
