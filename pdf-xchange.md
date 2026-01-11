@@ -76,7 +76,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <hr />
 
 </details>
-
+<p></p>
 **How I Found It**: Exploratory testing of PDF-to-text conversion workflow for books, identified massive manual cleanup burden.
 
 **Impact**:
@@ -113,7 +113,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <hr />
 
 </details>
-
+<p></p>
 **How I Found It**: Detailed testing of crop tool at various zoom levels while working with high-resolution technical diagrams.
 
 **Impact**: 
@@ -152,7 +152,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <hr />
 
 </details>
-
+<p></p>
 **How I Found It**: Usability testing of document splitting feature with various page sizes.
 
 **Impact**: 
@@ -216,7 +216,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <hr />
 
 </details>
-
+<p></p>
 **How I Found It**: Exploratory testing of workflow integration between PDF-Tools and Windows File Explorer.
 
 **Impact**: 
@@ -310,7 +310,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <hr />
 
 </details>
-
+<p></p>
 **How I Found It**: Testing OCR functionality, noticed bloated installation size with no cleanup path.
 
 **Impact**: 
