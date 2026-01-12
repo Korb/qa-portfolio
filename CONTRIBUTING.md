@@ -50,7 +50,7 @@ People with diverse backgrounds and cross-domain expertise bring unique perspect
 This isn't just theory. My multipotentiality comes from three distinct professional foundations:
 
 **Making the world more usable** (10+ years)  
-From Foursquare to OpenStreetMap to PDF-XChange to 380+ GitHub projects—the driving force has always been the same: "People use this every day, spending more time than they should on simple tasks. I see how it could be better. Why not fix it?" Not just *can* improve things, but *can't not* improve them when the path is clear.
+From Foursquare to OpenStreetMap to PDF-XChange to 880+ GitHub projects—the driving force has always been the same: "People use this every day, spending more time than they should on simple tasks. I see how it could be better. Why not fix it?" Not just *can* improve things, but *can't not* improve them when the path is clear.
 
 **Emergency services professionalism** (8 years)  
 Professional rescuer, firefighter, diver. Car accidents, structural collapses, wilderness emergencies. Every situation is unique. Decisions carry high risk. Data is always incomplete. Instructions matter. Personal responsibility is absolute. This experience fundamentally shaped how I approach testing: systematic thinking under pressure, attention to detail when it counts, and understanding that "good enough" isn't good enough when real people depend on your work.
@@ -72,7 +72,7 @@ For many, these advantages are obvious. What's less obvious is that they're spec
 
 **Value depth AND breadth**
 
-4+ years deep-diving into PDF-XChange + 5+ years exploring 380+ open source projects = someone who can both specialize intensely and adapt rapidly.
+4+ years deep-diving into PDF-XChange + 5+ years exploring 880+ open source projects = someone who can both specialize intensely and adapt rapidly.
 
 **Appreciate systematic thinking**
 
@@ -80,7 +80,7 @@ For many, these advantages are obvious. What's less obvious is that they're spec
 
 **Recognize real-world testing experience**
 
-From SAR operations (literally life-critical) to managing 50,000+ product documentation to field-testing OSM mapping tools—I test like an actual user, not just a checklist.
+From SAR operations (literally life-critical) to managing 50,000+ product documentation (1000+ brands, 500,000+ files) to field-testing OSM mapping tools—I test like an actual user, not just a checklist.
 
 ## Contribution Guidelines (The Employment Version)
 
@@ -113,8 +113,8 @@ If your job offer leads to employment, expect:
 2. **Documentation improvements**: Whether it's internal wikis or public docs, they'll get better
 3. **Long-term engagement**: I don't job-hop—I dig deep (4+ years at PDF-XChange, 8 years in emergency services)
 4. **Portfolio updates**: This repository will get new case studies showing our work together
-5. **Public recognition**: Successful contributors will be featured in the README with thanks and appropriate attribution—consider it professional visibility for your company
-6. **Potential real FOSS contributions**: If your company has open source projects, I'll improve them too
+5. **Public recognition**: Successful contributors will be featured in the `README.md` with thanks and appropriate attribution—consider it professional visibility for your company
+6. **Potential real FOSS contributions**: If your company has open source projects, I'll improve them too (*it will be very difficult for me to refrain from doing so*)
 
 ## Code of Conduct
 
@@ -150,9 +150,10 @@ It means I can:
 - Improve documentation while testing it (Technical Writer background)
 - Think about UX while filing bugs (Content Manager experience)
 - Test under pressure (SAR operations taught me that)
-- Connect patterns across different domains (380+ projects tested)
+- Connect patterns across different domains (2,500+ projects tested)
 
 The downside? I might occasionally go down rabbit holes. The upside? Those rabbit holes usually lead to finding the root cause of entire categories of bugs.
+There's a humorous expression in Russian: `Kotelochek, ne vari!` (literally, "pot, don't boil it!"), ~"Stop, stop, you're spoiling me!" We may have to face this and be prepared for it.
 
 ## Recognition
 
@@ -167,7 +168,7 @@ Whichever category you're in, I appreciate you being here.
 
 This portfolio is **not open source** in the traditional sense—you can't fork my work history. But the *spirit* of open source—transparency, sharing knowledge, continuous improvement—absolutely applies.
 
-Viewing this repository, learning from the case studies, and getting inspired for your own QA work? Go for it. Just don't clone my career.
+Viewing this repository, learning from the case studies, and getting inspired for your own QA work? Go for it. Today you learned something from me. Tomorrow it will be my turn to learn something from you.
 
 ---
 
