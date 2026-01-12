@@ -4,7 +4,7 @@
 
 Quality Assurance Engineer with 5+ years of continuous testing across enterprise PDF software, mass-market messaging app (Telegram), and 380+ open source projects. **2,500+ issues filed**. Specialized in exploratory testing, usability analysis, and finding edge cases that break real-world workflows.
 
-**LinkedIn**: [Gallem](https://www.linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (Open to relocation: EU, North America, South America)
+**LinkedIn**: [Gallem](https://www.linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (~~Open to relocation: EU, North America, South America~~)
 
 <hr />
 
