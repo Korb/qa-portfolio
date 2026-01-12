@@ -31,7 +31,7 @@ That's right. The only pull requests this repository accepts are employment offe
 **Location preferences**:
 - **On-site/Hybrid**: Saint Petersburg, Russia
 - **Remote**: Worldwide
-- **Willing to relocate**: European Union, North America, South America
+- ~~**Willing to relocate**: European Union, North America, South America~~
 
 **Contract types**:
 - Full-time
