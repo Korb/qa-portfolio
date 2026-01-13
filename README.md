@@ -456,8 +456,8 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 *Medical equipment e-commerce platform*
 
 **Key Achievements**:
-- Created documentation management system for **50,000+ products** from 1,200+ manufacturers
-- Processed **100,000+ documents**: digitization, OCR, metadata, deduplication
+- Created documentation management system for **50,000+ products** / 1200+ brands
+- Processed **500,000+ documents**: digitization, OCR, metadata, deduplication
 - Developed PDF protection mechanism saving **$15,000 annually**
 - Established workflow for translators/editors, improving efficiency **40%**, reducing delays **65%**
 - Set up automated competitor price parsing
