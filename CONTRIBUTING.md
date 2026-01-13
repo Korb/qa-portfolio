@@ -80,7 +80,7 @@ For many, these advantages are obvious. What's less obvious is that they're spec
 
 **Recognize real-world testing experience**
 
-From SAR operations (literally life-critical) to managing 50,000+ product documentation (1000+ brands, 500,000+ files) to field-testing OSM mapping tools—I test like an actual user, not just a checklist.
+From SAR operations (literally life-critical) to managing 50,000+ product documentation (1200+ brands, 500,000+ files) to field-testing OSM mapping tools—I test like an actual user, not just a checklist.
 
 ## Contribution Guidelines (The Employment Version)
 
