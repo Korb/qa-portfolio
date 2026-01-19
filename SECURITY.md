@@ -85,7 +85,7 @@ Or just open a Pull Request with the fix. I'll review and merge if appropriate.
 
 - **Company names**: Generally fine (I worked there publicly), unless paired with confidential details
 - **Product names**: Fine for released products, problematic for unreleased/confidential projects
-- **Statistics**: Public data (e.g., "2,500+ issues filed") is fine. This is open data, verified through statistics interfaces, API requests, or manual verification. If you would like [to contribute](https://github.com/Korb/qa-portfolio/blob/main/CONTRIBUTING.md) to this repository, I will provide you with all information support to confirm the information stated.
+- **Statistics**: Public data (e.g., "2,500+ issues filed") is fine. This is open data, verified through statistics interfaces, API requests, or manual verification. If you would like [to contribute](https://github.com/Korb/qa-portfolio?tab=contributing-ov-file) to this repository, I will provide you with all information support to confirm the information stated.
 
 **When in doubt**: Ask yourself, "Would this harm the company, individual, or my professional reputation if it became widely known?" If yes → report. If no → probably fine, but you can still ask.
 
