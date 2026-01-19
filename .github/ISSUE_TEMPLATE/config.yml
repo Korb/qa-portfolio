@@ -1,13 +1,13 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💼 Job Offer / Employment Opportunity
+  - name: Job Offer / Employment Opportunity
     url: https://www.linkedin.com/in/gallem/
     about: The primary way to "contribute" to this portfolio is to hire me. Reach out via LinkedIn to discuss QA Engineer positions.
   
-  - name: 🐛 Report a Bug (Typo, Broken Link, etc.)
+  - name: Report a Bug (Typo, Broken Link, etc.)
     url: https://github.com/Korb/qa-portfolio/issues/new?template=bug_report.md
     about: Found a typo, broken link, or factual error? Report it here.
   
-  - name: 🔒 Security Concern (Confidential Data Exposure)
+  - name: Security Concern (Confidential Data Exposure)
     url: https://www.linkedin.com/in/gallem/
     about: If you found accidentally exposed confidential information, please contact me privately via LinkedIn DM.
