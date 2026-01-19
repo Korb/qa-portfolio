@@ -26,6 +26,6 @@ assignees: Korb
 
 <!-- Any other information that might be helpful -->
 
-<!-- **Note**: This template is for reporting issues with the *portfolio itself* (typos, broken links, inaccuracies).
-For **job opportunities**, please reach out via [LinkedIn](https://www.linkedin.com/in/gallem/).
-For **security concerns** (confidential data exposure), please contact me privately via LinkedIn DM. -->
+<!-- Note: This template is for reporting issues with the portfolio itself (typos, broken links, inaccuracies).
+For Job Opportunities, please reach out via LinkedIn — https://www.linkedin.com/in/gallem
+For Security Concerns (confidential data exposure), please contact me privately via LinkedIn DM. -->
