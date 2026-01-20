@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drive.google.com/file/d/19PZZNX3QCUPpP67cdztPV-wirkJnu0LH/view
+Sitemap: https://korb.github.io/qa-portfolio/sitemap.xml
