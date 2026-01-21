@@ -20,7 +20,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - [Professional Background](#professional-background)
 - [Contact](#contact)
 
-<hr />
+---
 
 ## Testing Expertise
 
