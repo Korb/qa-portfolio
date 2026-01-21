@@ -1,5 +1,23 @@
 # Security Policy
 
+## Table of Contents
+- [Wait, Security Policy for a Portfolio?](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#wait-security-policy-for-a-portfolio)
+- [What Actually Needs Protecting](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#wait-security-policy-for-a-portfolio)
+  - [1. Commercial Confidentiality](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#1-commercial-confidentiality)
+  - [2. Personal Data](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#2-personal-data)
+  - [3. Misattribution](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#3-misattribution)
+  - [4. Broken External References](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#4-broken-external-references)
+  - [5. Outdated or Inaccurate Information](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#5-outdated-or-inaccurate-information)
+- [How to Report Security Issues](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#how-to-report-security-issues)
+  - [For Actual Sensitive Data (High Priority)](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#for-actual-sensitive-data-high-priority)
+  - [For Minor Issues (Lower Priority)](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#for-minor-issues-lower-priority)
+- [What's NOT a Security Issue](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#whats-not-a-security-issue)
+  - [These are fine (please don't report)](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#these-are-fine-please-dont-report)
+  - [Gray areas](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#gray-areas)
+- [Commitment](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#commitment)
+- [Questions?](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#questions)
+
+---
 ## Wait, Security Policy for a Portfolio?
 
 Yes, I know this seems odd. There's no code to exploit here, no servers to hack, no databases to inject into.
