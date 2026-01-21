@@ -33,13 +33,13 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 **How I Found It**: Downloaded new emulator release, immediate crash on my test system. Researched CPU instruction sets, identified AVX2 as likely culprit.
 
-**Impact**: 
+**Impact**:
 
 - **Severity**: Critical — complete inability to run on entire CPU generations
 - **User Base**: Excluded users with CPUs older than 2013-2014
 - **Platform**: Windows desktop application
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Hardware compatibility testing
 - CPU instruction set knowledge
@@ -66,7 +66,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 - **Data Safety**: Potential loss of unsaved progress
 - **Use Case**: Blocked homebrew/demo scene users
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Edge case file format testing
 - Crash reproduction with specific test cases
@@ -87,53 +87,53 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 **How I Found It**: Workflow testing—filling forms, testing navigation patterns. Realized data silently discarded.
 
-**Impact**: 
+**Impact**:
 
 - **Severity**: High — silent data loss
 - **User Frustration**: Re-entering same medication repeatedly
 - **Trust**: Users questioning if app is saving anything
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - User workflow analysis
 - Data loss scenario identification
 - Form validation UX testing
-- Critical thinking: "what if user doesn't notice X?"
+- Critical thinking: “what if user doesn't notice X?”
 
 **Resolution**: Added save confirmation prompt and clearer validation feedback.
 
 ## 4. Dark Theme Bugs in Google Docs Extension
 
-**Project/Link**: [DocsAfterDark](https://github.com/waymondrang/docsafterdark) (dark theme for Google Docs) / [#56](https://github.com/waymondrang/docsafterdark/issues/56), [#57](https://github.com/waymondrang/docsafterdark/issues/57), [#58-60](https://github.com/waymondrang/docsafterdark/issues/58), [#61](https://github.com/waymondrang/docsafterdark/issues/61)  
+**Project/Link**: [DocsAfterDark](https://github.com/waymondrang/docsafterdark) (dark theme for Google Docs) / [#56](https://github.com/waymondrang/docsafterdark/issues/56), [#57](https://github.com/waymondrang/docsafterdark/issues/57), [#58-60](https://github.com/waymondrang/docsafterdark/issues/58), [#61](https://github.com/waymondrang/docsafterdark/issues/61)
 
 **Type**: Visual / Accessibility Bugs
 
 **Status**: All Fixed
 
-**Problem**: 
+**Problem**:
 
 - Light text on light background (unreadable)
 - Checkmarks invisible in dark theme
 - Cursor barely visible in certain tools
 - Multiple dialogs not inverted correctly
 
-**Evidence**: 
+**Evidence**:
 <details>
 <summary>Click to see screenshots</summary>
 
 <hr />
-  
-<img src="assets/screenshots/GitHub_DocsAfterDark_56_1.webp" alt="Screenshot of search bar in Google Docs with DocsAfterDark extension, showing typed query 3wzweh t?usp=drive_link with Apply button, illustrating potential link insertion or parsing context in reported color bug issue. Below, a document link URL is visible.">  
-<img src="assets/screenshots/GitHub_DocsAfterDark_57_1.webp" alt="Screenshot of Google Docs File menu with Language submenu open in DocsAfterDark extension dark mode, highlighting bug where no checkmark appears next to current document language (Русский selected in list but unmarked). Menu options include Türkçe, Беларуская, Български, Қазақ, Монгол, Русский, Српски, Українська, Ελληνικά, and others">  
-<img src="assets/screenshots/GitHub_DocsAfterDark_58_1.webp" alt="Screenshot of Google Docs Document details panel in DocsAfterDark dark mode, illustrating bug where panel background remains white instead of inverted to dark. Fields shown: Location with folder icon and G, Owner: me, Modified: 09:47 by me, Created: 18 Jun 2020.">  
-<img src="assets/screenshots/GitHub_DocsAfterDark_59_1.webp" alt="Screenshot of Google Docs Preferences dialog in DocsAfterDark extension, illustrating bug where the panel remains in light theme despite dark mode enabled. General tab selected, showing checkboxes for smart quotes, link detection, spelling correction, Smart Reply suggestions, and link details (most enabled). Buttons: Cancel and OK.">  
-<img src="assets/screenshots/GitHub_DocsAfterDark_60_1.webp" alt="Screenshot of Google Docs Accessibility settings dialog in DocsAfterDark extension, illustrating bug where panel remains in light theme despite dark mode enabled. Options shown: unchecked Turn on screen reader support (required for braille and announcements), Turn on braille support (third-party hardware), Turn on collaborator announcements. Buttons: Cancel and OK.">  
-<img src="assets/screenshots/GitHub_DocsAfterDark_61_1.webp" alt="Screenshot of Google Docs toolbar in DocsAfterDark dark mode, illustrating bug where Paint format tool cursor (paint roller icon) remains light instead of inverting to dark, reducing visibility against dark background. Zoom level shows 100%, with partial ruler visible below.">  
+
+<img src="assets/screenshots/GitHub_DocsAfterDark_56_1.webp" alt="Screenshot of search bar in Google Docs with DocsAfterDark extension, showing typed query 3wzweh t?usp=drive_link with Apply button, illustrating potential link insertion or parsing context in reported color bug issue. Below, a document link URL is visible.">
+<img src="assets/screenshots/GitHub_DocsAfterDark_57_1.webp" alt="Screenshot of Google Docs File menu with Language submenu open in DocsAfterDark extension dark mode, highlighting bug where no checkmark appears next to current document language (Русский selected in list but unmarked). Menu options include Türkçe, Беларуская, Български, Қазақ, Монгол, Русский, Српски, Українська, Ελληνικά, and others">
+<img src="assets/screenshots/GitHub_DocsAfterDark_58_1.webp" alt="Screenshot of Google Docs Document details panel in DocsAfterDark dark mode, illustrating bug where panel background remains white instead of inverted to dark. Fields shown: Location with folder icon and G, Owner: me, Modified: 09:47 by me, Created: 18 Jun 2020.">
+<img src="assets/screenshots/GitHub_DocsAfterDark_59_1.webp" alt="Screenshot of Google Docs Preferences dialog in DocsAfterDark extension, illustrating bug where the panel remains in light theme despite dark mode enabled. General tab selected, showing checkboxes for smart quotes, link detection, spelling correction, Smart Reply suggestions, and link details (most enabled). Buttons: Cancel and OK.">
+<img src="assets/screenshots/GitHub_DocsAfterDark_60_1.webp" alt="Screenshot of Google Docs Accessibility settings dialog in DocsAfterDark extension, illustrating bug where panel remains in light theme despite dark mode enabled. Options shown: unchecked Turn on screen reader support (required for braille and announcements), Turn on braille support (third-party hardware), Turn on collaborator announcements. Buttons: Cancel and OK.">
+<img src="assets/screenshots/GitHub_DocsAfterDark_61_1.webp" alt="Screenshot of Google Docs toolbar in DocsAfterDark dark mode, illustrating bug where Paint format tool cursor (paint roller icon) remains light instead of inverting to dark, reducing visibility against dark background. Zoom level shows 100%, with partial ruler visible below.">
 
 <hr />
 
 </details>
-͏  
+͏
 **How I Found It**: Comprehensive testing of all Google Docs features with extension enabled, methodically checking every dialog, menu, and tool.
 
 **Impact**:
@@ -142,7 +142,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 - **Contrast**: Failed WCAG guidelines
 - **User Experience**: Forced users to disable extension temporarily
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Systematic UI testing (every dialog, every menu)
 - Accessibility/contrast awareness
@@ -160,13 +160,13 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 **Status**: All Implemented
 
-**Problem**: 
+**Problem**:
 
 - App showed others' tracks but not your own (disorienting during forest searches)
 - No compass after rotating map (lost orientation)
 - No offline history buffering (data lost without connectivity)
 
-**Evidence**: 
+**Evidence**:
 <details>
 <summary>Click to see screenshot</summary>
 
@@ -177,16 +177,16 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏  
+͏
 **How I Found It**: Real-world testing during search & rescue scenarios. Identified critical gaps for wilderness use.
 
-**Impact**: 
+**Impact**:
 
 - **Use Case**: Made app practical for SAR/hiking
 - **Safety**: Better orientation in wilderness
 - **Data Reliability**: No location data lost offline
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Real-world scenario testing (search & rescue)
 - Mobile app testing in field conditions
@@ -206,7 +206,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 **Problem**: File sync failed or corrupted filenames containing non-ASCII characters (Cyrillic, Asian scripts, etc.) due to UTF-8 encoding mishandling.
 
-**Evidence**: 
+**Evidence**:
 <details>
 <summary>Click to see screenshot</summary>
 
@@ -217,16 +217,16 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏  
+͏
 **How I Found It**: Testing file synchronization with Russian filenames, observed corruption and sync failures.
 
-**Impact**: 
+**Impact**:
 
 - **Internationalization**: Broke sync for non-English users
 - **Data Integrity**: Filename corruption risk
 - **Cross-platform**: Especially problematic Windows ↔ Linux
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Internationalization (i18n) testing
 - Character encoding knowledge
@@ -240,13 +240,13 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 **Project/Link**: [StreetComplete](https://github.com/streetcomplete/StreetComplete) (OpenStreetMap editing app) / [#6562 — Location arrow barely visible](https://github.com/streetcomplete/StreetComplete/issues/6562)
 
-**Type**: Visual / Dark Theme Bug  
+**Type**: Visual / Dark Theme Bug
 
 **Status**: Fixed
 
 **Problem**: User's location direction arrow on map was nearly invisible on dark background (black arrow on dark map).
 
-**Evidence**: 
+**Evidence**:
 <details>
 <summary>Click to see screenshot</summary>
 
@@ -257,16 +257,16 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏  
+͏
 **How I Found It**: Field testing with dark theme enabled, couldn't tell which direction I was facing while walking.
 
-**Impact**: 
+**Impact**:
 
 - **Navigation**: Critical for wayfinding app
 - **Dark Theme**: Broke primary feature in dark mode
 - **Accessibility**: Contrast issue
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Mobile app testing
 - Dark theme testing
@@ -284,9 +284,9 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 **Status**: Fixed
 
-**Problem**: Added map elements appeared broken due to my browser's "dark mode override" setting that developer wasn't aware existed.
+**Problem**: Added map elements appeared broken due to my browser's “dark mode override” setting that developer wasn't aware existed.
 
-**Evidence**: 
+**Evidence**:
 <details>
 <summary>Click to see screenshot</summary>
 
@@ -297,16 +297,16 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏  
+͏
 **How I Found It**: Added map marker, looked completely wrong. Methodically disabled browser settings until found culprit.
 
-**Impact**: 
+**Impact**:
 
-- **User Confusion**: "Is the app broken?"
+- **User Confusion**: “Is the app broken?”
 - **Developer Blind Spot**: Uncovered browser setting affecting rendering
 - **Compatibility**: Affected users with accessibility settings enabled
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Systematic debugging (isolate variables)
 - Browser setting awareness
