@@ -18,6 +18,7 @@
 - [Questions?](https://github.com/Korb/qa-portfolio/edit/main/SECURITY.md#questions)
 
 ---
+
 ## Wait, Security Policy for a Portfolio?
 
 Yes, I know this seems odd. There's no code to exploit here, no servers to hack, no databases to inject into.
