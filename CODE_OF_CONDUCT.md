@@ -43,7 +43,7 @@ Over 25+ years across 10+ different jobs, I've learned some things about what ma
 
 **The principle**: When you teach someone what you know, you're not creating competition—you're building a support network.
 
-I learned this at a small telecom company where I discovered that helping junior colleagues made them see me as a resource, not a threat. Years later, when I needed help, those same people had my back. Hoarding knowledge feels safe but leaves you competing alone against teams. Sharing knowledge is enlightened self-interest.
+I learned this at a small trading and engineering company where I discovered that helping junior colleagues made them see me as a resource, not a threat. Years later, when I needed help, those same people had my back. Hoarding knowledge feels safe but leaves you competing alone against teams. Sharing knowledge is enlightened self-interest.
 
 **Translation**: Help others. Future you will thank present you when you need something at 4 PM on Friday.
 
@@ -67,7 +67,7 @@ Teaching children for year showed me this. Before getting frustrated that someon
 
 **The principle**: Trying to do everything yourself works—until it catastrophically doesn't.
 
-I learned this the hard way at a software company, burning out while convinced I was “saving” the project. What actually happened: my health collapsed, my relationships suffered, and the project stalled anyway. People rise to meet responsibility when you give them a chance.
+I learned this the hard way at a integration startup, burning out while convinced I was “saving” the project. What actually happened: my health collapsed, my relationships suffered, and the project stalled anyway. People rise to meet responsibility when you give them a chance.
 
 **Translation**: Trust people with real ownership. Your martyr complex helps no one.
 
