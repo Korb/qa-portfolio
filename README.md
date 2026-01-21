@@ -2,7 +2,7 @@
 
 **Manual QA Engineer** | **Documentation Testing** | **Localization QA (Russian)**
 
-Quality Assurance Engineer with 5+ years of continuous testing across enterprise PDF software, mass-market messaging app (Telegram), and 380+ open source projects. **2,500+ issues filed**. Specialized in exploratory testing, usability analysis, and finding edge cases that break real-world workflows.
+Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-source projects, filing **2,500+ issues**; experience with enterprise PDF software and Telegram.. Specialized in exploratory testing, usability analysis, and finding edge cases that break real-world workflows.
 
 **LinkedIn**: [Gallem](https://www.linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (~~Open to relocation: EU, North America, South America~~)
 
