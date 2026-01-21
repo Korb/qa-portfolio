@@ -103,13 +103,13 @@ From SAR operations (literally life-critical) to managing 50,000+ product docume
 
 ## Contribution Guidelines (The Employment Version)
 
-### Before Opening an "Issue" (Job Offer):
+### Before Opening an "Issue" (Job Offer)
 
 1. **Check existing work**: Review the [portfolio README](README.md) to understand what I've done
 2. **Review specializations**: [PDF-XChange deep dive](pdf-xchange.md), [GitHub breadth](github.md)
 3. **Verify requirements match**: I'm strongest in manual QA, usability testing, documentation testing, and localization QA (Russian)
 
-### How to Submit a "Pull Request" (Job Offer):
+### How to Submit a "Pull Request" (Job Offer)
 
 **Via LinkedIn** (preferred):  
 [linkedin.com/in/gallem/](https://www.linkedin.com/in/gallem/)
@@ -137,12 +137,12 @@ If your job offer leads to employment, expect:
 
 ## Code of Conduct
 
-### For This Repository:
+### For This Repository
 - Be respectful in communications
 - Don't submit actual PRs to change portfolio content (they'll be closed with a smile)
 - Feel free to open Issues for typos, broken links, or questions
 
-### For Future Employment:
+### For Future Employment
 - I'm collaborative, persistent, and kind
 - I advocate for users, but I'm not combative with developers
 - I bring curiosity, not ego
