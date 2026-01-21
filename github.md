@@ -21,6 +21,8 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 *Demonstrating breadth: exploratory testing across 380+ repositories in 2 years*
 
+---
+
 ## 1. Critical: CPU Compatibility Issue in Spectral
 
 **Project/Link**: [Spectral](https://github.com/r-lyeh/Spectral) (Sinclair ZX Spectrum retro-computer emulator) / [#4 — AVX2 incompatibility](https://github.com/r-lyeh/Spectral/issues/4)
