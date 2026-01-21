@@ -29,7 +29,7 @@ This repository is a bit of a paradox in the open source world. It's a **persona
 
 But here's the thing: I deeply understand the *purpose* and *value* of `CONTRIBUTING.md` files in open source projects. They're essential documents that set expectations, streamline collaboration, and build healthy communities. Every proper FOSS project should have one.
 
-So this file exists to demonstrate that understanding... while acknowledging the obvious truth that you can't fork someone's career. You have to write your own code, forge your own path. Copying career steps—like copying code without understanding it—creates neither value for the world nor growth for yourself.
+So this file exists to demonstrate that understanding… while acknowledging the obvious truth that you can't fork someone's career. You have to write your own code, forge your own path. Copying career steps—like copying code without understanding it—creates neither value for the world nor growth for yourself.
 
 ## How to Actually “Contribute”
 
