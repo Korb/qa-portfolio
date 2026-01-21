@@ -18,6 +18,7 @@
 - [TL;DR](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#tldr)
 
 ---
+
 First off, thank you for considering contributing to this portfolio.
 
 Wait, what? Contributing to someone's portfolio? Yes, you read that right. Let me explain.
