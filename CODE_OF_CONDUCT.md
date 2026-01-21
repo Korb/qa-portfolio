@@ -23,6 +23,8 @@
 - [Final Note](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#final-note)
 - [TL;DR](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#tldr)
 
+---
+
 ## Wait, a Code of Conduct for a Portfolio?
 
 Yes, I know. Portfolios don't typically have Codes of Conduct. They also don't typically have `CONTRIBUTING.md` files that tell you to hire the author.
