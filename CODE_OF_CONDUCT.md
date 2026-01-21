@@ -1,5 +1,28 @@
 ﻿# Code of Conduct
 
+## Table of Contents
+- [Wait, a Code of Conduct for a Portfolio?](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#wait-a-code-of-conduct-for-a-portfolio)
+- [The Philosophy](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#the-philosophy)
+  - [On Knowledge Sharing](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-knowledge-sharing)
+  - [On Individual Strengths](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-individual-strengths)
+  - [On Clarity](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-clarity)
+  - [On Delegation](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-delegation)
+  - [On Recovery](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-recovery)
+  - [On Competence](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-competence)
+  - [On Irreplaceability](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-irreplaceability)
+  - [On Passion](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#on-passion)
+- [Behavioral Expectations](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#behavioral-expectations)
+  - [Kindness Without Passivity](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#kindness-without-passivity)
+  - [Intent vs Impact](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#intent-vs-impact)
+  - [Healthy Conflict](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#healthy-conflict)
+  - [Intellectual Humility](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#intellectual-humility)
+- [Scope](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#scope)
+- [Enforcement](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#enforcement)
+- [Attribution](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#attribution)
+- [Questions?](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#questions)
+- [Final Note](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#final-note)
+- [TL;DR](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#tldr)
+
 ## Wait, a Code of Conduct for a Portfolio?
 
 Yes, I know. Portfolios don't typically have Codes of Conduct. They also don't typically have `CONTRIBUTING.md` files that tell you to hire the author.
