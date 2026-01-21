@@ -1,4 +1,4 @@
-﻿# Code of Conduct
+# Code of Conduct
 
 ## Table of Contents
 - [Wait, a Code of Conduct for a Portfolio?](https://github.com/Korb/qa-portfolio/edit/main/CODE_OF_CONDUCT.md#wait-a-code-of-conduct-for-a-portfolio)
@@ -33,7 +33,7 @@ But here's the thing: this document serves two purposes.
 
 **Second**—and more importantly—it's a wishlist. These are the values I hope to find in future colleagues. Think of it as reverse interviewing: you're evaluating me through this portfolio, and I'm articulating what kind of team I want to join.
 
-So yes, this is half-serious. The principles are real. The framing is... realistic about what this document actually is.
+So yes, this is half-serious. The principles are real. The framing is… realistic about what this document actually is.
 
 ## The Philosophy
 
@@ -59,7 +59,7 @@ Working at a ceramics factory taught me this. The goal isn't uniformity; it's un
 
 **The principle**: If you can explain something to a 10-year-old, you actually understand it.
 
-Teaching children for year showed me this. Before getting frustrated that someone "doesn't get it," ask yourself: would a child understand your explanation? Probably not. Simplify. If it sounds smart but confusing, it's just confusing.
+Teaching children for year showed me this. Before getting frustrated that someone “doesn't get it,” ask yourself: would a child understand your explanation? Probably not. Simplify. If it sounds smart but confusing, it's just confusing.
 
 **Translation**: Clarity beats cleverness. Always.
 
@@ -67,7 +67,7 @@ Teaching children for year showed me this. Before getting frustrated that someon
 
 **The principle**: Trying to do everything yourself works—until it catastrophically doesn't.
 
-I learned this the hard way at a software company, burning out while convinced I was "saving" the project. What actually happened: my health collapsed, my relationships suffered, and the project stalled anyway. People rise to meet responsibility when you give them a chance.
+I learned this the hard way at a software company, burning out while convinced I was “saving” the project. What actually happened: my health collapsed, my relationships suffered, and the project stalled anyway. People rise to meet responsibility when you give them a chance.
 
 **Translation**: Trust people with real ownership. Your martyr complex helps no one.
 
@@ -129,7 +129,7 @@ This applies to interactions in this repository: issues, pull requests, discussi
 
 If someone violates these principles in ways that harm others, I reserve the right to:
 - Issue a warning
-- Temporarily block contributions  
+- Temporarily block contributions
 - Permanently ban from the project
 
 Honestly, I hope this never happens. This is a portfolio repo, not a warzone.
@@ -140,28 +140,28 @@ Inspired by the [Contributor Covenant](https://www.contributor-covenant.org/) an
 
 ## Questions?
 
-**"Why is this so long for a portfolio repo?"**  
+**“Why is this so long for a portfolio repo?”**
 Because I'm demonstrating that I understand what good Codes of Conduct do, and what values matter in teams. Also, if you're evaluating me for QA work, you should probably appreciate thoroughness.
 
-**"Are you actually expecting people to read this?"**  
+**“Are you actually expecting people to read this?”**
 People who care about team culture? Yes. People who don't? They'll skip it, and that tells me something too.
 
-**"Do these principles actually work?"**  
+**“Do these principles actually work?”**
 They helped me, and who knows, they might help you too. Give it a try.
 
-**"What if I just want to fix a typo?"**  
+**“What if I just want to fix a typo?”**
 Do it. Open a PR. I'll merge it. That's actual collaboration, not philosophical discussion.
 
 ## Final Note
 
 If you've read this far, you probably either:
 1. Take team culture seriously (excellent)
-2. Are procrastinating (understandable)  
+2. Are procrastinating (understandable)
 3. Are evaluating whether you want to work with me (practical)
 
 Whichever category you're in, I appreciate you being here.
 
-And if you're thinking "this person would fit our team"—you know where to find me on [LinkedIn](https://www.linkedin.com/in/gallem/).
+And if you're thinking “this person would fit our team”—you know where to find me on [LinkedIn](https://www.linkedin.com/in/gallem/).
 
 ---
 
