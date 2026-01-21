@@ -92,14 +92,14 @@ Or just open a Pull Request with the fix. I'll review and merge if appropriate.
 
 ## What's NOT a Security Issue
 
-### These are fine (please don't report):
+### These are fine (please don't report)
 
 - **Public forum links**: Links to bugs.telegram.org, PDF-XChange forum, GitHub issues—these are all public
 - **My own personal data**: My name, LinkedIn, GitHub profile, location—all intentionally public
 - **General QA findings**: Bug reports, feature requests, usability issues—the entire point of this portfolio
 - **Typos**: Just open a PR, no need for security disclosure process
 
-### Gray areas:
+### Gray areas
 
 - **Company names**: Generally fine (I worked there publicly), unless paired with confidential details
 - **Product names**: Fine for released products, problematic for unreleased/confidential projects
@@ -130,4 +130,4 @@ Maybe. But demonstrating that I understand security policies—even in unusual c
 ---
 
 **Last updated**: January 2026  
-**Policy version**: 1.0
+**Policy version**: 2026-01-21
