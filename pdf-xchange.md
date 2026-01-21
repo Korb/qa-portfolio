@@ -12,7 +12,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 ## Table of Contents
 - [1. Critical: Search Process Hangs for Hours](#1-critical-search-process-hangs-for-hours)
 - [2. Major Efficiency: Auto-Remove Hyphenations on Export](#2-major-efficiency-auto-remove-hyphenations-on-export)
-- [3. Complex: "Crawling" Selection Area Bug](#3-complex-crawling-selection-area-bug)
+- [3. Complex: “Crawling” Selection Area Bug](#3-complex-crawling-selection-area-bug)
 - [4. Visual Improvement: Split Lines Beyond Page Edges](#4-visual-improvement-split-lines-beyond-page-edges)
 - [5. Functionality: Broken Filename Macro in Batch Processing](#5-functionality-broken-filename-macro-in-batch-processing)
 - [6. Feature Request: Context Menu Integration for PDF-Tools](#6-feature-request-context-menu-integration-for-pdf-tools)
@@ -63,7 +63,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 **Type**: Enhancement
 
-**Problem**: When exporting PDF books to text formats, line-end hyphens from justified text remained, creating incorrect word breaks (e.g., "com-puter" instead of "computer").
+**Problem**: When exporting PDF books to text formats, line-end hyphens from justified text remained, creating incorrect word breaks (e.g., “com-puter” instead of “computer”).
 
 **Evidence**: Before/after comparison of exported text.
 <details>
@@ -94,13 +94,13 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 **Resolution**: Implemented as automatic cleanup option.
 
-## 3. Complex: "Crawling" Selection Area Bug
+## 3. Complex: “Crawling” Selection Area Bug
 
-**Project/Link**: PDF-XChange Editor / [Crop Page Tool selection "crawls"](https://forum.pdf-xchange.com/viewtopic.php?t=38082)
+**Project/Link**: PDF-XChange Editor / [Crop Page Tool selection “crawls”](https://forum.pdf-xchange.com/viewtopic.php?t=38082)
 
 **Type**: UX & Usability
 
-**Problem**: At high zoom levels (400%+), dragging crop selection borders caused the selection to "crawl" off-target by several pixels.
+**Problem**: At high zoom levels (400%+), dragging crop selection borders caused the selection to “crawl” off-target by several pixels.
 
 **Evidence**: Screen recording showing pixel-level drift behavior.
 <details>
@@ -116,7 +116,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <p></p>
 **How I Found It**: Detailed testing of crop tool at various zoom levels while working with high-resolution technical diagrams.
 
-**Impact**: 
+**Impact**:
 
 - **Precision**: Users couldn't crop accurately at high zoom
 - **Workarounds**: Manual coordinate entry required
@@ -155,17 +155,17 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <p></p>
 **How I Found It**: Usability testing of document splitting feature with various page sizes.
 
-**Impact**: 
+**Impact**:
 
 - **Visibility**: Split guides now impossible to miss
 - **UX**: Matches Adobe Acrobat behavior (user expectations)
 - **Zero Downside**: Pure improvement with no trade-offs
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Comparative analysis (PDF-XChange vs Adobe Acrobat)
 - Visual/UI testing
-- Usability thinking: "expected behavior"
+- Usability thinking: “expected behavior”
 - Clear before/after visualization
 
 **Resolution**: Implemented exactly as proposed.
@@ -182,13 +182,13 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 **How I Found It**: Testing batch conversion workflows with automated filename generation from templates.
 
-**Impact**: 
+**Impact**:
 
 - **Data Loss Risk**: Files overwritten without warning
 - **Workflow Broken**: Batch processing unusable with this macro
 - **Scope**: Affects all users using filename templates
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Batch processing/automation testing
 - Macro/template system testing
@@ -219,13 +219,13 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <p></p>
 **How I Found It**: Exploratory testing of workflow integration between PDF-Tools and Windows File Explorer.
 
-**Impact**: 
+**Impact**:
 
 - **Major Feature**: I was first to propose the unified context menu approach that exists today
 - **Workflow**: Transformed batch processing from separate app to seamless Explorer integration
 - **Adoption**: Key differentiator vs Adobe Acrobat
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Product vision: seeing potential of existing capability
 - Workflow design thinking
@@ -246,13 +246,13 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 **How I Found It**: Real-world testing with large document collections (1000+ files).
 
-**Impact**: 
+**Impact**:
 
-- **User Anxiety**: "Is it working or frozen?"
+- **User Anxiety**: “Is it working or frozen?”
 - **Time Planning**: Users can now estimate completion time
 - **Professional UX**: Matches expectations for long operations
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Long-running operation testing
 - User psychology understanding (feedback needs)
@@ -263,7 +263,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 ## 8. Batch Processing: Export to Word Bug with Mixed Files
 
-**Project/Link**: PDF-Tools / ["Export to Word" - file not found error](https://forum.pdf-xchange.com/viewtopic.php?t=42096)
+**Project/Link**: PDF-Tools / [“Export to Word” - file not found error](https://forum.pdf-xchange.com/viewtopic.php?t=42096)
 
 **Type**: Functionality
 
@@ -274,13 +274,13 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 **How I Found It**: Testing batch export across diverse legacy document collections with various encodings.
 
-**Impact**: 
+**Impact**:
 
 - **Compatibility**: Breaking on legacy encoding formats
 - **Error Handling**: Cryptic message vs clear explanation
 - **Data Migration**: Blocked batch processing of old archives
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Legacy format testing (KOI-8, old Word formats)
 - Encoding/character set knowledge
@@ -305,7 +305,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 <img src="assets/screenshots/pdf-xchange_37493_1.webp" alt="Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor titled Select items you want to download and install. Table shows Name, Local Name, Size, and State columns. Czech Čeština 1.94 MB Installed highlighted with green circle. English Installed with green circle. Most languages Not installed. Buttons Install and Close.">
 
-<img src="assets/screenshots/pdf-xchange_37493_2.webp" alt="Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor, demonstrating the resolved issue with uninstalling language packs. Title updated to Select items you want to download and install, deselect items you want to delete. Russian language entry (Русский, 8.42 MB) is selected with Uninstall... status in red; multiple installed languages checked for deletion including Finnish, Russian (Old Spelling), English, Bashkir. Total: 196 items, 155.28 MB. Buttons: Proceed and Close.">
+<img src="assets/screenshots/pdf-xchange_37493_2.webp" alt="Screenshot of Enhanced OCR Languages dialog in PDF-XChange Editor, demonstrating the resolved issue with uninstalling language packs. Title updated to Select items you want to download and install, deselect items you want to delete. Russian language entry (Русский, 8.42 MB) is selected with Uninstall… status in red; multiple installed languages checked for deletion including Finnish, Russian (Old Spelling), English, Bashkir. Total: 196 items, 155.28 MB. Buttons: Proceed and Close.">
 
 <hr />
 
@@ -313,13 +313,13 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 <p></p>
 **How I Found It**: Testing OCR functionality, noticed bloated installation size with no cleanup path.
 
-**Impact**: 
+**Impact**:
 
 - **Disk Space**: 100+ MB for unused languages
 - **Installation Bloat**: Permanent growth with no reversal
 - **User Control**: No way to manage installed components
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Installation/configuration testing
 - Storage management awareness
@@ -334,22 +334,22 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 **Type**: UX & Usability
 
-**Problem**: PDF-XChange Editor has two separate OCR tools ("OCR Pages" and "OCR Image"). Language selections weren't synchronized between them, causing repeated reconfiguration.
+**Problem**: PDF-XChange Editor has two separate OCR tools (“OCR Pages” and “OCR Image”). Language selections weren't synchronized between them, causing repeated reconfiguration.
 
 **Evidence**: Workflow demonstration showing manual reconfiguration eliminated.
 
 **How I Found It**: Workflow testing—using both OCR tools in same session, noticed settings didn't carry over.
 
-**Impact**: 
+**Impact**:
 
 - **Efficiency**: Users repeatedly select same languages
 - **Consistency**: Expected behavior from same app
 - **UX**: Small friction, frequent annoyance
 
-**Skills Demonstrated**: 
+**Skills Demonstrated**:
 
 - Cross-feature consistency testing
-- User expectation analysis ("should just work")
+- User expectation analysis (“should just work”)
 - Workflow friction identification
 - Feature parity thinking
 
