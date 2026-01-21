@@ -21,6 +21,8 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 - [9. Feature: Remove Installed OCR Languages](#9-feature-remove-installed-ocr-languages)
 - [10. Consistency: Sync OCR Language Selection Between Tools](#10-consistency-sync-ocr-language-selection-between-tools)
 
+---
+
 ## 1. Critical: Search Process Hangs for Hours
 **Project/Link**: PDF-XChange Editor / [Searching among documents hangs](https://forum.pdf-xchange.com/viewtopic.php?t=43104)
 
