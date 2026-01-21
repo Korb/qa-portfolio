@@ -22,7 +22,7 @@
 
 Yes, I know this seems odd. There's no code to exploit here, no servers to hack, no databases to inject into.
 
-But "security" in the context of a professional portfolio means something different: protecting sensitive information that might accidentally appear in case studies, and ensuring the integrity of the work presented.
+But “security” in the context of a professional portfolio means something different: protecting sensitive information that might accidentally appear in case studies, and ensuring the integrity of the work presented.
 
 ## What Actually Needs Protecting
 
@@ -30,7 +30,7 @@ But "security" in the context of a professional portfolio means something differ
 
 **Risk**: Accidentally including internal company data, project codenames, unreleased features, or proprietary processes.
 
-**Example**: "Company X's internal bug tracker issue #CONF-12345 revealed..."
+**Example**: “Company X's internal bug tracker issue #CONF-12345 revealed…”
 
 **If you find this**: Please report it immediately. Companies trust me with sensitive information; maintaining that trust is critical.
 
@@ -46,7 +46,7 @@ But "security" in the context of a professional portfolio means something differ
 
 **Risk**: Accidentally claiming credit for work done by others, or failing to properly attribute collaborative efforts.
 
-**Example**: "I implemented this feature" when it was actually a team effort or someone else's idea.
+**Example**: “I implemented this feature” when it was actually a team effort or someone else's idea.
 
 **If you find this**: Point it out. Professional integrity requires accurate credit assignment.
 
@@ -62,7 +62,7 @@ But "security" in the context of a professional portfolio means something differ
 
 **Risk**: Case studies that no longer accurately represent current product state, or statistics that have changed.
 
-**Example**: "As of 2024, feature X works this way..." when it's been completely redesigned.
+**Example**: “As of 2024, feature X works this way…” when it's been completely redesigned.
 
 **Note**: This is lower severity, but still worth reporting if you notice significant inaccuracies.
 
@@ -103,9 +103,9 @@ Or just open a Pull Request with the fix. I'll review and merge if appropriate.
 
 - **Company names**: Generally fine (I worked there publicly), unless paired with confidential details
 - **Product names**: Fine for released products, problematic for unreleased/confidential projects
-- **Statistics**: Public data (e.g., "2,500+ issues filed") is fine. This is open data, verified through statistics interfaces, API requests, or manual verification. If you would like [to contribute](https://github.com/Korb/qa-portfolio?tab=contributing-ov-file) to this repository, I will provide you with all information support to confirm the information stated.
+- **Statistics**: Public data (e.g., “2,500+ issues filed”) is fine. This is open data, verified through statistics interfaces, API requests, or manual verification. If you would like [to contribute](https://github.com/Korb/qa-portfolio?tab=contributing-ov-file) to this repository, I will provide you with all information support to confirm the information stated.
 
-**When in doubt**: Ask yourself, "Would this harm the company, individual, or my professional reputation if it became widely known?" If yes → report. If no → probably fine, but you can still ask.
+**When in doubt**: Ask yourself, “Would this harm the company, individual, or my professional reputation if it became widely known?” If yes → report. If no → probably fine, but you can still ask.
 
 ## Commitment
 
@@ -118,16 +118,16 @@ If you report a legitimate security concern:
 
 ## Questions?
 
-**"Why not just use private repository?"**  
+**“Why not just use private repository?”**
 Because the entire point is demonstrating public-facing QA work. Transparency is the feature, not the bug.
 
-**"What if I worked at one of these companies and object to inclusion?"**  
+**“What if I worked at one of these companies and object to inclusion?”**
 Contact me directly. If there's a legitimate concern about confidentiality or misrepresentation, I'll address it immediately.
 
-**"Is this overkill for a portfolio?"**  
+**“Is this overkill for a portfolio?”**
 Maybe. But demonstrating that I understand security policies—even in unusual contexts—is itself a portfolio piece. Meta, right?
 
 ---
 
-**Last updated**: January 2026  
+**Last updated**: January 2026
 **Policy version**: 2026-01-21
