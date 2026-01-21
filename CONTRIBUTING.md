@@ -3,7 +3,6 @@
 ## Table of Contents
 - [The Unusual Nature of This Repository](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#the-unusual-nature-of-this-repository)
 - [How to Actually “Contribute”](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#how-to-actually-contribute)
-  - [Hire me.](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#hire-me)
 - [Job Specifications](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#job-specifications)
 - [Ideal “Maintainer” Profile](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#ideal-maintainer-profile)
 - [Contribution Guidelines (The Employment Version)](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#contribution-guidelines-the-employment-version)
