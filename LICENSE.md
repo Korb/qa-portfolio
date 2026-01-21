@@ -23,7 +23,7 @@ This portfolio documents real QA work, case studies, and professional experience
 - Fork the repository structure for your own portfolio
 
 **Attribution requirement**: If you use substantial portions of this content, please credit it as:
-> "Based on QA case studies by Andrey Lappo (https://github.com/Korb/qa-portfolio)"
+> “Based on QA case studies by Andrey Lappo (https://github.com/Korb/qa-portfolio)”
 
 **What you can't do**: You can't claim this work history as your own (but that should be obvious—you can't fork someone's career).
 
