@@ -4,7 +4,6 @@ about: Report typos, broken links, or factual errors
 title: '[BUG] '
 labels: bug
 assignees: Korb
-
 ---
 
 ### What's Wrong?
