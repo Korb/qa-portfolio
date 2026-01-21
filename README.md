@@ -63,7 +63,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
    - *Impact*: Saved hours per 100+ page book
    - *Skills*: Workflow testing, real-world use cases
 
-3. **["Crawling" Selection Bug](https://forum.pdf-xchange.com/viewtopic.php?t=38082)**: Crop tool drifted at high zoom
+3. **[“Crawling” Selection Bug](https://forum.pdf-xchange.com/viewtopic.php?t=38082)**: Crop tool drifted at high zoom
    - *Impact*: Precision work impossible at 400%+ zoom
    - *Skills*: Pixel-level precision, edge conditions, week-long investigation
 
@@ -131,7 +131,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - **Implemented**: 11 features/fixes[^1]
 - **Community Validation**: Multiple suggestions with up to 90 user votes
 
-[^1]: the bugs.telegram.org platform is not always maintained up-to-date by developers. Many implemented features remain marked as "open" in the system. The 11 officially confirmed implementations listed above were verified through actual feature releases.
+[^1]: the bugs.telegram.org platform is not always maintained up-to-date by developers. Many implemented features remain marked as “open” in the system. The 11 officially confirmed implementations listed above were verified through actual feature releases.
 
 #### Implemented Improvements
 
@@ -152,7 +152,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 </details>
 
 **2. Allow Quotes to be Collapsed** ([#48496](https://bugs.telegram.org/c/48496))
-- **Type**: Enhancement  
+- **Type**: Enhancement
 - **Impact**: Improved readability of long posts with multiple quotes
 - **Demonstrates**: Thinking about further improving the previous function for special cases
 
@@ -171,9 +171,9 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - **Impact**: Users no longer waste time uploading videos that will be rejected
 - **UX**: Proactive error prevention vs reactive error messages
 
-**6 and 7. UI Labels: "Mute" → "Notifications"** ([#19393](https://bugs.telegram.org/c/19393), [#19394](https://bugs.telegram.org/c/19394))
+**6 and 7. UI Labels: “Mute” → “Notifications”** ([#19393](https://bugs.telegram.org/c/19393), [#19394](https://bugs.telegram.org/c/19394))
 - **Type**: UX & Usability (2 related issues)
-- **Impact**: Clearer terminology — "Mute" is a special case, unlike "Notifications" — a general category that increments all actions combined in a submenu, including "Mute"
+- **Impact**: Clearer terminology — “Mute” is a special case, unlike “Notifications” — a general category that increments all actions combined in a submenu, including “Mute”
 - **Demonstrates**: Microcopy/terminology thinking
 
 <details>
@@ -191,7 +191,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 **8. Real-time Location Sharing Until Disabled** ([#2154](https://bugs.telegram.org/c/2154))
 - **Type**: Enhancement
-- **Impact**: Currently, location sharing expires after maximum 8 hours, forcing manual renewal. This creates gaps in coverage and unreliable tracking for safety-critical or extended-duration scenarios. An "until turned off" option would provide seamless, continuous sharing aligned with user expectations from similar platforms.
+- **Impact**: Currently, location sharing expires after maximum 8 hours, forcing manual renewal. This creates gaps in coverage and unreliable tracking for safety-critical or extended-duration scenarios. An “until turned off” option would provide seamless, continuous sharing aligned with user expectations from similar platforms.
 - **Use Case**: Search and rescue coordination, parental monitoring, family/close contacts awareness, extended outdoor activities, and elderly care
 
 <details>
@@ -210,12 +210,12 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - **Impact**: Eliminated disorientation after forwarding—automatically returns to context
 - **Workflow**: Common action (forward) → smooth continuation
 
-**10. "Play Cached Music Only" Mode** ([#2305](https://bugs.telegram.org/c/2305))
+**10. “Play Cached Music Only” Mode** ([#2305](https://bugs.telegram.org/c/2305))
 - **Type**: Enhancement
 - **Impact**: Data-saving mode for users with limited mobile data
 - **Demonstrates**: Understanding diverse user contexts (data constraints)
 
-**11. "Stop and Block Bot" in Search Results** ([#3239](https://bugs.telegram.org/c/3239))
+**11. “Stop and Block Bot” in Search Results** ([#3239](https://bugs.telegram.org/c/3239))
 - **Type**: UX & Usability
 - **Impact**: Simplified bot management—action available directly from search
 - **Workflow**: Reduced steps for cleaning task
@@ -227,12 +227,12 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - Intuitive organization method matching user expectations from file managers
 - Currently: manual folder assignment through main Settings menus
 
-**2. "Schedule Message" in Share Menu** ([#2717](https://bugs.telegram.org/c/2717)) — **40+ votes**
+**2. “Schedule Message” in Share Menu** ([#2717](https://bugs.telegram.org/c/2717)) — **40+ votes**
 - Extend scheduling feature to external shares, not just in-app messages
 - Use case: Share from browser → schedule for later
 
 **3. Send Videos as Videos, Not Documents** ([#2192](https://bugs.telegram.org/c/2192)) — **30+ votes**
-- Fix: Videos from certain sources default to "document" format
+- Fix: Videos from certain sources default to “document” format
 - Impact: Proper playback preview instead of download-only (and then switching to another app to watch the video)
 
 **4. Opt-out of Link Previews** ([#3195](https://bugs.telegram.org/c/3195)) — **30+ votes**
@@ -269,7 +269,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - Use case: Context about why you joined, project details, etc.
 
 **9. Global Search Filters** ([#2916](https://bugs.telegram.org/c/2916)) — **20+ votes**
-- Filter by: "Where I'm owner/admin", "Public/Private"
+- Filter by: “Where I'm owner/admin”, “Public/Private”
 - Power user feature for managing many groups/channels
 
 <details>
@@ -313,7 +313,7 @@ hr />
 **UX & Enhancement Focus**:
 - 47% Enhancement suggestions (improving existing features)
 - 32% UX/Usability improvements (workflow optimization)
-- Terminology/microcopy thinking (renaming "Mute" to "Notifications")
+- Terminology/microcopy thinking (renaming “Mute” to “Notifications”)
 
 **Workflow Analysis**:
 - Identifying multi-step processes that could be streamlined
@@ -323,7 +323,7 @@ hr />
 **Platform Understanding**:
 - bugs.telegram.org is a community suggestion platform, not a traditional bug tracker
 - Acceptance rate (~3-4%) is typical for mass-market apps with high suggestion volume
-- Many suggestions remain "open" even when implemented—platform maintenance limitation
+- Many suggestions remain “open” even when implemented—platform maintenance limitation
 
 <div align="right">
 <table><td>
@@ -470,8 +470,8 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 ### Search & Rescue Service (2011-2019)
 *Municipal lifeguard, 8+ years*
 
-**Certifications**: Professional Diver (Grade 5), Industrial Climber, First Aid, Wilderness First Responder  
-**Field Experience**: 15+ SAR operations, 65+ public event safety duties  
+**Certifications**: Professional Diver (Grade 5), Industrial Climber, First Aid, Wilderness First Responder
+**Field Experience**: 15+ SAR operations, 65+ public event safety duties
 **Recognition**: 6 commendations, 4 diplomas, medal from Russian Emergencies Ministry
 
 *Relevant to QA: Real-world testing under pressure, attention to detail in life-safety scenarios, field testing experience*
@@ -499,8 +499,8 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 - Git/GitHub
 - SDL Trados
 - OCR software
-**Testing Types**: Exploratory, usability, regression, localization, accessibility, cross-platform, batch processing  
-**Documentation**: Technical writing, README creation, user guides, translation  
+**Testing Types**: Exploratory, usability, regression, localization, accessibility, cross-platform, batch processing
+**Documentation**: Technical writing, README creation, user guides, translation
 **Languages**: HTML, Markdown, BBCode
 **Domains**: PDF workflows, batch processing, file formats, encoding/UTF-8, maps/GIS, messaging apps
 
@@ -527,9 +527,9 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
   - GitLab: [@Nia_Ward](https://gitlab.com/Nia_Ward)
   - Codeberg: [@Otto_Ball](https://codeberg.org/Otto_Ball)
 - **Translation Profiles**:
-  - Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)  
-  - Crowdin: @Niyah_Atkins  
-  
+  - Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)
+  - Crowdin: @Niyah_Atkins
+
 **Email**: available on LinkedIn
 
 <hr />
