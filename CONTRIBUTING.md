@@ -1,5 +1,24 @@
 # Contributing to QA Portfolio
 
+## Table of Contents
+- [The Unusual Nature of This Repository](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#the-unusual-nature-of-this-repository)
+- [How to Actually "Contribute"](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#how-to-actually-contribute)
+  - [Hire me.](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#hire-me)
+- [Job Specifications](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#job-specifications)
+- [Ideal "Maintainer" Profile](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#ideal-maintainer-profile)
+- [Contribution Guidelines (The Employment Version)](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#contribution-guidelines-the-employment-version)
+  - [Before Opening an "Issue" (Job Offer)](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#before-opening-an-issue-job-offer)
+  - [How to Submit a "Pull Request" (Job Offer)](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#how-to-submit-a-pull-request-job-offer)
+- [What Happens After Your "Contribution"](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#what-happens-after-your-contribution)
+- [Code of Conduct](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#code-of-conduct)
+  - [For This Repository](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#for-this-repository)
+  - [For Future Employment](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#for-future-employment)
+- [Questions?](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#questions)
+- [Recognition](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#recognition)
+- [License](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#license)
+- [TL;DR](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#tldr)
+
+---
 First off, thank you for considering contributing to this portfolio.
 
 Wait, what? Contributing to someone's portfolio? Yes, you read that right. Let me explain.
