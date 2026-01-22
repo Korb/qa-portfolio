@@ -14,7 +14,7 @@
 
 #### Top 10 Implemented Improvements
 
-<table><tr><td><a href="pdf-xchange">→ See detailed case studies</a>
+<table><tr><td><a href="pdf-xchange">→ See detailed case studies</a></td></tr></table>
 
 #### Brief Highlights
 
