@@ -150,7 +150,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 <hr />
 
 </details>
-
+  
 **2. Allow Quotes to be Collapsed** ([#48496](https://bugs.telegram.org/c/48496))
 - **Type**: Enhancement
 - **Impact**: Improved readability of long posts with multiple quotes
@@ -189,6 +189,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 </details>
 
+  
 **8. Real-time Location Sharing Until Disabled** ([#2154](https://bugs.telegram.org/c/2154))
 - **Type**: Enhancement
 - **Impact**: Currently, location sharing expires after maximum 8 hours, forcing manual renewal. This creates gaps in coverage and unreliable tracking for safety-critical or extended-duration scenarios. An “until turned off” option would provide seamless, continuous sharing aligned with user expectations from similar platforms.
