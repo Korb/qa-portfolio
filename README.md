@@ -22,6 +22,19 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 ---
 
+## Testing Expertise
+
+- **Manual QA Testing**: Exploratory testing, regression testing, edge case discovery
+- **Documentation Testing**: Technical docs, README files, user-facing text, help systems
+- **Localization QA (Russian)**: Interface translation, metadata, encoding issues
+- **Usability Analysis**: Workflow friction, UX inconsistencies, terminology review
+- **Batch Processing Testing**: Large-scale operations, testing automation tools (not automated testing)
+- **Cross-Platform Testing**: Windows, Android, Web, Browser Extensions
+- **Edge Case Discovery**: Testing at limits (high zoom, large datasets, legacy formats)
+- **Long-term Product Engagement**: Sustained testing over years, deep product knowledge
+
+<hr />
+
 ## Featured Work
 
 ### PDF-XChange Pro (Deep Dive)
