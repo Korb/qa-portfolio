@@ -13,8 +13,7 @@
 - **Skills**: Exploratory testing, usability analysis, batch processing, edge cases, workflow design, persistence on hard-to-reproduce bugs
 
 #### Top 10 Implemented Improvements
-<br>
-**➤ [See detailed case studies](pdf-xchange)**
+<br>**➤ [See detailed case studies](pdf-xchange)**
 <br>
 #### Brief Highlights
 
