@@ -135,7 +135,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏
+͏  
 **How I Found It**: Comprehensive testing of all Google Docs features with extension enabled, methodically checking every dialog, menu, and tool.
 
 **Impact**:
@@ -179,7 +179,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏
+͏  
 **How I Found It**: Real-world testing during search & rescue scenarios. Identified critical gaps for wilderness use.
 
 **Impact**:
@@ -219,7 +219,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏
+͏  
 **How I Found It**: Testing file synchronization with Russian filenames, observed corruption and sync failures.
 
 **Impact**:
@@ -259,7 +259,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏
+͏  
 **How I Found It**: Field testing with dark theme enabled, couldn't tell which direction I was facing while walking.
 
 **Impact**:
@@ -299,7 +299,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 <hr />
 
 </details>
-͏
+͏  
 **How I Found It**: Added map marker, looked completely wrong. Methodically disabled browser settings until found culprit.
 
 **Impact**:
