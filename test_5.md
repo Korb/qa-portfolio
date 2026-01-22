@@ -15,7 +15,7 @@
 #### Top 10 Implemented Improvements
 
 | **[→ See detailed case studies](pdf-xchange)** |
-|:----------------------------------------:|
+|---|
 
 #### Brief Highlights
 
