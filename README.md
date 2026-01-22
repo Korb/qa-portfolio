@@ -51,7 +51,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 #### Top 10 Implemented Improvements
 
-[See detailed case studies](pdf-xchange)
+<table><tr><td><a href="pdf-xchange">→ See detailed case studies</a></td></tr></table>
 
 #### Brief Highlights
 
@@ -344,7 +344,7 @@ hr />
 
 #### Top 8 Issues Across Diverse Projects
 
-[See detailed case studies](github)
+<table><tr><td><a href="github">→ See detailed case studies</a></td></tr></table>
 
 #### Summary Statistics
 - **Total GitHub Contributions**: 1,191 (380 repos in 2024-2025 alone)
