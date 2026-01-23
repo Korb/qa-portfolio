@@ -112,7 +112,7 @@ To compress TIFF files (saves storage space without losing quality), use FastSto
 - Make sure **Use Advanced Options (Resize…)** is unchecked  
 - Click **Convert**  
 
-After digitization is complete, follow the OCR workflow to add the searchable text layer.  
+After digitization is complete, follow [the OCR workflow](./ocr-workflow.md) to add the searchable text layer.  
 
 ---  
 
@@ -125,5 +125,3 @@ After digitization is complete, follow the OCR workflow to add the searchable te
 ---  
 
 *This workflow was developed for processing product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
-
-
