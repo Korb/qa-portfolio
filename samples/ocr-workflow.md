@@ -1,3 +1,12 @@
+---
+title: '… ǀ Andrey Lappo — … Portfolio'
+description: "…"
+---
+
+[Andrеy Lapрo — … Portfolio](https://korb.github.io/qa-portfolio) / […](https://korb.github.io/qa-portfolio#featured-work) / […)](https://korb.github.io/qa-portfolio#pdf-xchange-pro-deep-dive)
+
+<hr />
+
 # OCR Workflow for Document Archives  
 
 > **Note:** This is an anonymized translation of internal documentation created for Russian-speaking colleagues at an e-commerce company. Interface elements and software names appear in Russian as they were used in the original workflow. The company managed 50,000+ product documentation files requiring OCR processing for searchability.  
