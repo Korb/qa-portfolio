@@ -63,26 +63,26 @@ For flatbed scanning with Epson Scan: Enhanced with Epson Easy Photo Fix 3.9.2.1
 
 </details>  
 
-**Режим:** Профессиональный режим  
-**Оригинал:**  
-- **Тип документа**: Непрозрачный  
-- **Источник документа**: Планшет для документов  
-- **Тип автоэкспозиции**: Фото  
+**Mode** (**Режим**): Professional Mode (Профессиональный режим)  
+**Original** (**Оригинал**):  
+- **Document Type** (**Тип документа**): Reflective (Непрозрачный)  
+- **Document Source** (**Источник документа**): Document Table (Планшет для документов)  
+- **Auto Exposure Type** (**Тип автоэкспозиции**): Photo (Фото)  
 
-**Назначение:**  
-- **Тип изображения**: Цветной 24 бита  
-- **Разрешение**: 300 dpi  
-- **Размер документа**: *(pick the smallest size that doesn't crop content on any page)*  
-- **Размер назначения**: Оригинал  
+**Destination** (**Назначение**):  
+- **Image Type** (**Тип изображения**): 24-bit Color (Цветной 24 бита)  
+- **Resolution** (**Разрешение**): 300 dpi  
+- **Document Size** (**Размер документа**): *(pick the smallest size that doesn't crop content on any page)*  
+- **Target Size** (**Размер назначения**): Original (Оригинал)  
 
-**Настройки:**  
-- **Автоэкспозиция**: Включено  
-- **Повышение резкости / Уровень**: Низкий  
-- **Удаление растра / Линиатура**: Качественная печать (175 lpi)  
-- **Восстановление цвета**: Выключено  
-- **Коррекция фона**: Выключено  
-- **Удаление дефектов / Уровень**: Низкий  
-- **Digital Ice Technology**: Выключено  
+**Adjustments** (**Настройки**):  
+- **Auto exposure** (**Автоэкспозиция**): On (Включено)  
+- **Unsharp Mask** > **Level** (**Повышение резкости** > **Уровень**): On > Low (Включено > Низкий)  
+- **Descreening** > **Screen Ruling** (**Удаление растра** / **Линиатура**): Fine Prints (175 lpi) (Качественная печать (175 lpi))  
+- **Color Restoration** (**Восстановление цвета**): Off (Выключено)  
+- **Backlight Correction** (**Коррекция фона**): Off (Выключено)  
+- **Dust Removal** > **Level** (**Удаление дефектов** > **Уровень**): On > Low (Включено > Низкий)  
+- **Digital Ice Technology**: Off (Выключено)  
 
 In **Конфигурация** (**Configuration**) > **Другое** (**Other**) you can enable **Коррекция перекоса документа** (**Correct Document Skew**). If you do, check afterward that the automatic deskew worked correctly on all pages. Fix any mistakes manually in FastStone Image Viewer or re-scan the bad pages.  
 
@@ -160,4 +160,5 @@ After digitization is complete, follow [the OCR workflow](./ocr-workflow.md) to 
 ---  
 
 *This workflow was developed for processing product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
+
 
