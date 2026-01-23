@@ -56,7 +56,7 @@ You can also use ABBYY FineReader OCR-редактор (**Файл** > **Ска�
 
 For flatbed scanning with Epson Scan: Enhanced with Epson Easy Photo Fix 3.9.2.1RU, the settings that work are:  
 
-<details>
+<details markdown="1">
 
 <summary>Click to see screenshot</summary>  
 
@@ -87,7 +87,7 @@ For flatbed scanning with Epson Scan: Enhanced with Epson Easy Photo Fix 3.9.2.1
 
 In **Конфигурация** (**Configuration**) > **Другое** (**Other**) you can enable **Коррекция перекоса документа** (**Correct Document Skew**). If you do, check afterward that the automatic deskew worked correctly on all pages. Fix any mistakes manually in FastStone Image Viewer or re-scan the bad pages.  
 
-<details>
+<details markdown="1">
 
 <summary>Click to see screenshot</summary>  
 
@@ -97,7 +97,7 @@ In **Конфигурация** (**Configuration**) > **Другое** (**Other*
 
 Save as TIFF when available (it preserves pixel density information), or PNG if TIFF isn't an option.  
 
-<details>
+<details markdown="1">
 
 <summary>Click to see screenshot</summary>  
 
@@ -124,7 +124,7 @@ FastStone Image Viewer lets you reorder images arbitrarily and then rename them 
 7. In the **Batch Rename** tab of the **Batch Image Convert / Rename** window, set Template to **###** and **Sequential number starts from** to **1**  
 8. Click **Rename**  
 
-<details>
+<details markdown="1">
 
 <summary>Click to see screenshot</summary>
 
@@ -144,7 +144,7 @@ To compress TIFF files (saves storage space without losing quality), use FastSto
 - Make sure **Use Advanced Options (Resize…)** is unchecked  
 - Click **Convert**  
 
-<details>
+<details markdown="1">
 
 <summary>Click to see screenshot</summary>
 
