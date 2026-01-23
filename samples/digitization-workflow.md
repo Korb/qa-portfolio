@@ -3,7 +3,7 @@
 > **Note:** This is an anonymized translation of internal documentation created for Russian-speaking colleagues at an e-commerce company. Interface elements and software names appear in Russian as they were used in the original workflow. The company managed 50,000+ products with extensive paper-based documentation that needed digitization.  
 
 **Document Type:** Process Documentation  
-**Audience:** Content managers, operations team  
+**Audience:** content managers, operations team  
 **Original Language:** Russian  
 
 ---  
@@ -125,4 +125,5 @@ After digitization is complete, follow the OCR workflow to add the searchable te
 ---  
 
 *This workflow was developed for processing product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
+
 
