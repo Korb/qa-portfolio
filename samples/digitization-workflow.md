@@ -124,5 +124,4 @@ After digitization is complete, follow the OCR workflow to add the searchable te
 
 ---  
 
-*This workflow was developed for processing 50,000+ product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
-
+*This workflow was developed for processing product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
