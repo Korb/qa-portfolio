@@ -127,7 +127,7 @@ Another issue: PDFs often have line breaks (in some cases only the first line of
 
 For the first issue, use any lightweight text editor. Enter the PDF text block edit mode, copy the text to the text editor, remove unwanted line breaks, copy the cleaned text, paste it back where you got it.  
 
-For the second issue, use ABBYY Screenshot Reader (included with ABBYY FineReader PDF): launch it from the Windows Start menu. If no window appears, click the red icon with white frame in the system tray. In the dropdown list under **Снимок** choose **Области**, under **Передать** choose **Текст в буфер обмена**, select the language (avoid **Авто** unless the language is truly unknown), press <kbd>Alt</kbd> + <kbd>Enter</kbd>, select the area of the needed "dead" text as close as possible without overlapping, press <kbd>Enter</kbd>, paste where you intended. For offline recognition using a single language, you can also use [ShareX](https://github.com/ShareX/ShareX). It's FOSS but a bit complicated to set up initially.  
+For the second issue, use ABBYY Screenshot Reader (included with ABBYY FineReader PDF): launch it from the Windows Start menu. If no window appears, click the red icon with white frame in the system tray. In the dropdown list under **Снимок** choose **Области**, under **Передать** choose **Текст в буфер обмена**, select the language (avoid **Авто** unless the language is truly unknown), press <kbd>Alt</kbd> + <kbd>Enter</kbd>, select the area of the needed “dead” text as close as possible without overlapping, press <kbd>Enter</kbd>, paste where you intended. For offline recognition using a single language, you can also use [ShareX](https://github.com/ShareX/ShareX). It's FOSS but a bit complicated to set up initially.  
 
 ---  
 
