@@ -29,7 +29,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
    - **Crop printer's marks**: Crop Page Tool (*Draw boundaries over the page, to define the crop box*)  
    - **Fix skew**: Deskew Pages Content (*Deskew scanned images in the document to improve reading and text recognition*)  
    - **Check page numbering**: drag pages in the thumbnail panel or use Move Pages (*Move pages of the active document*)  
-4. Try selecting text with the cursor. (When processing many documents, it helps to set **Tools Options** > **Default Tool** to **Select Text** so that's the tool that opens by default.)  
+4. Try selecting text with the cursor. (When processing many documents, it helps to set **File** > **Preferences** > **Tools** > **Default Tool** to **Select Text** so that's the tool that opens by default.)  
 5. If text selects, copy it and paste into any text editor (Notepad, WordPad, Word, whatever). Check if it matches what you selected in the PDF. If it matches, the document doesn't need OCR. Move to the next document and start this workflow over. If text doesn't select, only partially selects, or the pasted text doesn't match what's displayed, keep going through these steps.  
 6. Take a quick look at what languages appear in the document. If you're not sure, copy a sample into Google Translate with auto-detect turned on.  
 7. In the toolbar, click the bottom part of the **Edit Objects** combo button, choose **Shapes**, and try selecting text by dragging with the left mouse button. If individual letters get selected, go to the next section. Otherwise, skip to the [OCR Methods](#ocr-methods) section.  
