@@ -1,3 +1,12 @@
+---
+title: '… ǀ Andrey Lappo — … Portfolio'
+description: "…"
+---
+
+[Andrеy Lapрo — … Portfolio](https://korb.github.io/qa-portfolio) / […](https://korb.github.io/qa-portfolio#featured-work) / […)](https://korb.github.io/qa-portfolio#pdf-xchange-pro-deep-dive)
+
+<hr />
+
 # Document Digitization Workflow  
 
 > **Note:** This is an anonymized translation of internal documentation created for Russian-speaking colleagues at an e-commerce company. Interface elements and software names appear in Russian as they were used in the original workflow. The company managed 50,000+ products with extensive paper-based documentation that needed digitization.  
@@ -165,3 +174,4 @@ After digitization is complete, follow [the OCR workflow](./ocr-workflow.md) to 
 ---  
 
 *This workflow was developed for processing product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
+
