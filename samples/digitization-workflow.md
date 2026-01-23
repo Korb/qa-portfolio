@@ -77,7 +77,7 @@ For flatbed scanning with Epson Scan: Enhanced with Epson Easy Photo Fix 3.9.2.1
 - **Удаление дефектов / Уровень**: Низкий  
 - **Digital Ice Technology**: Выключено  
 
-In **Конфигурация** / **Другое** you can enable **Коррекция перекоса документа**. If you do, check afterward that the automatic deskew worked correctly on all pages. Fix any mistakes manually in FastStone Image Viewer or re-scan the bad pages.  
+In **Конфигурация** > **Другое** you can enable **Коррекция перекоса документа**. If you do, check afterward that the automatic deskew worked correctly on all pages. Fix any mistakes manually in FastStone Image Viewer or re-scan the bad pages.  
 
 Save as TIFF when available (it preserves pixel density information), or PNG if TIFF isn't an option.  
 
@@ -125,3 +125,4 @@ After digitization is complete, follow the OCR workflow to add the searchable te
 ---  
 
 *This workflow was developed for processing product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
+
