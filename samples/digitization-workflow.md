@@ -120,8 +120,9 @@ After digitization is complete, follow the OCR workflow to add the searchable te
 - Skipping the verification step. Once pages are misordered, they're permanently misordered.  
 - Using JPEG output. It reduces OCR accuracy.  
 - Using Document mode for materials with photos. It destroys image quality.  
-- Not checking duplex rotation on the first scan. All reverse pages will be upside down.  
+- Not checking duplex rotation on the first scan. All reverse pages will be upside down. This will reduce the quality of text recognition (there are reasons why we don't use automatic page orientation checking). It will also increase the likelihood that we'll end up with a low-quality document on our website or that such a document will be sent to a client. Both options will negatively impact our company's reputation.  
 
 ---  
 
 *This workflow was developed for processing 50,000+ product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
+
