@@ -34,8 +34,8 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 1. Install PDF-XChange Pro  
 2. Open the PDF in PDF-XChange Editor Plus  
 3. Do basic cleanup if needed:  
-   - **Split facing pages**: Split Pages… (*Split pages in the active document*)  
-<details>
+3.1 **Split facing pages**: Split Pages… (*Split pages in the active document*)  
+<details markdown="1">
 
 <summary>Click to see screenshot</summary>
 
@@ -43,7 +43,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 
 </details>
 ͏  
-   - **Crop printer's marks**: Crop Page Tool (*Draw boundaries over the page, to define the crop box*)  
+3.2 **Crop printer's marks**: Crop Page Tool (*Draw boundaries over the page, to define the crop box*)  
 
 <details markdown="1">
 
@@ -53,7 +53,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 
 </details>
 ͏  
-   - **Fix skew**: Deskew Pages Content (*Deskew scanned images in the document to improve reading and text recognition*)  
+3.3 **Fix skew**: Deskew Pages Content (*Deskew scanned images in the document to improve reading and text recognition*)  
 
 <details markdown="1">
 
@@ -63,12 +63,12 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 
 </details>
 ͏  
-   - **Check page numbering**: drag pages in the thumbnail panel or use Move Pages (*Move pages of the active document*)  
+3.4 **Check page numbering**: drag pages in the thumbnail panel or use Move Pages (*Move pages of the active document*)  
 4. Try selecting text with the cursor. (When processing many documents, it helps to set **File** > **Preferences** > **Tools** > **Default Tool** to **Select Text** so that's the tool that opens by default.)  
 
 <details markdown="1">
 
-<summary>Tip</summary>
+<summary>Click to see screenshot</summary>
 
 ![Screenshot of the Preferences window in PDF-XChange Editor, focused on Tools > Default Tool section. Default Tool is set to Select Text. Checkboxes for remembering last used tool between sessions and keeping current tool as default for new documents are unchecked. Links section has Activate Links by set to Ctrl + Click](../assets/screenshots/PDF-XChange_Editor_Preferences_Tools_Default_Tool.webp)
 
@@ -85,7 +85,6 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 ![A screenshot of the PDF-XChange Editor toolbar showing the Edit Objects button's drop-down list. The list includes the following options: All, Edit Text, Text Elements, Images, and Shapes (selected)](../assets/screenshots/PDF-XChange_Editor_Edit_Objects_Shapes.webp)
 
 </details>
-͏  
 
 ---  
 
@@ -113,12 +112,11 @@ The **Rasterization resolution** field will unlock. Enter at least 200 DPI. For 
 
 <details markdown="1">
 
-<summary>Tip</summary>
+<summary>Click to see screenshot</summary>
 
 ![Screenshot of the Export Image(s) dialog. Configured for all pages, saving as single-page TIFF files with filename pattern. Horizontal and vertical resolution both 300 dpi, page zoom 100%, background white](../assets/screenshots/PDF-XChange_Editor_Export_to_Images.webp)
 
 </details>
-͏  
 - **Pages**: All  
 - **Image Type**: PNG - Portable Network Graphic  
 - **Export Mode**: Save Each Page to a Single-Page Image File  
@@ -142,15 +140,13 @@ Choose whichever method seems more convenient, accurate, or faster for your situ
 
 1. With the document still open, click **OCR Page(s)** (*Recognize text in scanned documents using the Optical Character Recognition (OCR)*)  
 2. In the **OCR Pages (Enhanced)** window, use checkboxes to select the needed languages, plus **Ignore existing text on page**, **Ignore comments on page**, **Ignore form fields on page**, and under **Output Options** set **Type** to **Searchable Image**  
-
 <details markdown="1">
 
-<summary>Tip</summary>
+<summary>Click to see screenshot</summary>
 
 ![Screenshot of the OCR Pages (Enhanced) dialog. Languages set to Numbers and English with Auto accuracy. Several ignore options checked: Ignore existing text, Ignore form fields, Ignore comments. Output as Searchable Image, no fixes for skew/rotation or table lines. Skip pages that already contain text is unchecked.](../assets/screenshots/PDF-XChange_Editor_OCR_Pages.webp)
 
 </details>
-͏  
 3. Click **OK**  
 4. After processing finishes, check the result and save the file  
 
