@@ -4,8 +4,8 @@
 While primarily a QA Engineer, I have extensive technical writing experience...
 
 ## Writing Samples
-  - Document Digitization Workflow
-  - OCR Workflow for Document Archives
+  - [Document Digitization Workflow](./samples/digitization-workflow.md)
+  - [OCR Workflow for Document Archives](./samples/ocr-workflow.md)
 
 ## Documentation Improvements (Open Source)
   - 380+ projects improved
