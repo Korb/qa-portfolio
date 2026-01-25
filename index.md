@@ -1,15 +1,24 @@
----
-layout: default
-title: "Andrey Lappo — QA Engineer Portfolio"
-description: "2,500+ issues filed. Manual QA | Documentation Testing | Localization QA"
+# Andrey Lappo — Portfolio
+
+I'm a QA Engineer with 5+ years of continuous testing and strong technical writing skills.
+
+**Choose your focus:**
+
+## [→ QA Engineer Portfolio](qa/)
+2,500+ issues filed | 4+ years PDF-XChange testing | 380+ open source projects
+
+**Best for:** QA Engineer, QA Tester, Manual QA roles
+
 ---
 
-{% capture readme %}{% include_relative README.md %}{% endcapture %}
-{% assign parts = readme | split: '---' %}
-{% if parts.size > 2 %}
-  {% assign body = parts[2] %}
-{% else %}
-  {% assign body = readme %}
-{% endif %}
+## [→ Technical Writing Portfolio](technical-writing/)
+60+ documentation pieces created | 380+ documentation improvements
 
-{{ body | markdownify }}
+**Best for:** Technical Writer, Documentation Specialist, hybrid QA+Docs roles
+
+---
+
+**Quick Links:**
+- [LinkedIn](https://linkedin.com/in/gallem/)
+- [GitHub](https://github.com/Korb)
+- [Contact](#contact)
