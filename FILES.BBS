@@ -1,24 +1,23 @@
 ".github" Templates for Issues and Pull requests. https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
-"_config.yml" Jekyll theme / skin.
 "_includes" Implementing data in the <head> of website web pages.
+"assets" Media.
+"qa"
+"technical-writing"
+"_config.yml" Jekyll theme / skin.
 "android-chrome-192x192.png" Favicon 192 × 192 px
 "android-chrome-512x512.png" Favicon 512 × 512 px
 "apple-touch-icon.png" Favicon 180 × 180 px
-"assets" Media.
 "CODE_OF_CONDUCT.md" https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
 "CONTRIBUTING.md" https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
 "favicon.ico" Favicon 48 × 48 px
 "favicon-16x16.png" Favicon 16 × 16 px
 "favicon-32x32.png" Favicon 32 × 32 px
 "FILES.BBS" A tribute to those who, in the pre-web era, did everything to connect people with each other.
-"github.md" GitHub Open Source (Breadth)
 "google6fa9138c0c2cf332.html" Google Analytics tag
-"index.md" https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter and https://docs.github.com/en/contributing/writing-for-github-docs/changing-an-articles-title
+"index.md" Landing page https://docs.github.com/en/contributing/writing-for-github-docs/using-yaml-frontmatter and https://docs.github.com/en/contributing/writing-for-github-docs/changing-an-articles-title
 "LICENSE.md" https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
-"pdf-xchange.md" PDF-XChange Pro (Deep Dive)
-"PULL_REQUEST_TEMPLATE.md" https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository
 "README.md" https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
 "robots.txt" https://developers.google.com/search/docs/crawling-indexing/robots/intro
 "SECURITY.md" https://docs.github.com/en/code-security/getting-started/quickstart-for-securing-your-repository
 "site.webmanifest" Favicon data
-"sitemap.xml" I couldn't get Google Search Console to display anything other than `Sitemap could not be read` for it.
+"sitemap.xml" I couldn't get Google Search Console to display anything other than `Sitemap could not be read` for it."
