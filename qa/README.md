@@ -1,4 +1,9 @@
-# Andrеy Lаppo — QA Engineer Portfolio
+---
+title: "QA Engineer Portfolio | Andrey Lappo"
+description: ""
+---
+
+# Andrey Lappo — QA Engineer Portfolio
 
 **Manual QA Engineer** | **Documentation Testing** | **Localization QA (Russian)**
 
