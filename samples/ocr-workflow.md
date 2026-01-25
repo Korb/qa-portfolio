@@ -15,7 +15,7 @@ description: "…"
 **Audience:** content managers, technical staff    
 **Original Language:** Russian  
 
----  
+---
 
 This workflow handles OCR (Optical Character Recognition) for PDFs in a large documentation archive. Three types of documents need different approaches:  
 
@@ -25,68 +25,69 @@ This workflow handles OCR (Optical Character Recognition) for PDFs in a large do
 
 The third type is the tricky one. Print-ready PDFs often convert text to vector curves so fonts print consistently. These files look like they have text, but it's actually vector graphics. You can't OCR them until you convert the vectors back to images.  
 
----  
+---
 
 ## Initial Assessment  
 
 **Preparation:**  
 
-1. Install PDF-XChange Pro  
-2. Open the PDF in PDF-XChange Editor Plus  
-3. Do basic cleanup if needed:  
-3.1 **Split facing pages**: Split Pages… (*Split pages in the active document*)  
-<details markdown="1">
+1. Install PDF-XChange Pro
 
-<summary>Click to see screenshot</summary>
+2. Open the PDF in PDF-XChange Editor Plus
 
-![Screenshot of the "Split Pages" dialog in PDF-XChange Editor. Vertical split at 50%, calculating offsets from top, preview shows page 1 split with a red vertical line. Settings marked as Custom, with OK and Cancel buttons](../assets/screenshots/PDF-XChange_Editor_Split_Pages.webp)
+3. Do basic cleanup if needed:
 
-</details>
-͏  
-3.2 **Crop printer's marks**: Crop Page Tool (*Draw boundaries over the page, to define the crop box*)  
+   - **Split facing pages**: Split Pages… (*Split pages in the active document*)
 
-<details markdown="1">
+     <details markdown="1">
+     <summary>Click to see screenshot</summary>
 
-<summary>Click to see screenshot</summary>
+     ![Screenshot of the "Split Pages" dialog in PDF-XChange Editor. Vertical split at 50%, calculating offsets from top, preview shows page 1 split with a red vertical line. Settings marked as Custom, with OK and Cancel buttons](../assets/screenshots/PDF-XChange_Editor_Split_Pages.webp)
 
-![Screenshot of the Crop Pages dialog open over the main editor window. The crop method is Manual Margin Control. Apply to Crop Box checked, various removal checkboxes for content, comments, form fields outside the box are on, Adjust page size to match cropped area selected. Preview shows the page with crop handles and rulers](../assets/screenshots/PDF-XChange_Editor_Crop_Pages.webp)
+     </details>
 
-</details>
-͏  
-3.3 **Fix skew**: Deskew Pages Content (*Deskew scanned images in the document to improve reading and text recognition*)  
+   - **Crop printer's marks**: Crop Page Tool (*Draw boundaries over the page, to define the crop box*)  
 
-<details markdown="1">
+     <details markdown="1">
+     <summary>Click to see screenshot</summary>
 
-<summary>Click to see screenshot</summary>
+     ![Screenshot of the Crop Pages dialog open over the main editor window. The crop method is Manual Margin Control. Apply to Crop Box checked, various removal checkboxes for content, comments, form fields outside the box are on, Adjust page size to match cropped area selected. Preview shows the page with crop handles and rulers](../assets/screenshots/PDF-XChange_Editor_Crop_Pages.webp)
 
-![Screenshot of the "Deskew Pages" dialog in PDF-XChange Editor. It shows a thumbnails panel with two document pages visible and a dialog for deskewing selected pages. Page range set to All, Current:6, Subset: All, with OK and Cancel](../assets/screenshots/PDF-XChange_Editor_Deskew_Pages.webp)
+     </details>
+͏
+   - **Fix skew**: Deskew Pages Content (*Deskew scanned images in the document to improve reading and text recognition*)  
 
-</details>
-͏  
-3.4 **Check page numbering**: drag pages in the thumbnail panel or use Move Pages (*Move pages of the active document*)  
+     <details markdown="1">
+     <summary>Click to see screenshot</summary>
+
+     ![Screenshot of the "Deskew Pages" dialog in PDF-XChange Editor. It shows a thumbnails panel with two document pages visible and a dialog for deskewing selected pages. Page range set to All, Current:6, Subset: All, with OK and Cancel](../assets/screenshots/PDF-XChange_Editor_Deskew_Pages.webp)
+
+     </details>
+͏
+   - **Check page numbering**: drag pages in the thumbnail panel or use Move Pages (*Move pages of the active document*)  
+
 4. Try selecting text with the cursor. (When processing many documents, it helps to set **File** > **Preferences** > **Tools** > **Default Tool** to **Select Text** so that's the tool that opens by default.)  
 
-<details markdown="1">
+   <details markdown="1">
+   <summary>Click to see screenshot</summary>
 
-<summary>Click to see screenshot</summary>
+   ![Screenshot of the Preferences window in PDF-XChange Editor, focused on Tools > Default Tool section. Default Tool is set to Select Text. Checkboxes for remembering last used tool between sessions and keeping current tool as default for new documents are unchecked. Links section has Activate Links by set to Ctrl + Click](../assets/screenshots/PDF-XChange_Editor_Preferences_Tools_Default_Tool.webp)
 
-![Screenshot of the Preferences window in PDF-XChange Editor, focused on Tools > Default Tool section. Default Tool is set to Select Text. Checkboxes for remembering last used tool between sessions and keeping current tool as default for new documents are unchecked. Links section has Activate Links by set to Ctrl + Click](../assets/screenshots/PDF-XChange_Editor_Preferences_Tools_Default_Tool.webp)
-
-</details>
+   </details>
 ͏  
 5. If text selects, copy it and paste into any text editor (Notepad, WordPad, Word, whatever). Check if it matches what you selected in the PDF. If it matches, the document doesn't need OCR. Move to the next document and start this workflow over. If text doesn't select, only partially selects, or the pasted text doesn't match what's displayed, keep going through these steps.  
 6. Take a quick look at what languages appear in the document. If you're not sure, copy a sample into Google Translate with auto-detect turned on.  
 7. In the toolbar, click the bottom part of the **Edit Objects** combo button, choose **Shapes**, and try selecting text by dragging with the left mouse button. If individual letters get selected, go to the next section. Otherwise, skip to the [OCR Methods](#ocr-methods) section.  
 
-<details markdown="1">
+   <details markdown="1">
 
-<summary>Click to see screenshot</summary>
+   <summary>Click to see screenshot</summary>
 
-![A screenshot of the PDF-XChange Editor toolbar showing the Edit Objects button's drop-down list. The list includes the following options: All, Edit Text, Text Elements, Images, and Shapes (selected)](../assets/screenshots/PDF-XChange_Editor_Edit_Objects_Shapes.webp)
+   ![A screenshot of the PDF-XChange Editor toolbar showing the Edit Objects button's drop-down list. The list includes the following options: All, Edit Text, Text Elements, Images, and Shapes (selected)](../assets/screenshots/PDF-XChange_Editor_Edit_Objects_Shapes.webp)
 
-</details>
+   </details>
 
----  
+---
 
 ## Handling Text in Curves  
 
@@ -95,7 +96,6 @@ Sometimes text is saved as curves. Usually this means the file was prepared for 
 **Method 1:** PDF-XChange Editor > **Sanitize Document** (*Removes sensitive information, such as metadata, form data, invisible contents…*)  
 
 <details markdown="1">
-
 <summary>Click to see screenshot</summary>
 
 ![Screenshot of the PDF-XChange Editor Sanitize Document Options dialog. Most options are checked: Remove metadata and document info, Remove embedded content, Flatten form fields and scripts, Remove action and remove comments, Remove search index, Remove hidden layers, Remove hidden text, Remove obscured content, Remove bookmarks. Unchecked: Rasterize content with overlapping objects. OK and Cancel buttons.](../assets/screenshots/PDF-XChange_Editor_Sanitize_Document_Options.webp)  
@@ -111,12 +111,12 @@ The **Rasterization resolution** field will unlock. Enter at least 200 DPI. For 
 **Method 3:** PDF-XChange Editor > **Export** > **Export to Image(s)**  
 
 <details markdown="1">
-
 <summary>Click to see screenshot</summary>
 
 ![Screenshot of the Export Image(s) dialog. Configured for all pages, saving as single-page TIFF files with filename pattern. Horizontal and vertical resolution both 300 dpi, page zoom 100%, background white](../assets/screenshots/PDF-XChange_Editor_Export_to_Images.webp)
 
 </details>
+͏  
 - **Pages**: All  
 - **Image Type**: PNG - Portable Network Graphic  
 - **Export Mode**: Save Each Page to a Single-Page Image File  
@@ -130,7 +130,7 @@ File size can increase ~50x.
 
 **Method 5:** There's another way to preserve the original appearance completely, barely change the file size, work regardless of font-background contrast, and add an invisible text layer. I regret only learning about it after writing this workflow. It requires more advanced techniques not covered here.  
 
----  
+---
 
 ## OCR Methods  
 
@@ -140,13 +140,14 @@ Choose whichever method seems more convenient, accurate, or faster for your situ
 
 1. With the document still open, click **OCR Page(s)** (*Recognize text in scanned documents using the Optical Character Recognition (OCR)*)  
 2. In the **OCR Pages (Enhanced)** window, use checkboxes to select the needed languages, plus **Ignore existing text on page**, **Ignore comments on page**, **Ignore form fields on page**, and under **Output Options** set **Type** to **Searchable Image**  
-<details markdown="1">
 
-<summary>Click to see screenshot</summary>
+   <details markdown="1">
+   <summary>Click to see screenshot</summary>
 
-![Screenshot of the OCR Pages (Enhanced) dialog. Languages set to Numbers and English with Auto accuracy. Several ignore options checked: Ignore existing text, Ignore form fields, Ignore comments. Output as Searchable Image, no fixes for skew/rotation or table lines. Skip pages that already contain text is unchecked.](../assets/screenshots/PDF-XChange_Editor_OCR_Pages.webp)
+   ![Screenshot of the OCR Pages (Enhanced) dialog. Languages set to Numbers and English with Auto accuracy. Several ignore options checked: Ignore existing text, Ignore form fields, Ignore comments. Output as Searchable Image, no fixes for skew/rotation or table lines. Skip pages that already contain text is unchecked.](../assets/screenshots/PDF-XChange_Editor_OCR_Pages.webp)
 
-</details>
+   </details>
+
 3. Click **OK**  
 4. After processing finishes, check the result and save the file  
 
@@ -176,13 +177,12 @@ Settings will be saved. You won't need to go into them in the future.
 3. Choose **OCR Pages** (*Optically recognizes text characters in a PDF document, creates selectable and searchable text layer on pages*)  
 4. Check boxes for **Batch Processing Mode**, **Multi-Threaded Processing Mode**, **Do Not Ask for Passwords**, **Allow select multiple files**, **Show extended dialog for files selecting**, **OCR Pages**, **Show setup dialog while running**  
 
-<details markdown="1">
+   <details markdown="1">
+   <summary>Click to see screenshot</summary>
 
-<summary>Click to see screenshot</summary>
+   ![Screenshot of PDF-Tools interface with OCR Pages tool selected. Options include batch and multi-threaded processing enabled, input from multiple PDF files via My Computer, output actions set to None, and OCR setup to ignore text-containing documents with dialog shown during run. OK and Cancel buttons at bottom](../assets/screenshots/PDF-Tools_OCR_Pages.webp)
 
-![Screenshot of PDF-Tools interface with OCR Pages tool selected. Options include batch and multi-threaded processing enabled, input from multiple PDF files via My Computer, output actions set to None, and OCR setup to ignore text-containing documents with dialog shown during run. OK and Cancel buttons at bottom](../assets/screenshots/PDF-Tools_OCR_Pages.webp)
-
-</details>
+   </details>
 ͏  
 5. **Choose Input Files** > **File types**: PDF Documents (*.pdf)  
 
@@ -200,7 +200,7 @@ Settings will be saved. You won't need to go into them in the future.
 7. Choose the document's languages, confirm, wait for recognition to finish (green progress bar at the top of the PDF-Tools main screen)  
 8. Close the PDF-Tools window  
 
----  
+---
 
 ## Quality Control Notes  
 
@@ -212,7 +212,7 @@ For the first issue, use any lightweight text editor. Enter the PDF text block e
 
 For the second issue, use ABBYY Screenshot Reader (included with ABBYY FineReader PDF): launch it from the Windows Start menu. If no window appears, click the red icon with white frame in the system tray. In the dropdown list under **Снимок** choose **Области**, under **Передать** choose **Текст в буфер обмена**, select the language (avoid **Авто** unless the language is truly unknown), press <kbd>Alt</kbd> + <kbd>Enter</kbd>, select the area of the needed “dead” text as close as possible without overlapping, press <kbd>Enter</kbd>, paste where you intended. For offline recognition using a single language, you can also use [ShareX](https://github.com/ShareX/ShareX). It's FOSS but a bit complicated to set up initially.  
 
----  
+---
 
 ## Common OCR Errors  
 
@@ -226,7 +226,7 @@ When copying technical specifications, these character confusions happen frequen
 
 Always use copy-paste for product codes and model numbers. Don't manually retype them. Report suspected OCR errors to the archive administrator immediately.  
 
----  
+---
 
 **Resolution guidelines:**  
 
@@ -236,6 +236,6 @@ Always use copy-paste for product codes and model numbers. Don't manually retype
 
 Rule of thumb: if you can't read it comfortably on screen at 100% zoom, OCR probably can't either.  
 
----  
+---
 
 *This workflow was developed for processing mixed-format PDF documents including scans, vector PDFs, and print-ready files with outlined text. It's been tested on technical specifications, product catalogs, brochures, and multi-language documentation.*
