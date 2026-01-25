@@ -35,13 +35,55 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 2. Open the PDF in PDF-XChange Editor Plus  
 3. Do basic cleanup if needed:  
    - **Split facing pages**: Split Pages… (*Split pages in the active document*)  
+<details>
+
+<summary>Click to see screenshot</summary>
+
+![Screenshot of the "Split Pages" dialog in PDF-XChange Editor. Vertical split at 50%, calculating offsets from top, preview shows page 1 split with a red vertical line. Settings marked as Custom, with OK and Cancel buttons](../assets/screenshots/PDF-XChange_Editor_Split_Pages.webp)
+
+</details>
    - **Crop printer's marks**: Crop Page Tool (*Draw boundaries over the page, to define the crop box*)  
+
+<details markdown="1">
+
+<summary>Click to see screenshot</summary>
+
+![Screenshot of the Crop Pages dialog open over the main editor window. The crop method is Manual Margin Control. Apply to Crop Box checked, various removal checkboxes for content, comments, form fields outside the box are on, Adjust page size to match cropped area selected. Preview shows the page with crop handles and rulers](../assets/screenshots/PDF-XChange_Editor_Crop_Pages.webp)
+
+</details>
+
    - **Fix skew**: Deskew Pages Content (*Deskew scanned images in the document to improve reading and text recognition*)  
+
+<details markdown="1">
+
+<summary>Click to see screenshot</summary>
+
+![Screenshot of the "Deskew Pages" dialog in PDF-XChange Editor. It shows a thumbnails panel with two document pages visible and a dialog for deskewing selected pages. Page range set to All, Current:6, Subset: All, with OK and Cancel](../assets/screenshots/PDF-XChange_Editor_Deskew_Pages.webp)
+
+</details>
+
    - **Check page numbering**: drag pages in the thumbnail panel or use Move Pages (*Move pages of the active document*)  
 4. Try selecting text with the cursor. (When processing many documents, it helps to set **File** > **Preferences** > **Tools** > **Default Tool** to **Select Text** so that's the tool that opens by default.)  
+
+<details markdown="1">
+
+<summary>Tip</summary>
+
+![Screenshot of the Preferences window in PDF-XChange Editor, focused on Tools > Default Tool section. Default Tool is set to Select Text. Checkboxes for remembering last used tool between sessions and keeping current tool as default for new documents are unchecked. Links section has Activate Links by set to Ctrl + Click](../assets/screenshots/PDF-XChange_Editor_Preferences_Tools_Default_Tool.webp)
+
+</details>
+
 5. If text selects, copy it and paste into any text editor (Notepad, WordPad, Word, whatever). Check if it matches what you selected in the PDF. If it matches, the document doesn't need OCR. Move to the next document and start this workflow over. If text doesn't select, only partially selects, or the pasted text doesn't match what's displayed, keep going through these steps.  
 6. Take a quick look at what languages appear in the document. If you're not sure, copy a sample into Google Translate with auto-detect turned on.  
 7. In the toolbar, click the bottom part of the **Edit Objects** combo button, choose **Shapes**, and try selecting text by dragging with the left mouse button. If individual letters get selected, go to the next section. Otherwise, skip to the [OCR Methods](#ocr-methods) section.  
+
+<details markdown="1">
+
+<summary>Click to see screenshot</summary>
+
+![A screenshot of the PDF-XChange Editor toolbar showing the Edit Objects button's drop-down list. The list includes the following options: All, Edit Text, Text Elements, Images, and Shapes (selected)](../assets/screenshots/PDF-XChange_Editor_Edit_Objects_Shapes.webp)
+
+</details>
 
 ---  
 
@@ -51,6 +93,14 @@ Sometimes text is saved as curves. Usually this means the file was prepared for 
 
 **Method 1:** PDF-XChange Editor > **Sanitize Document** (*Removes sensitive information, such as metadata, form data, invisible contents…*)  
 
+<details markdown="1">
+
+<summary>Click to see screenshot</summary>
+
+![Screenshot of the PDF-XChange Editor Sanitize Document Options dialog. Most options are checked: Remove metadata and document info, Remove embedded content, Flatten form fields and scripts, Remove action and remove comments, Remove search index, Remove hidden layers, Remove hidden text, Remove obscured content, Remove bookmarks. Unchecked: Rasterize content with overlapping objects. OK and Cancel buttons.](../assets/screenshots/PDF-XChange_Editor_Sanitize_Document_Options.webp)  
+
+</details>
+
 Check all boxes except **Rasterize content with overlapping objects**. Save the document. File size won't change much. This probably won't work, but it's worth trying.  
 
 **Method 2:** Same as above, but check **Rasterize content with overlapping objects**.  
@@ -58,6 +108,14 @@ Check all boxes except **Rasterize content with overlapping objects**. Save the 
 The **Rasterization resolution** field will unlock. Enter at least 200 DPI. For proper recognition, 300 DPI is better. For high-quality layouts, for printing, or if the document has small text, use 400—600 DPI. Rough estimate for required resolution: aim for 30—40 pixels of height for the smallest text size in the document. (30 is good, 40 is excellent.) File size can increase 15—60x (!).  
 
 **Method 3:** PDF-XChange Editor > **Export** > **Export to Image(s)**  
+
+<details markdown="1">
+
+<summary>Tip</summary>
+
+![Screenshot of the Export Image(s) dialog. Configured for all pages, saving as single-page TIFF files with filename pattern. Horizontal and vertical resolution both 300 dpi, page zoom 100%, background white](../assets/screenshots/PDF-XChange_Editor_Export_to_Images.webp)
+
+</details>
 
 - **Pages**: All  
 - **Image Type**: PNG - Portable Network Graphic  
@@ -82,6 +140,15 @@ Choose whichever method seems more convenient, accurate, or faster for your situ
 
 1. With the document still open, click **OCR Page(s)** (*Recognize text in scanned documents using the Optical Character Recognition (OCR)*)  
 2. In the **OCR Pages (Enhanced)** window, use checkboxes to select the needed languages, plus **Ignore existing text on page**, **Ignore comments on page**, **Ignore form fields on page**, and under **Output Options** set **Type** to **Searchable Image**  
+
+<details markdown="1">
+
+<summary>Tip</summary>
+
+![Screenshot of the OCR Pages (Enhanced) dialog. Languages set to Numbers and English with Auto accuracy. Several ignore options checked: Ignore existing text, Ignore form fields, Ignore comments. Output as Searchable Image, no fixes for skew/rotation or table lines. Skip pages that already contain text is unchecked.](../assets/screenshots/PDF-XChange_Editor_OCR_Pages.webp)
+
+</details>
+
 3. Click **OK**  
 4. After processing finishes, check the result and save the file  
 
@@ -110,6 +177,15 @@ Settings will be saved. You won't need to go into them in the future.
 2. Launch PDF-Tools  
 3. Choose **OCR Pages** (*Optically recognizes text characters in a PDF document, creates selectable and searchable text layer on pages*)  
 4. Check boxes for **Batch Processing Mode**, **Multi-Threaded Processing Mode**, **Do Not Ask for Passwords**, **Allow select multiple files**, **Show extended dialog for files selecting**, **OCR Pages**, **Show setup dialog while running**  
+
+<details markdown="1">
+
+<summary>Click to see screenshot</summary>
+
+![Screenshot of PDF-Tools interface with OCR Pages tool selected. Options include batch and multi-threaded processing enabled, input from multiple PDF files via My Computer, output actions set to None, and OCR setup to ignore text-containing documents with dialog shown during run. OK and Cancel buttons at bottom](../assets/screenshots/PDF-Tools_OCR_Pages.webp)
+
+</details>
+
 5. **Choose Input Files** > **File types**: PDF Documents (*.pdf)  
 
    **OCR Pages** > **If document contains text**: OCR document  
