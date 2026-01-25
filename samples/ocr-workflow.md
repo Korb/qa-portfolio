@@ -101,7 +101,7 @@ Sometimes text is saved as curves. Usually this means the file was prepared for 
 ![Screenshot of the PDF-XChange Editor Sanitize Document Options dialog. Most options are checked: Remove metadata and document info, Remove embedded content, Flatten form fields and scripts, Remove action and remove comments, Remove search index, Remove hidden layers, Remove hidden text, Remove obscured content, Remove bookmarks. Unchecked: Rasterize content with overlapping objects. OK and Cancel buttons.](../assets/screenshots/PDF-XChange_Editor_Sanitize_Document_Options.webp)  
 
 </details>
-
+͏  
 Check all boxes except **Rasterize content with overlapping objects**. Save the document. File size won't change much. This probably won't work, but it's worth trying.  
 
 **Method 2:** Same as above, but check **Rasterize content with overlapping objects**.  
@@ -116,7 +116,7 @@ The **Rasterization resolution** field will unlock. Enter at least 200 DPI. For 
 ![Screenshot of the Export Image(s) dialog. Configured for all pages, saving as single-page TIFF files with filename pattern. Horizontal and vertical resolution both 300 dpi, page zoom 100%, background white](../assets/screenshots/PDF-XChange_Editor_Export_to_Images.webp)
 
 </details>
-
+͏  
 - **Pages**: All  
 - **Image Type**: PNG - Portable Network Graphic  
 - **Export Mode**: Save Each Page to a Single-Page Image File  
@@ -147,7 +147,7 @@ Choose whichever method seems more convenient, accurate, or faster for your situ
    ![Screenshot of the OCR Pages (Enhanced) dialog. Languages set to Numbers and English with Auto accuracy. Several ignore options checked: Ignore existing text, Ignore form fields, Ignore comments. Output as Searchable Image, no fixes for skew/rotation or table lines. Skip pages that already contain text is unchecked.](../assets/screenshots/PDF-XChange_Editor_OCR_Pages.webp)
 
    </details>
-
+   ͏
 3. Click **OK**  
 4. After processing finishes, check the result and save the file  
 
