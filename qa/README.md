@@ -541,6 +541,10 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 
 *This portfolio demonstrates 4+ years of professional-grade QA work through consistent, high-quality contributions to enterprise software, mass-market applications, and open source projects.*
 
+---
+
+**Note:** I also have technical writing experience. [View Technical Writing Portfolio →](../technical-writing/)
+
 <div align="right">
 <table><td>
 <a href="#andrey-lappo--qa-engineer-portfolio">↥ Scroll to Top</a>
