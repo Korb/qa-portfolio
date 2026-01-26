@@ -71,7 +71,7 @@ For flatbed scanning with Epson Scan: Enhanced with Epson Easy Photo Fix 3.9.2.1
 
 <summary>Click to see screenshot</summary>  
 
-![Screenshot of the Epson Scan software in Professional Mode. The window shows scan settings configured for a reflective document: 24-bit color at 300 dpi, original size 2.96 × 4.22 inches, with adjustments including low-level Unsharp Mask, Fine Prints (175 lpi) descreening, low-level Dust Removal, and other options like Color Restoration and DIGITAL ICE turned off or at default/low](../assets/screenshots/Epson_Scan_Main_Window.webp)  
+![Screenshot of the Epson Scan software in Professional Mode. The window shows scan settings configured for a reflective document: 24-bit color at 300 dpi, original size 2.96 × 4.22 inches, with adjustments including low-level Unsharp Mask, Fine Prints (175 lpi) descreening, low-level Dust Removal, and other options like Color Restoration and DIGITAL ICE turned off or at default/low](../../../assets/screenshots/Epson_Scan_Main_Window.webp)  
 
 </details>  
 ͏  
@@ -105,7 +105,7 @@ In **Конфигурация** (**Configuration**) > **Другое** (**Other*
 
 <summary>Click to see screenshot</summary>  
 
-![The screenshot shows the Other tab of the Configuration dialog box in the Epson Scan application. The Correct Document Skew setting is checked at the top of the window](../assets/screenshots/Epson_Scan_Configuration.webp)  
+![The screenshot shows the Other tab of the Configuration dialog box in the Epson Scan application. The Correct Document Skew setting is checked at the top of the window](../../../assets/screenshots/Epson_Scan_Configuration.webp)  
 
 </details>  
 ͏  
@@ -115,7 +115,7 @@ Save as TIFF when available (it preserves pixel density information), or PNG if 
 
 <summary>Click to see screenshot</summary>  
 
-![Screenshot of the Epson Scan File Save Settings dialog box. Location is set to Other with the folder path pointing to Downloads. File naming uses prefix 0-digit number, starting at 003. Selected image format is TIFF (*.tif) with byte order Windows, no compression for color/grayscale or B&W, and Embed ICC Profile turned on. Checkboxes for overwrite, show dialog before scan, open folder after scanning, and show Add Page dialog are all unchecked. Standard OK, Cancel, and Help buttons at the bottom](../assets/screenshots/Epson_Scan_File_Save_Settings.webp)  
+![Screenshot of the Epson Scan File Save Settings dialog box. Location is set to Other with the folder path pointing to Downloads. File naming uses prefix 0-digit number, starting at 003. Selected image format is TIFF (*.tif) with byte order Windows, no compression for color/grayscale or B&W, and Embed ICC Profile turned on. Checkboxes for overwrite, show dialog before scan, open folder after scanning, and show Add Page dialog are all unchecked. Standard OK, Cancel, and Help buttons at the bottom](../../../assets/screenshots/Epson_Scan_File_Save_Settings.webp)  
 
 </details>  
 
@@ -142,7 +142,7 @@ FastStone Image Viewer lets you reorder images arbitrarily and then rename them 
 
 <summary>Click to see screenshot</summary>
 
-![The screenshot shows the Batch Rename tab of the Batch Image Convert / Rename dialog in FastStone Image Viewer. The left side of the dialog displays a list of files in the current folder. The right side contains a list of files to be renamed, a name mask, and the Rename button](../assets/screenshots/FastStone_Batch_Rename.webp)
+![The screenshot shows the Batch Rename tab of the Batch Image Convert / Rename dialog in FastStone Image Viewer. The left side of the dialog displays a list of files in the current folder. The right side contains a list of files to be renamed, a name mask, and the Rename button](../../../assets/screenshots/FastStone_Batch_Rename.webp)
 
 </details>
 ͏  
@@ -162,7 +162,7 @@ To compress TIFF files (saves storage space without losing quality), use FastSto
 
 <summary>Click to see screenshot</summary>
 
-![The screenshot shows the "Batch Convert" tab of the "Batch Image Convert / Rename" dialog in FastStone Image Viewer. In the central part, in the Output Format field, the TIFF format is selected. Another dialog, Output Format Options, is displayed above the dialog, with the compression option set to ZIP](../assets/screenshots/FastStone_Batch_Convert.webp)
+![The screenshot shows the "Batch Convert" tab of the "Batch Image Convert / Rename" dialog in FastStone Image Viewer. In the central part, in the Output Format field, the TIFF format is selected. Another dialog, Output Format Options, is displayed above the dialog, with the compression option set to ZIP](../../../assets/screenshots/FastStone_Batch_Convert.webp)
 
 </details>
 ͏  

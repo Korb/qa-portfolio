@@ -166,7 +166,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 <hr />
 
-<img src="assets/screenshots/Telegram_1361_1.webp" alt="Screenshot of Telegram General Questions FAQ page in light theme, illustrating reported bug where introductory welcome screen or help text fails to adapt to dark mode. Text covers app description, features like messaging, groups up to 200,000 members, encryption, and privacy options. Links to Tips Channel and blog mentioned.">
+<img src="../assets/screenshots/Telegram_1361_1.webp" alt="Screenshot of Telegram General Questions FAQ page in light theme, illustrating reported bug where introductory welcome screen or help text fails to adapt to dark mode. Text covers app description, features like messaging, groups up to 200,000 members, encryption, and privacy options. Links to Tips Channel and blog mentioned.">
 
 <hr />
 
@@ -206,9 +206,9 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 <hr />
 
-<img src="assets/screenshots/Telegram_19393_1.webp" alt="Screenshot of Telegram channel management menu in dark mode, illustrating bug with red mute icon in submenu. Main menu options include Mute notifications, View channel info, Manage Channel, Create poll, Export chat history, Clear history, Leave channel. Submenu for mute duration: Select tone, Disable sound, Mute for 2 hours, Mute for…, Mute forever (highlighted in red).">
+<img src="../assets/screenshots/Telegram_19393_1.webp" alt="Screenshot of Telegram channel management menu in dark mode, illustrating bug with red mute icon in submenu. Main menu options include Mute notifications, View channel info, Manage Channel, Create poll, Export chat history, Clear history, Leave channel. Submenu for mute duration: Select tone, Disable sound, Mute for 2 hours, Mute for…, Mute forever (highlighted in red).">
 ͏
-<img src="assets/screenshots/Telegram_19394_1.webp" alt="Screenshot of Telegram notification mute submenu in dark mode, illustrating bug where Mute Forever option uses red text and icon for emphasis. Options listed: Disable sound, Mute for…, Customize, with Mute Forever highlighted in red at bottom. Back arrow visible at top.">
+<img src="../assets/screenshots/Telegram_19394_1.webp" alt="Screenshot of Telegram notification mute submenu in dark mode, illustrating bug where Mute Forever option uses red text and icon for emphasis. Options listed: Disable sound, Mute for…, Customize, with Mute Forever highlighted in red at bottom. Back arrow visible at top.">
 
 <hr />
 
@@ -225,7 +225,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 <hr />
 
-<img src="assets/screenshots/Telegram_2154_1.webp" alt="Screenshot of Telegram live location sharing dialog in dark mode, illustrating bug where header banner remains light blue. Prompt asks to choose duration for accurate location sharing: 15 minutes selected, 1 hour, or until turned off; with Cancel and Share buttons. Background shows map and attachment options.">
+<img src="../assets/screenshots/Telegram_2154_1.webp" alt="Screenshot of Telegram live location sharing dialog in dark mode, illustrating bug where header banner remains light blue. Prompt asks to choose duration for accurate location sharing: 15 minutes selected, 1 hour, or until turned off; with Cancel and Share buttons. Background shows map and attachment options.">
 
 <hr />
 
@@ -282,9 +282,9 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 <hr />
 
-<img src="assets/screenshots/Telegram_1176_1.webp" alt="Screenshot of Telegram context menu for a media item in dark mode, illustrating bug where menu background remains light gray instead of fully dark. Options listed: Reply, Copy Link, Save to downloads, Share, Forward, Pin, Rename, Edit, Delete. Partial view of colorful image in background.">
+<img src="../assets/screenshots/Telegram_1176_1.webp" alt="Screenshot of Telegram context menu for a media item in dark mode, illustrating bug where menu background remains light gray instead of fully dark. Options listed: Reply, Copy Link, Save to downloads, Share, Forward, Pin, Rename, Edit, Delete. Partial view of colorful image in background.">
 ͏
-<img src="assets/screenshots/Telegram_1176_2.webp" alt="Screenshot of Telegram channel info panel in dark mode while sending a file, illustrating context for file rename request. Visible sections: blurred description waveform, Notifications toggle on, Members with Subscribers and Administrators. Bottom shows attached file The Birds (1963).avi (744.0 MB, dated 26.01.21 at 20:55) with green checkmark.">
+<img src="../assets/screenshots/Telegram_1176_2.webp" alt="Screenshot of Telegram channel info panel in dark mode while sending a file, illustrating context for file rename request. Visible sections: blurred description waveform, Notifications toggle on, Members with Subscribers and Administrators. Bottom shows attached file The Birds (1963).avi (744.0 MB, dated 26.01.21 at 20:55) with green checkmark.">
 
 <hr />
 
@@ -315,7 +315,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 
 hr />
 
-<img src="assets/screenshots/Telegram_2916_1.webp" alt="Screenshot of Telegram global search interface in dark mode, illustrating reported bug where thumbnails in search results remain light or poorly contrasted. Search bar with query, filters like All chats, Public, Private unchecked, Global search results with channel icons, and Found 600 messages section visible.">
+<img src="../assets/screenshots/Telegram_2916_1.webp" alt="Screenshot of Telegram global search interface in dark mode, illustrating reported bug where thumbnails in search results remain light or poorly contrasted. Search bar with query, filters like All chats, Public, Private unchecked, Global search results with channel icons, and Found 600 messages section visible.">
 
 <hr />
 
@@ -331,7 +331,7 @@ hr />
 
 <hr />
 
-<img src="assets/screenshots/Telegram_1114_1.webp" alt="Screenshot of Telegram bot info panel in dark mode, illustrating incomplete theme application with light background in shared media counters (6 photos, 2 videos, 5 shared links) and some menu items. Options include Notifications toggle off, Add to Group, Delete chat, Report, Stop and block bot.">
+<img src="../assets/screenshots/Telegram_1114_1.webp" alt="Screenshot of Telegram bot info panel in dark mode, illustrating incomplete theme application with light background in shared media counters (6 photos, 2 videos, 5 shared links) and some menu items. Options include Notifications toggle off, Add to Group, Delete chat, Report, Stop and block bot.">
 
 <hr />
 

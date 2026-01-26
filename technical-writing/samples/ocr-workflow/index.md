@@ -42,7 +42,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
      <details markdown="1">
      <summary>Click to see screenshot</summary>
 
-     ![Screenshot of the "Split Pages" dialog in PDF-XChange Editor. Vertical split at 50%, calculating offsets from top, preview shows page 1 split with a red vertical line. Settings marked as Custom, with OK and Cancel buttons](../assets/screenshots/PDF-XChange_Editor_Split_Pages.webp)
+     ![Screenshot of the "Split Pages" dialog in PDF-XChange Editor. Vertical split at 50%, calculating offsets from top, preview shows page 1 split with a red vertical line. Settings marked as Custom, with OK and Cancel buttons](../../../assets/screenshots/PDF-XChange_Editor_Split_Pages.webp)
 
      </details>
 
@@ -51,7 +51,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
      <details markdown="1">
      <summary>Click to see screenshot</summary>
 
-     ![Screenshot of the Crop Pages dialog open over the main editor window. The crop method is Manual Margin Control. Apply to Crop Box checked, various removal checkboxes for content, comments, form fields outside the box are on, Adjust page size to match cropped area selected. Preview shows the page with crop handles and rulers](../assets/screenshots/PDF-XChange_Editor_Crop_Pages.webp)
+     ![Screenshot of the Crop Pages dialog open over the main editor window. The crop method is Manual Margin Control. Apply to Crop Box checked, various removal checkboxes for content, comments, form fields outside the box are on, Adjust page size to match cropped area selected. Preview shows the page with crop handles and rulers](../../../assets/screenshots/PDF-XChange_Editor_Crop_Pages.webp)
 
      </details>
 
@@ -60,7 +60,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
      <details markdown="1">
      <summary>Click to see screenshot</summary>
 
-     ![Screenshot of the "Deskew Pages" dialog in PDF-XChange Editor. It shows a thumbnails panel with two document pages visible and a dialog for deskewing selected pages. Page range set to All, Current:6, Subset: All, with OK and Cancel](../assets/screenshots/PDF-XChange_Editor_Deskew_Pages.webp)
+     ![Screenshot of the "Deskew Pages" dialog in PDF-XChange Editor. It shows a thumbnails panel with two document pages visible and a dialog for deskewing selected pages. Page range set to All, Current:6, Subset: All, with OK and Cancel](../../../assets/screenshots/PDF-XChange_Editor_Deskew_Pages.webp)
 
      </details>
 
@@ -71,7 +71,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
    <details markdown="1">
    <summary>Click to see screenshot</summary>
 
-   ![Screenshot of the Preferences window in PDF-XChange Editor, focused on Tools > Default Tool section. Default Tool is set to Select Text. Checkboxes for remembering last used tool between sessions and keeping current tool as default for new documents are unchecked. Links section has Activate Links by set to Ctrl + Click](../assets/screenshots/PDF-XChange_Editor_Preferences_Tools_Default_Tool.webp)
+   ![Screenshot of the Preferences window in PDF-XChange Editor, focused on Tools > Default Tool section. Default Tool is set to Select Text. Checkboxes for remembering last used tool between sessions and keeping current tool as default for new documents are unchecked. Links section has Activate Links by set to Ctrl + Click](../../../assets/screenshots/PDF-XChange_Editor_Preferences_Tools_Default_Tool.webp)
 
    </details>
    ͏͏͏
@@ -83,7 +83,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 
    <summary>Click to see screenshot</summary>
 
-   ![A screenshot of the PDF-XChange Editor toolbar showing the Edit Objects button's drop-down list. The list includes the following options: All, Edit Text, Text Elements, Images, and Shapes (selected)](../assets/screenshots/PDF-XChange_Editor_Edit_Objects_Shapes.webp)
+   ![A screenshot of the PDF-XChange Editor toolbar showing the Edit Objects button's drop-down list. The list includes the following options: All, Edit Text, Text Elements, Images, and Shapes (selected)](../../../assets/screenshots/PDF-XChange_Editor_Edit_Objects_Shapes.webp)
 
    </details>
 
@@ -98,7 +98,7 @@ Sometimes text is saved as curves. Usually this means the file was prepared for 
 <details markdown="1">
 <summary>Click to see screenshot</summary>
 
-![Screenshot of the PDF-XChange Editor Sanitize Document Options dialog. Most options are checked: Remove metadata and document info, Remove embedded content, Flatten form fields and scripts, Remove action and remove comments, Remove search index, Remove hidden layers, Remove hidden text, Remove obscured content, Remove bookmarks. Unchecked: Rasterize content with overlapping objects. OK and Cancel buttons.](../assets/screenshots/PDF-XChange_Editor_Sanitize_Document_Options.webp)  
+![Screenshot of the PDF-XChange Editor Sanitize Document Options dialog. Most options are checked: Remove metadata and document info, Remove embedded content, Flatten form fields and scripts, Remove action and remove comments, Remove search index, Remove hidden layers, Remove hidden text, Remove obscured content, Remove bookmarks. Unchecked: Rasterize content with overlapping objects. OK and Cancel buttons.](../../../assets/screenshots/PDF-XChange_Editor_Sanitize_Document_Options.webp)  
 
 </details>
 
@@ -113,7 +113,7 @@ The **Rasterization resolution** field will unlock. Enter at least 200 DPI. For 
 <details markdown="1">
 <summary>Click to see screenshot</summary>
 
-![Screenshot of the Export Image(s) dialog. Configured for all pages, saving as single-page TIFF files with filename pattern. Horizontal and vertical resolution both 300 dpi, page zoom 100%, background white](../assets/screenshots/PDF-XChange_Editor_Export_to_Images.webp)
+![Screenshot of the Export Image(s) dialog. Configured for all pages, saving as single-page TIFF files with filename pattern. Horizontal and vertical resolution both 300 dpi, page zoom 100%, background white](../../../assets/screenshots/PDF-XChange_Editor_Export_to_Images.webp)
 
 </details>
 
@@ -144,7 +144,7 @@ Choose whichever method seems more convenient, accurate, or faster for your situ
    <details markdown="1">
    <summary>Click to see screenshot</summary>
 
-   ![Screenshot of the OCR Pages (Enhanced) dialog. Languages set to Numbers and English with Auto accuracy. Several ignore options checked: Ignore existing text, Ignore form fields, Ignore comments. Output as Searchable Image, no fixes for skew/rotation or table lines. Skip pages that already contain text is unchecked.](../assets/screenshots/PDF-XChange_Editor_OCR_Pages.webp)
+   ![Screenshot of the OCR Pages (Enhanced) dialog. Languages set to Numbers and English with Auto accuracy. Several ignore options checked: Ignore existing text, Ignore form fields, Ignore comments. Output as Searchable Image, no fixes for skew/rotation or table lines. Skip pages that already contain text is unchecked.](../../../assets/screenshots/PDF-XChange_Editor_OCR_Pages.webp)
 
    </details>
 
@@ -180,7 +180,7 @@ Settings will be saved. You won't need to go into them in the future.
    <details markdown="1">
    <summary>Click to see screenshot</summary>
 
-   ![Screenshot of PDF-Tools interface with OCR Pages tool selected. Options include batch and multi-threaded processing enabled, input from multiple PDF files via My Computer, output actions set to None, and OCR setup to ignore text-containing documents with dialog shown during run. OK and Cancel buttons at bottom](../assets/screenshots/PDF-Tools_OCR_Pages.webp)
+   ![Screenshot of PDF-Tools interface with OCR Pages tool selected. Options include batch and multi-threaded processing enabled, input from multiple PDF files via My Computer, output actions set to None, and OCR setup to ignore text-containing documents with dialog shown during run. OK and Cancel buttons at bottom](../../../assets/screenshots/PDF-Tools_OCR_Pages.webp)
 
    </details>
 
