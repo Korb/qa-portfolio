@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Andrey Lappo — QA Engineer & Technical Writer"
+description: "Portfolio: 2,500+ issues filed in QA | 60+ technical documentation pieces created"
+---
+
 # Andrey Lappo — Portfolio
 
 I'm a QA Engineer with 5+ years of continuous testing and strong technical writing skills.
@@ -21,4 +27,3 @@ I'm a QA Engineer with 5+ years of continuous testing and strong technical writi
 **Quick Links:**
 - [LinkedIn](https://linkedin.com/in/gallem/)
 - [GitHub](https://github.com/Korb)
-- [Contact](#contact)
