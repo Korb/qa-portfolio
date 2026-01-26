@@ -1,4 +1,4 @@
-# QA Portfolio
+# Andrey Lappo — Portfolio
 
 **This repository hosts my professional portfolio as a QA Engineer and Technical Writer.**
 
