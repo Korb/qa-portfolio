@@ -18,5 +18,9 @@ While primarily a QA Engineer, I have extensive technical writing experience...
 ## Contact
 
 ---
-**Note:** This is my secondary skillset.  
-[View Primary QA Portfolio →](../qa/)
+
+*This portfolio showcases technical documentation created for real-world projects, including process workflows and technical guides developed for a 50,000+ product e-commerce platform.*
+
+---
+
+**Note:** I also have QA engineering experience. [View QA Portfolio →](../qa/)
