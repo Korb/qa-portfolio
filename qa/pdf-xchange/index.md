@@ -49,7 +49,7 @@ description: "4+ years testing enterprise PDF software, 79 implementations."
 **Impact**:
 
 - **Business**: Users unable to complete document searches, forced to restart application
-- **Severity**: Critical - complete loss of functionality
+- **Severity**: Critical—complete loss of functionality
 - **User Time Lost**: Hours of unproductive waiting
 
 **Skills Demonstrated**:

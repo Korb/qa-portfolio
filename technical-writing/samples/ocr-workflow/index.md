@@ -20,8 +20,8 @@ description: "An anonymized translation of internal documentation created for Ru
 This workflow handles OCR (Optical Character Recognition) for PDFs in a large documentation archive. Three types of documents need different approaches:  
 
 1. Already searchable PDFs > nothing to do  
-2. [Scanned images](./digitization-workflow.md) > standard OCR  
-3. PDFs with *text in curves* > special handling required  
+1. [Scanned images](./digitization-workflow.md) > standard OCR  
+1. PDFs with *text in curves* > special handling required  
 
 The third type is the tricky one. Print-ready PDFs often convert text to vector curves so fonts print consistently. These files look like they have text, but it's actually vector graphics. You can't OCR them until you convert the vectors back to images.  
 
@@ -33,9 +33,9 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 
 1. Install PDF-XChange Pro
 
-2. Open the PDF in PDF-XChange Editor Plus
+1. Open the PDF in PDF-XChange Editor Plus
 
-3. Do basic cleanup if needed:
+1. Do basic cleanup if needed:
 
    - **Split facing pages**: Split Pages… (*Split pages in the active document*)
 
@@ -66,7 +66,7 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 
    - **Check page numbering**: drag pages in the thumbnail panel or use Move Pages (*Move pages of the active document*)  
 
-4. Try selecting text with the cursor. (When processing many documents, it helps to set **File** > **Preferences** > **Tools** > **Default Tool** to **Select Text** so that's the tool that opens by default.)  
+1. Try selecting text with the cursor. (When processing many documents, it helps to set **File** > **Preferences** > **Tools** > **Default Tool** to **Select Text** so that's the tool that opens by default.)  
 
    <details markdown="1">
    <summary>Click to see screenshot</summary>
@@ -75,9 +75,9 @@ The third type is the tricky one. Print-ready PDFs often convert text to vector 
 
    </details>
    ͏͏͏
-5. If text selects, copy it and paste into any text editor (Notepad, WordPad, Word, whatever). Check if it matches what you selected in the PDF. If it matches, the document doesn't need OCR. Move to the next document and start this workflow over. If text doesn't select, only partially selects, or the pasted text doesn't match what's displayed, keep going through these steps.  
-6. Take a quick look at what languages appear in the document. If you're not sure, copy a sample into Google Translate with auto-detect turned on.  
-7. In the toolbar, click the bottom part of the **Edit Objects** combo button, choose **Shapes**, and try selecting text by dragging with the left mouse button. If individual letters get selected, go to the next section. Otherwise, skip to the [OCR Methods](#ocr-methods) section.  
+1. If text selects, copy it and paste into any text editor (Notepad, WordPad, Word, whatever). Check if it matches what you selected in the PDF. If it matches, the document doesn't need OCR. Move to the next document and start this workflow over. If text doesn't select, only partially selects, or the pasted text doesn't match what's displayed, keep going through these steps.  
+1. Take a quick look at what languages appear in the document. If you're not sure, copy a sample into Google Translate with auto-detect turned on.  
+1. In the toolbar, click the bottom part of the **Edit Objects** combo button, choose **Shapes**, and try selecting text by dragging with the left mouse button. If individual letters get selected, go to the next section. Otherwise, skip to the [OCR Methods](#ocr-methods) section.  
 
    <details markdown="1">
 
@@ -139,7 +139,7 @@ Choose whichever method seems more convenient, accurate, or faster for your situ
 ### OCR in PDF-XChange Editor  
 
 1. With the document still open, click **OCR Page(s)** (*Recognize text in scanned documents using the Optical Character Recognition (OCR)*)  
-2. In the **OCR Pages (Enhanced)** window, use checkboxes to select the needed languages, plus **Ignore existing text on page**, **Ignore comments on page**, **Ignore form fields on page**, and under **Output Options** set **Type** to **Searchable Image**  
+1. In the **OCR Pages (Enhanced)** window, use checkboxes to select the needed languages, plus **Ignore existing text on page**, **Ignore comments on page**, **Ignore form fields on page**, and under **Output Options** set **Type** to **Searchable Image**  
 
    <details markdown="1">
    <summary>Click to see screenshot</summary>
@@ -148,34 +148,34 @@ Choose whichever method seems more convenient, accurate, or faster for your situ
 
    </details>
 
-3. Click **OK**  
-4. After processing finishes, check the result and save the file  
+1. Click **OK**  
+1. After processing finishes, check the result and save the file  
 
 ### OCR in ABBYY FineReader PDF  
 
 1. Close the document  
-2. Install ABBYY FineReader PDF  
-3. Copy the full path to the PDF document. In File Explorer you can do this with the **Copy as path** button on the toolbar or through the context menu with <kbd>Shift</kbd> + <kbd>RMB</kbd>  
-4. <kbd>RMB</kbd> the PDF in File Explorer, choose **Convert with ABBYY FineReader PDF** > **Convert to searchable PDF document**  
-5. Paste the path you copied into the filename field  
-6. In the **OCR languages** field, choose the document's languages (from step 6 in the [Initial Assessment](#initial-assessment) section)  
-7. Make sure in **Options** > **OCR**:  
+1. Install ABBYY FineReader PDF  
+1. Copy the full path to the PDF document. In File Explorer you can do this with the **Copy as path** button on the toolbar or through the context menu with <kbd>Shift</kbd> + <kbd>RMB</kbd>  
+1. <kbd>RMB</kbd> the PDF in File Explorer, choose **Convert with ABBYY FineReader PDF** > **Convert to searchable PDF document**  
+1. Paste the path you copied into the filename field  
+1. In the **OCR languages** field, choose the document's languages (from step 6 in the [Initial Assessment](#initial-assessment) section)  
+1. Make sure in **Options** > **OCR**:  
    - **PDF recognition mode**: Use OCR  
    - **OCR speed and accuracy**: Thorough recognition  
    - **Document type**: Auto  
    - **Use of patterns and training in OCR Editor**: Use built-in patterns  
    - Check for **Headers and footers**, **Table of contents**, **Numbered lists**, and **Footnotes**  
-8. On the **Image Processing settings** tab, it's better to uncheck all the **Image preprocessing settings (apply to conversion and OCR)** boxes  
-9. Click **Save**, confirming overwrite  
+1. On the **Image Processing settings** tab, it's better to uncheck all the **Image preprocessing settings (apply to conversion and OCR)** boxes  
+1. Click **Save**, confirming overwrite  
 
 Settings will be saved. You won't need to go into them in the future.  
 
 ### OCR in PDF-Tools  
 
 1. Close the document  
-2. Launch PDF-Tools  
-3. Choose **OCR Pages** (*Optically recognizes text characters in a PDF document, creates selectable and searchable text layer on pages*)  
-4. Check boxes for **Batch Processing Mode**, **Multi-Threaded Processing Mode**, **Do Not Ask for Passwords**, **Allow select multiple files**, **Show extended dialog for files selecting**, **OCR Pages**, **Show setup dialog while running**  
+1. Launch PDF-Tools  
+1. Choose **OCR Pages** (*Optically recognizes text characters in a PDF document, creates selectable and searchable text layer on pages*)  
+1. Check boxes for **Batch Processing Mode**, **Multi-Threaded Processing Mode**, **Do Not Ask for Passwords**, **Allow select multiple files**, **Show extended dialog for files selecting**, **OCR Pages**, **Show setup dialog while running**  
 
    <details markdown="1">
    <summary>Click to see screenshot</summary>
@@ -184,7 +184,7 @@ Settings will be saved. You won't need to go into them in the future.
 
    </details>
 
-5. **Choose Input Files** > **File types**: PDF Documents (*.pdf)  
+1. **Choose Input Files** > **File types**: PDF Documents (*.pdf)  
 
    **OCR Pages** > **If document contains text**: OCR document  
 
@@ -196,9 +196,9 @@ Settings will be saved. You won't need to go into them in the future.
 
    For **OCR Pages (Enhanced)** settings, use the same ones from the [OCR in PDF-XChange Editor](#ocr-in-pdf-xchange-editor) section above  
 
-6. Drag the PDF from the file manager onto the tool icon (or double-click the tool icon, drag the PDF onto the **Choose Input Files** window, and click **OK**)  
-7. Choose the document's languages, confirm, wait for recognition to finish (green progress bar at the top of the PDF-Tools main screen)  
-8. Close the PDF-Tools window  
+1. Drag the PDF from the file manager onto the tool icon (or double-click the tool icon, drag the PDF onto the **Choose Input Files** window, and click **OK**)  
+1. Choose the document's languages, confirm, wait for recognition to finish (green progress bar at the top of the PDF-Tools main screen)  
+1. Close the PDF-Tools window  
 
 ---
 

@@ -48,6 +48,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 *4+ years testing enterprise PDF software, Adobe Acrobat's strongest competitor*
 
 **Statistics**:
+
 - **Product**: PDF-XChange Pro (PDF-XChange Editor, PDF-Tools and PDF-XChange Print Drivers)
 - **Issues Filed**: 250+ on PDF-XChange forum alone
 - **Implemented**: 79 enhancements/fixes
@@ -63,44 +64,54 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 #### Brief Highlights
 
 1. **[Critical Search Hang](https://forum.pdf-xchange.com/viewtopic.php?t=43104)**: Multi-file search freezing for hours → Fixed after investigation
+
    - *Impact*: Blocked entire workflow, hours lost
    - *Skills*: Hard-to-reproduce bugs, persistence with developers
 
 2. **[Auto-Remove Hyphenations](https://forum.pdf-xchange.com/viewtopic.php?t=41728)**: Export books to text without manual cleanup
+
    - *Impact*: Saved hours per 100+ page book
    - *Skills*: Workflow testing, real-world use cases
 
 3. **[“Crawling” Selection Bug](https://forum.pdf-xchange.com/viewtopic.php?t=38082)**: Crop tool drifted at high zoom
+
    - *Impact*: Precision work impossible at 400%+ zoom
    - *Skills*: Pixel-level precision, edge conditions, week-long investigation
 
 4. **[Split Lines Beyond Page Edges](https://forum.pdf-xchange.com/viewtopic.php?p=178885)**: Visual improvement for page split guides
+
    - *Impact*: Much more visible, matches Adobe behavior
    - *Skills*: Comparative analysis, visual testing
 
 5. **[Broken Filename Macros](https://forum.pdf-xchange.com/viewtopic.php?t=46421)**: Batch processing overwrote files
+
    - *Impact*: Data loss risk in batch operations
    - *Skills*: Batch workflow testing, macro systems
 
 6. **[PDF-Tools Context Menu](https://forum.pdf-xchange.com/viewtopic.php?t=39276)**: Proposed unified Windows Explorer integration
+
    - *Impact*: Transformed batch processing UX (3-year implementation)
    - *Skills*: Product vision, feature specification
 
 7. **[Progress Bar for Search](https://forum.pdf-xchange.com/viewtopic.php?t=39744)**: Added ETA display for long operations
+
    - *Impact*: Users can now plan, know if frozen
    - *Skills*: Long-running operations, user psychology
 
 8. **[Batch Export Bug](https://forum.pdf-xchange.com/viewtopic.php?t=42096)**: Fixed mixed encoding in legacy MS Word files
+
    - *Impact*: Blocked batch processing of old archives
    - *Skills*: Legacy format handling, encoding issues
 
 9. **[Remove OCR Languages](https://forum.pdf-xchange.com/viewtopic.php?t=37493)**: Added uninstall for language packs
+
    - *Impact*: Disk space management, user control
    - *Skills*: Installation testing, missing features
 
 10. **[Sync OCR Settings](https://forum.pdf-xchange.com/viewtopic.php?t=37968)**: Eliminated repeated language configuration
-    - *Impact*: Workflow efficiency, consistency
-    - *Skills*: Cross-feature testing, user expectations
+
+   - *Impact*: Workflow efficiency, consistency
+   - *Skills*: Cross-feature testing, user expectations
 
 #### Skills Demonstrated
 
@@ -145,6 +156,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 #### Implemented Improvements
 
 **1. Text Formatting as Quote** ([#1361](https://bugs.telegram.org/c/1361))
+
 - **Type**: Enhancement
 - **Impact**: Added fundamental text formatting option used daily by millions
 - **Use Case**: Replying to specific parts of messages in discussions
@@ -161,11 +173,13 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 </details>
 ͏  
 **2. Allow Quotes to be Collapsed** ([#48496](https://bugs.telegram.org/c/48496))
+
 - **Type**: Enhancement
 - **Impact**: Improved readability of long posts with multiple quotes
 - **Demonstrates**: Thinking about further improving the previous function for special cases
 
 **3. HEVC Video Upload Support** ([#29058](https://bugs.telegram.org/c/29058))
+
 - **Type**: Functionality
 - **Impact**: Modern codec support, smaller file sizes for same quality
 - **Technical**: Cross-platform codec compatibility
@@ -176,11 +190,13 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - **Demonstrates**: Finding non-obvious workflow issues
 
 **5. Video Size Limit Notifications** ([#48453](https://bugs.telegram.org/c/48453))
+
 - **Type**: Error Handling
 - **Impact**: Users no longer waste time uploading videos that will be rejected
 - **UX**: Proactive error prevention vs reactive error messages
 
 **6 and 7. UI Labels: “Mute” → “Notifications”** ([#19393](https://bugs.telegram.org/c/19393), [#19394](https://bugs.telegram.org/c/19394))
+
 - **Type**: UX & Usability (2 related issues)
 - **Impact**: Clearer terminology — “Mute” is a special case, unlike “Notifications” — a general category that increments all actions combined in a submenu, including “Mute”
 - **Demonstrates**: Microcopy/terminology thinking
@@ -199,6 +215,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 </details>
 ͏  
 **8. Real-time Location Sharing Until Disabled** ([#2154](https://bugs.telegram.org/c/2154))
+
 - **Type**: Enhancement
 - **Impact**: Currently, location sharing expires after maximum 8 hours, forcing manual renewal. This creates gaps in coverage and unreliable tracking for safety-critical or extended-duration scenarios. An “until turned off” option would provide seamless, continuous sharing aligned with user expectations from similar platforms.
 - **Use Case**: Search and rescue coordination, parental monitoring, family/close contacts awareness, extended outdoor activities, and elderly care
@@ -215,11 +232,13 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 </details>
 ͏  
 **9. Return to Original Message After Forwarding** ([#17491](https://bugs.telegram.org/c/17491))
+
 - **Type**: UX & Usability
 - **Impact**: Eliminated disorientation after forwarding—automatically returns to context
 - **Workflow**: Common action (forward) → smooth continuation
 
 **10. “Play Cached Music Only” Mode** ([#2305](https://bugs.telegram.org/c/2305))
+
 - **Type**: Enhancement
 - **Impact**: Data-saving mode for users with limited mobile data
 - **Demonstrates**: Understanding diverse user contexts (data constraints)
@@ -234,22 +253,27 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 *These suggestions received up to 90 votes, demonstrating understanding of widely-felt pain points*
 
 **1. Drag & Drop Chats to Folders** ([#1208](https://bugs.telegram.org/c/1208)) — **90+ votes**
+
 - Intuitive organization method matching user expectations from file managers
 - Currently: manual folder assignment through main Settings menus
 
 **2. “Schedule Message” in Share Menu** ([#2717](https://bugs.telegram.org/c/2717)) — **40+ votes**
+
 - Extend scheduling feature to external shares, not just in-app messages
 - Use case: Share from browser → schedule for later
 
 **3. Send Videos as Videos, Not Documents** ([#2192](https://bugs.telegram.org/c/2192)) — **30+ votes**
+
 - Fix: Videos from certain sources default to “document” format
 - Impact: Proper playback preview instead of download-only (and then switching to another app to watch the video)
 
 **4. Opt-out of Link Previews** ([#3195](https://bugs.telegram.org/c/3195)) — **30+ votes**
+
 - User control: Disable automatic link preview fetching
 - Privacy: Prevent revealing visited sites to link preview servers
 
 **5. Rename Uploaded Files** ([#1176](https://bugs.telegram.org/c/1176)) — **30+ votes**
+
 - Edit filenames before/after upload
 - Use cases: Generic camera filenames → descriptive names; fixing names corrupted by Telegram's upload manager ([#1209](https://bugs.telegram.org/c/1209))
 
@@ -267,18 +291,22 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 </details>
 ͏  
 **6. Add Media to Previously Sent Messages** ([#2750](https://bugs.telegram.org/c/2750)) — **20+ votes**
+
 - Edit message to include image/video after sending
 - Matches modern messaging expectations
 
 **7. EXIF Data Control When Sending Photos** ([#1411](https://bugs.telegram.org/c/1411)) — **20+ votes**
+
 - Privacy: Choose to strip or keep location/camera metadata
 - Use case: Share photos without revealing location
 
 **8. Text Notes for Groups/Channels/Bots** ([#2835](https://bugs.telegram.org/c/2835)) — **20+ votes**
+
 - Personal notes attached to any chat (visible only to you)
 - Use case: Context about why you joined, project details, etc.
 
 **9. Global Search Filters** ([#2916](https://bugs.telegram.org/c/2916)) — **20+ votes**
+
 - Filter by: “Where I'm owner/admin”, “Public/Private”
 - Power user feature for managing many groups/channels
 
@@ -294,6 +322,7 @@ hr />
 </details>
 ͏  
 **10. Show Folders Containing Each Chat** ([#1114](https://bugs.telegram.org/c/1114)) — **15+ votes**
+
 - Display which folder(s) include current chat in chat properties
 - Organization: Know where chat lives in your folder structure
 
@@ -311,26 +340,31 @@ hr />
 #### Skills Demonstrated
 
 **Mass-Market App Testing**:
+
 - Consumer-facing features (400M+ users)
 - Cross-platform thinking (Desktop, Android, iOS considerations)
 - Diverse user contexts (data limits, privacy needs, power users)
 
 **Community Engagement**:
+
 - Voting system participation (identifying widely-felt issues)
 - Understanding pain points that resonate with thousands of users
 - Feature requests that receive 50-100+ community votes
 
 **UX & Enhancement Focus**:
+
 - 47% Enhancement suggestions (improving existing features)
 - 32% UX/Usability improvements (workflow optimization)
 - Terminology/microcopy thinking (renaming “Mute” to “Notifications”)
 
 **Workflow Analysis**:
+
 - Identifying multi-step processes that could be streamlined
 - Error prevention (video size limits) vs error handling
 - Context preservation (return to message after forwarding)
 
 **Platform Understanding**:
+
 - bugs.telegram.org is a community suggestion platform, not a traditional bug tracker
 - Acceptance rate (~3-4%) is typical for mass-market apps with high suggestion volume
 - Many suggestions remain “open” even when implemented—platform maintenance limitation
@@ -347,6 +381,7 @@ hr />
 *5+ years. Demonstrating breadth: testing across 380+ repositories in last 2 years*
 
 **Statistics**:
+
 - **2025**: 900 contributions (368 repos) — 75% Issues, 9% PRs, 15% Commits, 1% Code review
 - **2024**: 578 contributions (305 repos)
 - **2023**: 169 contributions (113 repos)
@@ -367,34 +402,42 @@ hr />
 **Brief Highlights**:
 
 1. **[Spectral Emulator: AVX2 Incompatibility](https://github.com/r-lyeh/Spectral/issues/4)** (Critical crash)
+
    - Entire CPU generations excluded (pre-2013 Intel/AMD)
    - *Skills*: Hardware compatibility, CPU instruction sets
 
 2. **[RetroArch: ISO Crash](https://github.com/libretro/RetroArch/issues/16906)** (Critical)
+
    - Crash on ISOs without serial numbers (homebrew discs)
    - *Skills*: Edge case file formats, homebrew testing
 
 3. **[HomeMedkit: Data Loss Prevention](https://github.com/pewaru-333/HomeMedkit-App/issues/60)** (High severity)
+
    - Users losing medication data silently
    - *Skills*: Workflow analysis, form validation UX
 
 4. **[DocsAfterDark: Dark Theme Bugs](https://github.com/waymondrang/docsafterdark/issues?q=is%3Aissue%20author%3Akorb%20state%3Aclosed)** (6 visual bugs)
+
    - Invisible checkmarks, unreadable text, cursor issues
    - *Skills*: Systematic UI testing, accessibility/contrast
 
 5. **[Locus: Location Features](https://github.com/Myzel394/locus/issues?q=is%3Aissue%20author%3Akorb%20state%3Aclosed)** (many feature requests, all implemented)
+
    - Real SAR scenarios: own track display, compass, offline buffering
    - *Skills*: Field testing, safety-critical apps
 
 6. **[Unison: UTF-8 Bug](https://github.com/bcpierce00/unison/issues/959)** (Encoding bug)
+
    - Filename corruption for national characters
    - *Skills*: i18n testing, cross-platform encoding
 
 7. **[StreetComplete: Location Arrow](https://github.com/streetcomplete/StreetComplete/issues/6562)** (Visual bug)
+
    - Invisible direction arrow in dark theme
    - *Skills*: Field testing, OSM (OpenStreetMap) contribution
 
 8. **[FacilMap: Browser Setting Conflict](https://github.com/FacilMap/facilmap/issues/312)** (Compatibility)
+
    - Broken rendering due to obscure browser accessibility setting
    - *Skills*: Troubleshooting environmental issues, browser diversity
 
@@ -416,6 +459,7 @@ hr />
 ## Documentation & Localization
 
 **Translation Work** (70+ apps):
+
 - **Scope**: Full applications (mobile, desktop, device firmware), app metadata (F-Droid/IzzyOnDroid), UI strings, changelogs, feature descriptions, help documentation
 - **Platforms**: Weblate, Crowdin, GitHub
 - **Languages**: Russian, English
@@ -426,6 +470,7 @@ hr />
   - [Obtainium PR](https://github.com/ImranR98/Obtainium/pull/2628) with formatting improvements
 
 **README Improvements** (100+):
+
 - Added screenshots: 15+ projects
 - Fixed dark theme logos: 5+ projects
 - Corrected app naming inconsistencies: 10+ projects
@@ -470,6 +515,7 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 *Medical equipment e-commerce platform*
 
 **Key Achievements**:
+
 - Created documentation management system for **50,000+ products** / 1200+ brands
 - Processed **500,000+ documents**: digitization, OCR, metadata, deduplication
 - Developed PDF protection mechanism saving **$15,000 annually**
@@ -508,13 +554,17 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 ## Technical Skills
 
 **Operating Systems**:
+
 - Windows (advanced)
 - Android
+
 **Tools**:
+
 - Excel/Google Sheets (advanced formulas)
 - Git/GitHub
 - SDL Trados
 - OCR software
+
 **Testing Types**: Exploratory, usability, regression, localization, accessibility, cross-platform, batch processing
 **Documentation**: Technical writing, README creation, user guides, translation
 **Languages**: HTML, Markdown, BBCode
@@ -525,17 +575,20 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 ## Contact
 
 **Open to**:
+
 - Remote QA Engineer positions (worldwide)
 - On-site positions in EU, North America, South America
 - Contract / Part-time / Full-time
 
 **Preferred Roles**:
+
 - Manual QA Engineer / QA Tester / Quality Assurance Analyst
 - Documentation Testing Specialist
 - Localization QA Specialist (Russian)
 - Technical Writer with QA focus
 
 **Links**:
+
 - **Professional**
   - LinkedIn: [Andreу Laрpo](https://linkedin.com/in/gallem/)
   - GitHub: [@Korb](https://github.com/Korb)

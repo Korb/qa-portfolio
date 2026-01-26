@@ -2,7 +2,7 @@
 
 **Have you read [CONTRIBUTING.md](CONTRIBUTING.md)?**
 
-If not, here's the summary: This is a **personal portfolio**. You can't add your own work experience to my resume. That would be... weird.
+If not, here's the summary: This is a **personal portfolio**. You can't add your own work experience to my resume. That would be… weird.
 
 **However**, PRs are absolutely welcome for:
 - Fixing typos

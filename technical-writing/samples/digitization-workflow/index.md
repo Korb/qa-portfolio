@@ -20,6 +20,7 @@ description: "An anonymized translation of internal documentation created for Ru
 A lot of product documentation still arrives as paper only. The printed material is often good enough quality to use on the website, and the information itself is valuable for reference. The goal here is to convert these paper documents into proper digital files—searchable text, copy-paste functionality, the works.  
 
 Before you start scanning anything, make sure you have one of these:  
+
 - A second copy of the document  
 - Page numbers printed on every page  
 - A video recording of yourself flipping through the entire thing  
@@ -49,6 +50,7 @@ Glossy or thick pages might jam the auto-feed scanner. Use a flatbed scanner for
 For auto-feed scanning, use Samsung Printer Experience or whatever scanner software you have. The specific model doesn't matter as much as getting the settings right.  
 
 **Basic settings:**  
+
 - **Scan profile**: Image Scan  
 - **Image type**: Full color  
 - **Paper size**: Auto-detect or choose manually  
@@ -75,17 +77,20 @@ For flatbed scanning with Epson Scan: Enhanced with Epson Easy Photo Fix 3.9.2.1
 ͏  
 **Mode** (**Режим**): Professional Mode (Профессиональный режим)  
 **Original** (**Оригинал**):  
+
 - **Document Type** (**Тип документа**): Reflective (Непрозрачный)  
 - **Document Source** (**Источник документа**): Document Table (Планшет для документов)  
 - **Auto Exposure Type** (**Тип автоэкспозиции**): Photo (Фото)  
 
 **Destination** (**Назначение**):  
+
 - **Image Type** (**Тип изображения**): 24-bit Color (Цветной 24 бита)  
 - **Resolution** (**Разрешение**): 300 dpi  
 - **Document Size** (**Размер документа**): *(pick the smallest size that doesn't crop content on any page)*  
 - **Target Size** (**Размер назначения**): Original (Оригинал)  
 
 **Adjustments** (**Настройки**):  
+
 - **Auto exposure** (**Автоэкспозиция**): On (Включено)  
 - **Unsharp Mask** > **Level** (**Повышение резкости** > **Уровень**): On > Low (Включено > Низкий)  
 - **Descreening** > **Screen Ruling** (**Удаление растра** / **Линиатура**): Fine Prints (175 lpi) (Качественная печать (175 lpi))  
@@ -123,15 +128,15 @@ After scanning, sort the files by name and verify the page order is correct. Thi
 FastStone Image Viewer lets you reorder images arbitrarily and then rename them sequentially. Here's how:  
 
 1. Open the folder with scans in File Explorer  
-2. Right-click the folder > **Browse with FastStone** (if context menu integration is installed)  
+1. Right-click the folder > **Browse with FastStone** (if context menu integration is installed)  
    - If that option doesn't exist: Right-click any scan > **Open with** > **FastStone Image Viewer**  
    - If that's not there either: Right-click any scan > **Open with** > **Choose another app** > **Choose an app on your PC** > navigate to FastStone Image Viewer folder > select **FSViewer.exe** > **OK**  
-3. Press <kbd>Enter</kbd>  
-4. You'll see all images in the folder in some order. In the dropdown list **Thumbnail Order** choose **Date Taken** (sorts by creation date)  
-5. Go through the images from first to last, checking the order is right. If pages are out of sequence, drag and drop to fix them  
-6. When you're done reordering, select all images and press <kbd>F2</kbd>  
-7. In the **Batch Rename** tab of the **Batch Image Convert / Rename** window, set Template to **###** and **Sequential number starts from** to **1**  
-8. Click **Rename**  
+1. Press <kbd>Enter</kbd>  
+1. You'll see all images in the folder in some order. In the dropdown list **Thumbnail Order** choose **Date Taken** (sorts by creation date)  
+1. Go through the images from first to last, checking the order is right. If pages are out of sequence, drag and drop to fix them  
+1. When you're done reordering, select all images and press <kbd>F2</kbd>  
+1. In the **Batch Rename** tab of the **Batch Image Convert / Rename** window, set Template to **###** and **Sequential number starts from** to **1**  
+1. Click **Rename**  
 
 <details markdown="1">
 
@@ -166,6 +171,7 @@ After digitization is complete, follow [the OCR workflow](./ocr-workflow.md) to 
 ---  
 
 **Common mistakes to avoid:**  
+
 - Skipping the verification step. Once pages are misordered, they're permanently misordered.  
 - Using JPEG output. It reduces OCR accuracy.  
 - Using Document mode for materials with photos. It destroys image quality.  

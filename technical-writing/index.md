@@ -26,7 +26,7 @@ Technical Writer with QA background — created 60+ internal documentation piece
 
 ## Overview
 
-While primarily a QA Engineer, I have extensive technical writing experience...
+While primarily a QA Engineer, I have extensive technical writing experience…
 
 ## Writing Samples
 
@@ -46,7 +46,19 @@ While primarily a QA Engineer, I have extensive technical writing experience...
 
 ## Contact
 
----
+- **Professional**
+  - LinkedIn: [Andreу Laрpo](https://linkedin.com/in/gallem/)
+  - GitHub: [@Korb](https://github.com/Korb)
+- **Additional Repositories**
+  - GitLab: [@Nia_Ward](https://gitlab.com/Nia_Ward)
+  - Codeberg: [@Otto_Ball](https://codeberg.org/Otto_Ball)
+- **Translation Profiles**:
+  - Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)
+  - Crowdin: @Niyah_Atkins
+
+**Email**: available on LinkedIn
+
+<hr />
 
 *This portfolio showcases technical documentation created for real-world projects, including process workflows and technical guides developed for a 50,000+ product e-commerce platform.*
 
