@@ -42,9 +42,9 @@ While primarily a QA Engineer, I have extensive technical writing experience…
 
   - 4+ years reporting documentation issues
 
-{% professional-background-tw.md %}
+{% include professional-background-tw.md %}
 
-{% contact.md %}
+{% include contact.md %}
 
 <hr />
 

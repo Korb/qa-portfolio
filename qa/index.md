@@ -500,7 +500,7 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 
 <hr />
 
-{% professional-background-qa.md %}
+{% include professional-background-qa.md %}
 
 <hr />
 
@@ -525,7 +525,7 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 
 <hr />
 
-{% contact.md %}
+{% include contact.md %}
 
 <hr />
 

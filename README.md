@@ -28,7 +28,7 @@ For detailed information, visit the [portfolio website](https://korb.github.io/q
 
 ---
 
-{% contact.md %}
+{% include contact.md %}
 
 ---
 

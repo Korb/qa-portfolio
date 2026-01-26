@@ -26,4 +26,4 @@ I'm a QA Engineer with 5+ years of continuous testing and strong technical writi
 
 ---
 
-{% contact.md %}
+{% include contact.md %}
