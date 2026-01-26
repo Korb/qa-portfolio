@@ -3,7 +3,7 @@
 "assets" Media.
 "qa" Text part of the QA portfolio.
 "technical-writing" Text part of the TW portfolio.
-"_config.yml" Jekyll theme / skin.
+"_config.yml" Jekyll primary configuration file.
 "android-chrome-192x192.png" Favicon 192 × 192 px.
 "android-chrome-512x512.png" Favicon 512 × 512 px.
 "apple-touch-icon.png" Favicon 180 × 180 px.
@@ -17,4 +17,4 @@
 "README.md" https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
 "robots.txt" https://developers.google.com/search/docs/crawling-indexing/robots/intro
 "site.webmanifest" Favicon data.
-"sitemap.xml" I couldn't get Google Search Console to display anything other than `Sitemap could not be read` for it."
+"sitemap.xml" I couldn't get Google Search Console to display anything other than 'Sitemap could not be read` for it'.

@@ -4,9 +4,21 @@
     <loc>https://korb.github.io/qa-portfolio/</loc>
   </url>
   <url>
-    <loc>https://korb.github.io/qa-portfolio/github/</loc>
+    <loc>https://korb.github.io/qa-portfolio/qa/</loc>
   </url>
   <url>
-    <loc>https://korb.github.io/qa-portfolio/pdf-xchange/</loc>
+    <loc>https://korb.github.io/qa-portfolio/qa/github/</loc>
+  </url>
+  <url>
+    <loc>https://korb.github.io/qa-portfolio/qa/pdf-xchange/</loc>
+  </url>
+  <url>
+    <loc>https://korb.github.io/qa-portfolio/technical-writing/</loc>
+  </url>
+  <url>
+    <loc>https://korb.github.io/qa-portfolio/technical-writing/samples/digitization-workflow/</loc>
+  </url>
+  <url>
+    <loc>https://korb.github.io/qa-portfolio/technical-writing/samples/ocr-workflow/</loc>
   </url>
 </urlset>
