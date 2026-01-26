@@ -28,10 +28,7 @@ For detailed information, visit the [portfolio website](https://korb.github.io/q
 
 ---
 
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/gallem](https://linkedin.com/in/gallem/)
-- **Email:** available on LinkedIn
+{% contact.md %}
 
 ---
 

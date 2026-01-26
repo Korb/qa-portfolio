@@ -26,7 +26,4 @@ I'm a QA Engineer with 5+ years of continuous testing and strong technical writi
 
 ---
 
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/gallem](https://linkedin.com/in/gallem/)
-- **Email:** available on LinkedIn
+{% contact.md %}

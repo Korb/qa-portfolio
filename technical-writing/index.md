@@ -42,21 +42,9 @@ While primarily a QA Engineer, I have extensive technical writing experience…
 
   - 4+ years reporting documentation issues
 
-## Professional Background (focus on writing)
+{% professional-background-tw.md %}
 
-## Contact
-
-- **Professional**
-  - LinkedIn: [Andreу Laрpo](https://linkedin.com/in/gallem/)
-  - GitHub: [@Korb](https://github.com/Korb)
-- **Additional Repositories**
-  - GitLab: [@Nia_Ward](https://gitlab.com/Nia_Ward)
-  - Codeberg: [@Otto_Ball](https://codeberg.org/Otto_Ball)
-- **Translation Profiles**:
-  - Weblate: [Lowri_Olsen](https://hosted.weblate.org/user/Lowri_Olsen/)
-  - Crowdin: @Niyah_Atkins
-
-**Email**: available on LinkedIn
+{% contact.md %}
 
 <hr />
 
