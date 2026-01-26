@@ -1,9 +1,9 @@
 ---
-title: '… ǀ Andrey Lappo — … Portfolio'
-description: "…"
+title: 'OCR Workflow for Document Archives - Andrey Lappo Technical Writing Portfolio'
+description: "An anonymized translation of internal documentation created for Russian-speaking colleagues at an e-commerce company."
 ---
 
-[Andrеy Lapрo — … Portfolio](https://korb.github.io/qa-portfolio) / […](https://korb.github.io/qa-portfolio#featured-work) / […)](https://korb.github.io/qa-portfolio#pdf-xchange-pro-deep-dive)
+[Andrey Lappo - Technical Writing Portfolio](../../) / [Writing Samples](../../#writing-samples)
 
 <hr />
 

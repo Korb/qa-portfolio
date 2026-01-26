@@ -112,7 +112,7 @@ From SAR operations (literally life-critical) to managing 50,000+ product docume
 ### How to Submit a “Pull Request” (Job Offer)
 
 **Via LinkedIn** (preferred):
-[linkedin.com/in/gallem/](https://www.linkedin.com/in/gallem/)
+[linkedin.com/in/gallem/](https://linkedin.com/in/gallem/)
 
 **Via Email**:
 Available on LinkedIn profile
@@ -195,7 +195,7 @@ Viewing this repository, learning from the case studies, and getting inspired fo
 
 Want to contribute to this portfolio? **Hire me.**
 
-Best way to reach me: **[LinkedIn](https://www.linkedin.com/in/gallem/)** (DMs open) or email (listed there).
+Best way to reach me: **[LinkedIn](https://linkedin.com/in/gallem/)** (DMs open) or email (listed there).
 
 Looking forward to adding your company to the “Professional Background” section.
 

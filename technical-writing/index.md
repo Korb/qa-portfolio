@@ -1,23 +1,23 @@
 ---
-title: "Technical Writing Portfolio | Andrey Lappo"
-description: ""
+title: "Andrey Lappo - Technical Writing Portfolio"
+description: "A technical documentation created for real-world projects, including process workflows and technical guides developed for a 50,000+ b2b product."
 ---
 
 # Andrey Lappo — Technical Writing Portfolio
 
-**...** | **...** | **...**
+**Process Documentation** | **Technical Guides** | **Documentation QA**
 
-...
+Technical Writer with QA background — created 60+ internal documentation pieces and improved documentation across 380+ open-source projects. Specialized in process workflows, technical guides, and documentation that matches actual product behavior. My QA experience ensures documentation is tested for clarity, accuracy, and user comprehension.
 
-**LinkedIn**: [Gallem](https://www.linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (~~Open to relocation: EU, North America, South America~~)
+**LinkedIn**: [Gallem](https://linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (~~Open to relocation: EU, North America, South America~~)
 
 <hr />
 
 ## Table of Contents
-- [Overview]()
-- [Writing Samples]()
-- [Documentation Improvements (Open Source)]()
-- [Documentation QA (PDF-XChange)]()
+- [Overview](#overview)
+- [Writing Samples](#writing-samples)
+- [Documentation Improvements (Open Source)](#documentation-improvements-open-source)
+- [Documentation QA (PDF-XChange)](#documentation-qa-pdf-xchange)
 - [Professional Background](#professional-background)
 - [Contact](#contact)
 

@@ -163,7 +163,7 @@ If you've read this far, you probably either:
 
 Whichever category you're in, I appreciate you being here.
 
-And if you're thinking “this person would fit our team”—you know where to find me on [LinkedIn](https://www.linkedin.com/in/gallem/).
+And if you're thinking “this person would fit our team”—you know where to find me on [LinkedIn](https://linkedin.com/in/gallem/).
 
 ---
 

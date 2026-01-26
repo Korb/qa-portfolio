@@ -1,9 +1,9 @@
 ---
-title: 'GitHub: Top 8 Cases ǀ Andrey Lappo — QA Engineer Portfolio'
-description: "Breadth: 380+ repositories tested, diverse projects"
+title: 'GitHub: Top 8 Issues Across Diverse Projects - Andrey Lappo QA Engineer Portfolio'
+description: "5+ years of continuous testing across 380+ open-source projects, filing 2,500+ issues."
 ---
 
-[Andrey Lаpрo — QA Engineer Portfolio](https://korb.github.io/qa-portfolio/) / [Featured Work](https://korb.github.io/qa-portfolio#featured-work) / [GitHub Open Source (2023-2025)](https://korb.github.io/qa-portfolio#github-open-source-breadth)
+[Andrey Lappo - QA Engineer Portfolio](../) / [Featured Work](../#featured-work) / [GitHub Open Source (2023-2025)](../#github-open-source-breadth)
 
 <hr />
 

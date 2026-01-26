@@ -55,7 +55,7 @@ Still here? Great. Fill out the template below.
 
 ## Important Reminders
 
-**For job opportunities**: This PR won't generate new portfolio content. Actual employment will. [Contact me on LinkedIn](https://www.linkedin.com/in/gallem/) instead.
+**For job opportunities**: This PR won't generate new portfolio content. Actual employment will. [Contact me on LinkedIn](https://linkedin.com/in/gallem/) instead.
 
 **For security issues**: If this PR addresses confidential data exposure, thank you for handling it responsibly.
 

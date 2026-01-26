@@ -72,8 +72,8 @@ But “security” in the context of a professional portfolio means something di
 ### For Actual Sensitive Data (High Priority)
 
 **Contact me directly:**
-- **LinkedIn**: [https://www.linkedin.com/in/gallem/](https://www.linkedin.com/in/gallem/) (DM)
-- **Email**: Available on LinkedIn profile
+- **LinkedIn:** [https://linkedin.com/in/gallem/](https://linkedin.com/in/gallem/) (DM)
+- **Email:** available on LinkedIn
 
 **Please include:**
 - Link to the specific file/line/section

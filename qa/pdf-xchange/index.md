@@ -1,9 +1,9 @@
 ---
-title: 'PDF-XChange: Top 10 Cases | QA Portfolio'
-description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementations"
+title: 'PDF-XChange Pro: Top 10 Implemented Improvements - Andrey Lappo QA Engineer Portfolio'
+description: "4+ years testing enterprise PDF software, 79 implementations."
 ---
 
-[Andrеy Lapрo — QA Engineer Portfolio](https://korb.github.io/qa-portfolio) / [Featured Work](https://korb.github.io/qa-portfolio#featured-work) / [PDF-XChange Pro (Deep Dive)](https://korb.github.io/qa-portfolio#pdf-xchange-pro-deep-dive)
+[Andrey Lappo - QA Engineer Portfolio](../) / [Featured Work](../#featured-work) / [PDF-XChange Pro (Deep Dive)](../#pdf-xchange-pro-deep-dive)
 
 <hr />
 

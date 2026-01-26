@@ -1,4 +1,4 @@
-# License
+# Creative Commons Attribution 4.0 International License
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
@@ -44,7 +44,7 @@ This repository exists in the spirit of open source: transparency, knowledge sha
 If you found this portfolio helpful and want to contribute back, consider:
 - Fixing typos or broken links (open a PR)
 - Sharing your own QA case studies publicly
-- [Hiring me](https://www.linkedin.com/in/gallem/) (the best form of contribution)
+- [Hiring me](https://linkedin.com/in/gallem/) (the best form of contribution)
 
 ---
 

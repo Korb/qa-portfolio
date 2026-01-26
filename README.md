@@ -1,8 +1,12 @@
+---
+layout: default
+title: "Andrey Lappo — QA Engineer & Technical Writer"
+description: "Portfolio: 2,500+ issues filed in QA | 60+ technical documentation pieces created."
+---
+
 # Andrey Lappo — Portfolio
 
 **This repository hosts my professional portfolio as a QA Engineer and Technical Writer.**
-
-**View portfolio website:** [korb.github.io/qa-portfolio](https://korb.github.io/qa-portfolio/)
 
 ---
 
@@ -26,8 +30,8 @@ For detailed information, visit the [portfolio website](https://korb.github.io/q
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/gallem](https://www.linkedin.com/in/gallem/)
-- **Email:** Available on LinkedIn
+- **LinkedIn:** [linkedin.com/in/gallem](https://linkedin.com/in/gallem/)
+- **Email:** available on LinkedIn
 
 ---
 

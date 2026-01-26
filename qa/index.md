@@ -1,6 +1,6 @@
 ---
-title: "QA Engineer Portfolio | Andrey Lappo"
-description: ""
+title: "Andrey Lappo - QA Engineer Portfolio"
+description: "5+ years of continuous testing across 380+ FOSS-projects, filing 2,500+ issues; experience with enterprise PDF software and Telegram."
 ---
 
 # Andrey Lappo — QA Engineer Portfolio
@@ -9,7 +9,7 @@ description: ""
 
 Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-source projects, filing **2,500+ issues**; experience with enterprise PDF software and Telegram. Specialized in exploratory testing, usability analysis, and finding edge cases that break real-world workflows.
 
-**LinkedIn**: [Gallem](https://www.linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (~~Open to relocation: EU, North America, South America~~)
+**LinkedIn**: [Gallem](https://linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (~~Open to relocation: EU, North America, South America~~)
 
 <hr />
 
@@ -526,7 +526,7 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 
 **Links**:
 - **Professional**
-  - LinkedIn: [Andreу Laрpo](https://www.linkedin.com/in/gallem/)
+  - LinkedIn: [Andreу Laрpo](https://linkedin.com/in/gallem/)
   - GitHub: [@Korb](https://github.com/Korb)
 - **Additional Repositories**
   - GitLab: [@Nia_Ward](https://gitlab.com/Nia_Ward)
