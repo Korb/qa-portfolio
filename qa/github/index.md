@@ -10,6 +10,7 @@ description: "5+ years of continuous testing across 380+ open-source projects, f
 # GitHub: Top 8 Issues Across Diverse Projects
 
 ## Table of Contents
+
 - [1. Critical: CPU Compatibility Issue in Spectral](#1-critical-cpu-compatibility-issue-in-spectral)
 - [2. Critical: Crash in RetroArch with Malformed ISOs](#2-critical-crash-in-retroarch-with-malformed-isos)
 - [3. Data Loss Prevention in HomeMedkit](#3-data-loss-prevention-in-homemedkit)

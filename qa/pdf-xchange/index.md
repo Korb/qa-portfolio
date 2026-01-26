@@ -10,6 +10,7 @@ description: "4+ years testing enterprise PDF software, 79 implementations."
 # PDF-XChange Pro: Top 10 Implemented Improvements
 
 ## Table of Contents
+
 - [1. Critical: Search Process Hangs for Hours](#1-critical-search-process-hangs-for-hours)
 - [2. Major Efficiency: Auto-Remove Hyphenations on Export](#2-major-efficiency-auto-remove-hyphenations-on-export)
 - [3. Complex: “Crawling” Selection Area Bug](#3-complex-crawling-selection-area-bug)
@@ -24,6 +25,7 @@ description: "4+ years testing enterprise PDF software, 79 implementations."
 ---
 
 ## 1. Critical: Search Process Hangs for Hours
+
 **Project/Link**: PDF-XChange Editor / [Searching among documents hangs](https://forum.pdf-xchange.com/viewtopic.php?t=43104)
 
 **Type**: Performance/Stability

@@ -36,6 +36,7 @@ For detailed information, visit the [portfolio website](https://korb.github.io/q
 ---
 
 ## Repository Structure
+
 ```
 qa/                         # QA Engineer portfolio pages
 technical-writing/          # Technical Writing portfolio pages

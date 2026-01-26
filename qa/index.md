@@ -14,6 +14,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 <hr />
 
 ## Table of Contents
+
 - [Testing Expertise](#testing-expertise)
 - [Featured Work](#featured-work)
   - [PDF-XChange Pro (Deep Dive)](#pdf-xchange-pro-deep-dive)
@@ -43,6 +44,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 ## Featured Work
 
 ### PDF-XChange Pro (Deep Dive)
+
 *4+ years testing enterprise PDF software, Adobe Acrobat's strongest competitor*
 
 **Statistics**:
@@ -101,6 +103,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
     - *Skills*: Cross-feature testing, user expectations
 
 #### Skills Demonstrated
+
 - Long-term product engagement (4+ years)
 - Batch processing & workflow testing
 - Legacy format handling, encoding issues
@@ -117,6 +120,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 <hr />
 
 ### Telegram Messenger (Community Impact)
+
 *5+ years, mass-market messaging app (400M+ users)*
 
 **Platform**: [bugs.telegram.org](https://bugs.telegram.org) — community suggestion platform with voting system
@@ -226,6 +230,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - **Workflow**: Reduced steps for cleaning task
 
 #### Top-10 by Community Votes
+
 *These suggestions received up to 90 votes, demonstrating understanding of widely-felt pain points*
 
 **1. Drag & Drop Chats to Folders** ([#1208](https://bugs.telegram.org/c/1208)) — **90+ votes**
@@ -352,6 +357,7 @@ hr />
 <table><tr><td><a href="github">→ See detailed case studies</a></td></tr></table>
 
 #### Summary Statistics
+
 - **Total GitHub Contributions**: 1,191 (380 repos in 2024-2025 alone)
 - **Types**: Crash bugs, UI/UX issues, localization, documentation, compatibility
 - **Platforms**: Desktop (Windows), Mobile (Android), Web, Browser Extensions
@@ -445,11 +451,13 @@ hr />
 Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 
 ### Confirmed Bugs Awaiting Fix
+
 1. **[Replace All Bug](https://forum.pdf-xchange.com/viewtopic.php?t=48533)**: First search result deleted — confirmed for next release
 2. **[Two Pages Mode Selection](https://forum.pdf-xchange.com/viewtopic.php?t=48541)**: Cannot select images across pages — investigating reproducibility
 3. **[OEM-855 Encoding](https://forum.pdf-xchange.com/viewtopic.php?t=48520)**: Legacy encoding not recognized — in queue
 
 ### Accessibility Issues Under Investigation
+
 4. **[Dialog Focus](https://forum.pdf-xchange.com/viewtopic.php?t=48547)**: Save dialog appears without focus (keyboard navigation broken)
 5. **[Context Menu Focus](https://forum.pdf-xchange.com/viewtopic.php?t=45231)**: Menu appears but items not keyboard-accessible
 
@@ -458,6 +466,7 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 ## Professional Background
 
 ### Content Manager (2021-2024)
+
 *Medical equipment e-commerce platform*
 
 **Key Achievements**:
@@ -473,6 +482,7 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 **Skills**: Technical documentation, content management, batch processing testing, workflow design
 
 ### Search & Rescue Service (2011-2019)
+
 *Municipal lifeguard, 8+ years*
 
 **Certifications**: Professional Diver (Grade 5), Industrial Climber, First Aid, Wilderness First Responder
@@ -482,6 +492,7 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 *Relevant to QA: Real-world testing under pressure, attention to detail in life-safety scenarios, field testing experience*
 
 ### Technical Proofreader (2009-2011)
+
 *Technical documentation for military equipment*
 
 - Proofread 800+ standard pages monthly of Russian-English-Spanish technical documentation
