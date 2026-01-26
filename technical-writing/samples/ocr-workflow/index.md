@@ -20,7 +20,7 @@ description: "An anonymized translation of internal documentation created for Ru
 This workflow handles OCR (Optical Character Recognition) for PDFs in a large documentation archive. Three types of documents need different approaches:  
 
 1. Already searchable PDFs > nothing to do  
-1. [Scanned images](./digitization-workflow.md) > standard OCR  
+1. [Scanned images](./digitization-workflow/) > standard OCR  
 1. PDFs with *text in curves* > special handling required  
 
 The third type is the tricky one. Print-ready PDFs often convert text to vector curves so fonts print consistently. These files look like they have text, but it's actually vector graphics. You can't OCR them until you convert the vectors back to images.  
