@@ -7,7 +7,7 @@ description: "Breadth: 380+ repositories tested, diverse projects"
 
 <hr />
 
-# Top 8 Issues Across Diverse Projects
+# GitHub: Top 8 Issues Across Diverse Projects
 
 ## Table of Contents
 - [1. Critical: CPU Compatibility Issue in Spectral](#1-critical-cpu-compatibility-issue-in-spectral)

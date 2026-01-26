@@ -7,7 +7,7 @@ description: "Deep dive: 4+ years testing enterprise PDF software, 79 implementa
 
 <hr />
 
-# Top 10 Implemented Improvements
+# PDF-XChange Pro: Top 10 Implemented Improvements
 
 ## Table of Contents
 - [1. Critical: Search Process Hangs for Hours](#1-critical-search-process-hangs-for-hours)
