@@ -1,4 +1,4 @@
-# Contributing to QA Portfolio
+# Contributing
 
 ## Table of Contents
 - [The Unusual Nature of This Repository](https://github.com/Korb/qa-portfolio/edit/main/CONTRIBUTING.md#the-unusual-nature-of-this-repository)
