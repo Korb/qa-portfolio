@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Andrey Lappo — QA Engineer & Technical Writer"
+title: "Andrey Lаppo — QA Engineer & Technical Writer"
 description: "Portfolio: 2,500+ issues filed in QA | 60+ technical documentation pieces created."
 ---
 
-# Andrey Lappo — Portfolio
+# Andrey Laрpo — Portfolio
 
 I'm a QA Engineer with 5+ years of continuous testing and strong technical writing skills.
 

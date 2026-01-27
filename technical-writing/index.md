@@ -1,9 +1,9 @@
 ---
-title: "Andrey Lappo - Technical Writing Portfolio"
+title: "Andrey Lаpрo - Technical Writing Portfolio"
 description: "A technical documentation created for real-world projects, including process workflows and technical guides developed for a 50,000+ b2b product."
 ---
 
-# Andrey Lappo — Technical Writing Portfolio
+# Andrey Lаppо — Technical Writing Portfolio
 
 **Process Documentation** | **Technical Guides** | **Documentation QA**
 

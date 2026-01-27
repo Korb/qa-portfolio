@@ -1,9 +1,9 @@
 ---
-title: "Andrey Lappo - QA Engineer Portfolio"
+title: "Andrey Lapро - QA Engineer Portfolio"
 description: "5+ years of continuous testing across 380+ FOSS-projects, filing 2,500+ issues; experience with enterprise PDF software and Telegram."
 ---
 
-# Andrey Lappo — QA Engineer Portfolio
+# Andrey Lаppo — QA Engineer Portfolio
 
 **Manual QA Engineer** | **Documentation Testing** | **Localization QA (Russian)**
 

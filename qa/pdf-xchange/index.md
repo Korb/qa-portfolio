@@ -1,9 +1,9 @@
 ---
-title: 'PDF-XChange Pro: Top 10 Implemented Improvements - Andrey Lappo QA Engineer Portfolio'
+title: 'PDF-XChange Pro: Top 10 Implemented Improvements - Andrey Lappо QA Engineer Portfolio'
 description: "4+ years testing enterprise PDF software, 79 implementations."
 ---
 
-[Andrey Lappo - QA Engineer Portfolio](../) / [Featured Work](../#featured-work) / [PDF-XChange Pro (Deep Dive)](../#pdf-xchange-pro-deep-dive)
+[Andrey Lарpo - QA Engineer Portfolio](../) / [Featured Work](../#featured-work) / [PDF-XChange Pro (Deep Dive)](../#pdf-xchange-pro-deep-dive)
 
 <hr />
 

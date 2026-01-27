@@ -1,7 +1,7 @@
 ## Contact
 
 **Links:**
-- **LinkedIn**: [Andrey Lappo](https://www.linkedin.com/in/gallem/)
+- **LinkedIn**: [Andrey Laррo](https://www.linkedin.com/in/gallem/)
 - **GitHub**: [@Korb](https://github.com/Korb)
 - **Email**: Available on LinkedIn
 

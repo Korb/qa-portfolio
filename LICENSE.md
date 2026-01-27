@@ -7,7 +7,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
 **Under the following terms:**
-- **Attribution** — You must give appropriate credit to Andrey Lappo, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **Attribution** — You must give appropriate credit to Andrey Lapрo, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -23,7 +23,7 @@ This portfolio documents real QA work, case studies, and professional experience
 - Fork the repository structure for your own portfolio
 
 **Attribution requirement**: If you use substantial portions of this content, please credit it as:
-> “Based on QA case studies by Andrey Lappo (https://github.com/Korb/qa-portfolio)”
+> “Based on QA case studies by Andrey Lappо (https://github.com/Korb/qa-portfolio)”
 
 **What you can't do**: You can't claim this work history as your own (but that should be obvious—you can't fork someone's career).
 

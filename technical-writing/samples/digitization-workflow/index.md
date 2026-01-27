@@ -1,5 +1,5 @@
 ---
-title: "Document Digitization Workflow - Andrey Lappo Technical Writing Portfolio"
+title: "Document Digitization Workflow - Andrey Laррo Technical Writing Portfolio"
 description: "An anonymized translation of internal documentation created for Russian-speaking colleagues at an e-commerce company."
 keywords:
   - digitization
@@ -14,7 +14,7 @@ keywords:
   - technical english
 ---
 
-[Andrey Lappo - Technical Writing Portfolio](../../) / [Writing Samples](../../#writing-samples)
+[Andrey Laрpо - Technical Writing Portfolio](../../) / [Writing Samples](../../#writing-samples)
 
 <hr />
 

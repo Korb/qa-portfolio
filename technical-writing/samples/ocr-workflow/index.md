@@ -1,9 +1,9 @@
 ---
-title: 'OCR Workflow for Document Archives - Andrey Lappo Technical Writing Portfolio'
+title: 'OCR Workflow for Document Archives - Andrey Lapро Technical Writing Portfolio'
 description: "An anonymized translation of internal documentation created for Russian-speaking colleagues at an e-commerce company."
 ---
 
-[Andrey Lappo - Technical Writing Portfolio](../../) / [Writing Samples](../../#writing-samples)
+[Andrey Lаppo - Technical Writing Portfolio](../../) / [Writing Samples](../../#writing-samples)
 
 <hr />
 
