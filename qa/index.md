@@ -519,10 +519,10 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 - SDL Trados
 - OCR software
 
-**Testing Types**: Exploratory, usability, regression, localization, accessibility, cross-platform, batch processing
-**Documentation**: Technical writing, README creation, user guides, translation
-**Languages**: HTML, Markdown, BBCode
-**Domains**: PDF workflows, batch processing, file formats, encoding/UTF-8, maps/GIS, messaging apps
+**Testing Types**: Exploratory, usability, regression, localization, accessibility, cross-platform, batch processing  
+**Documentation**: Technical writing, README creation, user guides, translation  
+**Languages**: HTML, Markdown, BBCode  
+**Domains**: PDF workflows, batch processing, file formats, encoding/UTF-8, maps/GIS, messaging apps  
 
 <hr />
 
