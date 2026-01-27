@@ -53,3 +53,9 @@ While primarily a QA Engineer, I have extensive technical writing experience…
 ---
 
 **Note:** I also have QA engineering experience. [View QA Portfolio →](../qa/)
+
+<div align="right">
+<table><td>
+<a href="#andrey-l%D0%B0pp%D0%BE--technical-writing-portfolio">↥ Scroll to Top</a>
+</td></table>
+</div>
