@@ -239,3 +239,9 @@ Rule of thumb: if you can't read it comfortably on screen at 100% zoom, OCR prob
 ---
 
 *This workflow was developed for processing mixed-format PDF documents including scans, vector PDFs, and print-ready files with outlined text. It's been tested on technical specifications, product catalogs, brochures, and multi-language documentation.*
+
+<div align="right">
+<table><td>
+<a href="#ocr-workflow-for-document-archives">↥ Scroll to Top</a>
+</td></table>
+</div>
