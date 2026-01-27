@@ -376,8 +376,9 @@ hr />
 </div>
 
 <hr />
-<br />
+
 ### GitHub Open Source (Breadth)
+
 *5+ years. Demonstrating breadth: testing across 380+ repositories in last 2 years*
 
 **Statistics**:
