@@ -191,3 +191,9 @@ After digitization is complete, follow [the OCR workflow](./ocr-workflow.md) to 
 ---  
 
 *This workflow was developed for processing product documentation items. It's been tested on catalogs, technical specifications, brochures, and mixed-format documents.*
+
+<div align="right">
+<table><td>
+<a href="#document-digitization-workflow">↥ Scroll to Top</a>
+</td></table>
+</div>
