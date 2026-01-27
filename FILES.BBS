@@ -1,8 +1,8 @@
 ".github" Templates for Issues and Pull requests. https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
-"_includes" Implementing data in the <head> of website web pages.
-"assets" Media.
-"qa" Text part of the QA portfolio.
-"technical-writing" Text part of the TW portfolio.
+"_includes" A Jekyll special folder. ("Don't Repeat Yourself" aka DRY principle.) https://jekyllrb.com/docs/includes/
+"assets" Screenshots and images.
+"qa" QA Engineer portfolio pages.
+"technical-writing" Technical Writing portfolio pages.
 "_config.yml" Jekyll primary configuration file.
 "android-chrome-192x192.png" Favicon 192 × 192 px.
 "android-chrome-512x512.png" Favicon 512 × 512 px.

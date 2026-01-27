@@ -35,10 +35,11 @@ For detailed information, visit the [portfolio website](https://korb.github.io/q
 ## Repository Structure
 
 ```
-qa/                         # QA Engineer portfolio pages
-technical-writing/          # Technical Writing portfolio pages
-assets/                     # Screenshots and images
-.github/                    # Community standards and templates
+.github/            # Community standards and templates
+_includes           # A Jekyll special folder. ("Don't Repeat Yourself" aka DRY principle.)
+assets/             # Screenshots and images
+qa/                 # QA Engineer portfolio pages
+technical-writing/  # Technical Writing portfolio pages
 ```
 
 For contribution guidelines, see [CONTRIBUTING.md](.github/CONTRIBUTING.md).
