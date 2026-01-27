@@ -1,6 +1,9 @@
 ---
 title: 'GitHub: Top 8 Issues Across Diverse Projects - Andrey Laрpo QA Engineer Portfolio'
 description: "5+ years of continuous testing across 380+ open-source projects, filing 2,500+ issues."
+redirect_from:
+  - /github
+  - /github/
 ---
 
 [Andrey Lapрo - QA Engineer Portfolio](../) / [Featured Work](../#featured-work) / [GitHub Open Source (Breadth)](../#github-open-source-breadth)
