@@ -538,6 +538,6 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 
 <div align="right">
 <table><td>
-<a href="#andrey-lappo--qa-engineer-portfolio">↥ Scroll to Top</a>
+<a href="#andrey-l%D0%B0ppo--qa-engineer-portfolio">↥ Scroll to Top</a>
 </td></table>
 </div>
