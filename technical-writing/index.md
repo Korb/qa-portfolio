@@ -1,6 +1,6 @@
 ---
 title: "Andrey Lаpрo - Technical Writing Portfolio"
-description: "A technical documentation created for real-world projects, including process workflows and technical guides developed for a 50,000+ b2b product."
+description: "A technical documentation created for real-world projects, including process workflows and technical guides developed for an e-commerce platform with over 50,000 products."
 ---
 
 # Andrey Lаppо — Technical Writing Portfolio
@@ -48,7 +48,7 @@ While primarily a QA Engineer, I have extensive technical writing experience…
 
 <hr />
 
-*This portfolio showcases technical documentation created for real-world projects, including process workflows and technical guides developed for a 50,000+ product e-commerce platform.*
+*This portfolio showcases technical documentation created for real-world projects, including process workflows and technical guides developed for an e-commerce platform with over 50,000 products.*
 
 ---
 
