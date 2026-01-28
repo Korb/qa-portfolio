@@ -34,7 +34,7 @@ For detailed information, visit the [portfolio website](https://korb.github.io/q
 
 ## Repository Structure
 
-```
+```markdown
 .github/            # Community standards and templates
 _includes           # A Jekyll special folder. ("Don't Repeat Yourself" aka DRY principle.)
 assets/             # Screenshots and images
