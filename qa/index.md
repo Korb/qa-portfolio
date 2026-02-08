@@ -503,29 +503,6 @@ Hundreds of issues on GitHub, GitLab, and Codeberg waiting for their turn.*
 
 {% include professional-background-qa.md %}
 
-<hr />
-
-## Technical Skills
-
-**Operating Systems**:
-
-- Windows (advanced)
-- Android
-
-**Tools**:
-
-- Excel/Google Sheets (advanced formulas)
-- Git/GitHub
-- SDL Trados
-- OCR software
-
-**Testing Types**: Exploratory, usability, regression, localization, accessibility, cross-platform, batch processing  
-**Documentation**: Technical writing, README creation, user guides, translation  
-**Languages**: HTML, Markdown, BBCode  
-**Domains**: PDF workflows, batch processing, file formats, encoding/UTF-8, maps/GIS, messaging apps  
-
-<hr />
-
 {% include contact.md %}
 
 <hr />
