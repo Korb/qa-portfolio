@@ -9,7 +9,7 @@ description: "A technical documentation created for real-world projects, includi
 
 Technical Writer with QA background — created 60+ internal documentation pieces and improved documentation across 380+ open-source projects. Specialized in process workflows, technical guides, and documentation that matches actual product behavior. My QA experience ensures documentation is tested for clarity, accuracy, and user comprehension.
 
-**LinkedIn**: [Gallem](https://linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (~~Open to relocation: EU, North America, South America~~)
+**LinkedIn**: [Gallem](https://linkedin.com/in/gallem/) | **GitHub**: [@Korb](https://github.com/Korb) | **Location**: St Petersburg, Russia (open to relocation)
 
 <hr />
 
