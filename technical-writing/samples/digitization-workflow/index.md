@@ -74,7 +74,7 @@ For auto-feed scanning, use Samsung Printer Experience or whatever scanner softw
 
 I've noticed that with **Автоподатчик: две стороны** (duplex auto-feed), the reverse side gets saved rotated 180°. Check your first scan and adjust if needed.  
 
-You can also use ABBYY FineReader OCR-редактор (**Файл** > **Сканировать страницы**) or the **Acquire images from scanner** tool in FastStone Image Viewer. FineReader won't save images separately unless you save the OCR project.  
+You can also use ABBYY FineReader OCR (**Файл** > **Сканировать страницы**) or the **Acquire images from scanner** tool in FastStone Image Viewer. FineReader won't save images separately unless you save the OCR project.  
 
 For flatbed scanning with Epson Scan: Enhanced with Epson Easy Photo Fix 3.9.2.1RU, the settings that work are:  
 
