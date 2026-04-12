@@ -38,6 +38,8 @@ While primarily a QA Engineer, I have extensive technical writing experience…
   - 380+ projects improved
   - Screenshots, consistency, accessibility
 
+Example: while taking the **SQL Academy course** (February 2026), I identified and documented seven issues with the course material: internal terminological inconsistencies between chapters, the use of syntactic constructions without prior explanation, and examples using undocumented syntax. Each issue includes precise references to the problematic section, an analysis of possible misinterpretations, and a specific correction proposal. The repository has since been frozen without merging the fixes. [My issues](https://github.com/SQL-Academy/ru.sql-academy/issues?q=is%3Aissue+author%3Akorb).
+
 ## Documentation QA (PDF-XChange)
 
   - 4+ years reporting documentation issues
