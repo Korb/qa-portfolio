@@ -24,6 +24,7 @@ Quality Assurance Engineer — 5+ years of continuous testing across 380+ open-s
 - [Open Source Advocacy](#open-source-advocacy)
 - [Work in Progress](#work-in-progress)
 - [Professional Background](#professional-background)
+- [Technical Skills](#technical-skills)
 - [Contact](#contact)
 
 ---
