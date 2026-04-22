@@ -20,6 +20,7 @@ Technical Writer with QA background — created 60+ internal documentation piece
 - [Documentation Improvements (Open Source)](#documentation-improvements-open-source)
 - [Documentation QA (PDF-XChange)](#documentation-qa-pdf-xchange)
 - [Professional Background](#professional-background)
+- [Technical Skills](#technical-skills)
 - [Contact](#contact)
 
 ---
