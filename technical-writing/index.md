@@ -15,13 +15,13 @@ Technical Writer with QA background — created 60+ internal documentation piece
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Writing Samples](#writing-samples)
-- [Documentation Improvements (Open Source)](#documentation-improvements-open-source)
-- [Documentation QA (PDF-XChange)](#documentation-qa-pdf-xchange)
-- [Professional Background](#professional-background)
-- [Technical Skills](#technical-skills)
-- [Contact](#contact)
+- [Overview](#overview)  
+- [Writing Samples](#writing-samples)  
+- [Documentation Improvements (Open Source)](#documentation-improvements-open-source)  
+- [Documentation QA (PDF-XChange)](#documentation-qa-pdf-xchange)  
+- [Professional Background](#professional-background)  
+- [Technical Skills](#technical-skills)  
+- [Contact](#contact)  
 
 ---
 
@@ -31,8 +31,9 @@ While primarily a QA Engineer, I have extensive technical writing experience…
 
 ## Writing Samples
 
-  - [Document Digitization Workflow](./samples/digitization-workflow/)
-  - [OCR Workflow for Document Archives](./samples/ocr-workflow/)
+  - [Document Digitization Workflow](./samples/digitization-workflow/)  
+  - [OCR Workflow for Document Archives](./samples/ocr-workflow/)  
+  - [Technical Translation](./samples/cnc-machining/)  
 
 ## Documentation Improvements (Open Source)
 
