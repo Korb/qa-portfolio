@@ -48,7 +48,7 @@ The source material was a machine translation from Chinese into English; the tas
 1. [The original document](../../../docs/technical-writing/cnc-machining/1-original.pdf) (PDF, ENG)  
 2. [Example of formatting](../../../docs/technical-writing/cnc-machining/2-template.pdf) (PDF, RUS)  
 3. [Completed translation](../../../docs/technical-writing/cnc-machining/3-result.pdf) (PDF, RUS)  
-4. [Explanatory note](../../../docs/technical-writing/cnc-machining/4-notes.pdf) (PDF, RUS)  
+4. [Cover note](../../../docs/technical-writing/cnc-machining/4-notes.pdf) (PDF, RUS)  
 
 <div align="right">
 <table><td>
